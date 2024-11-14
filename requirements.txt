@@ -1,0 +1,31 @@
+# Core libraries
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+
+# Machine learning and statistical modeling
+scikit-learn
+statsmodels
+pymc
+pmdarima
+tensorflow  # if deep learning models are used
+
+# Time series and financial analysis
+arch # for GARCH modeling
+prophet
+tsfresh
+
+# Flask for the backend API
+flask
+flask-cors
+
+# Jupyter and IPython for notebooks
+jupyter
+ipython
+
+# Additional libraries for the dashboard or interactive plots
+dash
+plotly
+streamlit
