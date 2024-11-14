@@ -12,6 +12,11 @@ from eda_analysis import (get_data_info, check_missing_values,
                              auto_partial_authocorrelation, lag_plotting,
                              simple_moving_average )
 
+from changing_point_analysis import (cusum_analysis, bayesian_change_point_detection, 
+                                     plot_change_point, detect_change_points, 
+                                     plot_detected_change_points,
+                                     plot_detected_changing_point_event)
+
 def main():
     # Load data
     file_path = '../data/BrentOilPrices.csv'  # Update the path as necessary
@@ -31,6 +36,21 @@ def main():
     auto_partial_authocorrelation(df)
     simple_moving_average(df)
     lag_plotting(df)
+
+    cusum_analysis(df)
+    bayesian_change_point_detection(df)
+    # Plotting the change point at a specific index
+    change_point_index = 4753  # Example change point index
+    plot_change_point(df, change_point_index)
+    
+    # Detecting change points using PELT method
+    change_points = detect_change_points(df)
+    
+    # Plotting the detected change points
+    plot_detected_change_points(df, change_points)
+
+    # Plotting detected change points along with events
+    plot_detected_changing_point_event(df, change_points)
 
 if __name__ == "__main__":
     main()
