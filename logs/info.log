@@ -32,3 +32,9 @@
 2024-11-15 08:26:25,442 - INFO - The date is converted into standard date format.
 2024-11-15 08:57:24,986 - INFO - Starting the oil price forcasing model.
 2024-11-15 08:57:25,514 - INFO - The date is converted into standard date format.
+2024-11-15 09:00:52,194 - INFO - Starting the oil price forcasing model.
+2024-11-15 09:00:52,731 - INFO - The date is converted into standard date format.
+2024-11-15 09:00:52,837 - INFO - Visulize full data as line plot.
+2024-11-15 09:00:53,835 - INFO - ARIMA model successfully trained.
+2024-11-15 09:01:29,993 - INFO - SARIMA model successfully trained.
+2024-11-15 09:02:30,409 - INFO - LSTM model successfully trained.
