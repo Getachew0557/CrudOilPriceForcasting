@@ -1,0 +1,5 @@
+outs:
+- md5: 111208771b4ce595df2c27a69909fd41
+  size: 114774
+  hash: md5
+  path: usd_eur_exchange_rates_alpha_vantage.csv

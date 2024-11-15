@@ -1,0 +1,5 @@
+outs:
+- md5: def03e0b9069193207cd3dfeb1fe7291
+  size: 1183
+  hash: md5
+  path: inflation_unemployment_data.csv
