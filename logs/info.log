@@ -9,3 +9,26 @@
 2024-11-15 01:22:21,988 - INFO - exchange rate macroeconomic indicater successfully downloaded
 2024-11-15 01:22:22,010 - INFO - Exchange rate macroeconomic indicater successfully saved
 2024-11-15 01:22:22,026 - INFO - macroeconomic indicater successfully loaded
+2024-11-15 02:21:57,710 - INFO - Starting the change point analysis notebook.
+2024-11-15 02:21:57,738 - INFO - Dataset loaded successfully.
+2024-11-15 02:21:58,629 - INFO - GDP macroeconomic indicater successfully downloaded
+2024-11-15 02:21:58,641 - INFO - GDP macroeconomic indicater successfully saved
+2024-11-15 02:21:58,661 - INFO - inflation and unemployment macroeconomic indicater successfully downloaded
+2024-11-15 02:21:58,671 - INFO - inflation and unemployment macroeconomic indicater successfully saved
+2024-11-15 02:21:59,777 - INFO - exchange rate macroeconomic indicater successfully downloaded
+2024-11-15 02:21:59,807 - INFO - Exchange rate macroeconomic indicater successfully saved
+2024-11-15 02:21:59,827 - INFO - macroeconomic indicater successfully loaded
+2024-11-15 02:43:05,217 - INFO - Starting the oil price forcasing model.
+2024-11-15 02:51:02,055 - INFO - The date is converted into standard date format.
+2024-11-15 03:08:11,852 - INFO - Starting the oil price forcasing model.
+2024-11-15 03:08:12,864 - INFO - The date is converted into standard date format.
+2024-11-15 03:11:37,846 - INFO - Starting the oil price forcasing model.
+2024-11-15 03:11:39,084 - INFO - The date is converted into standard date format.
+2024-11-15 03:14:04,249 - INFO - Starting the oil price forcasing model.
+2024-11-15 03:14:05,104 - INFO - The date is converted into standard date format.
+2024-11-15 03:26:46,968 - INFO - Starting the oil price forcasing model.
+2024-11-15 03:26:50,708 - INFO - The date is converted into standard date format.
+2024-11-15 08:26:22,038 - INFO - Starting the oil price forcasing model.
+2024-11-15 08:26:25,442 - INFO - The date is converted into standard date format.
+2024-11-15 08:57:24,986 - INFO - Starting the oil price forcasing model.
+2024-11-15 08:57:25,514 - INFO - The date is converted into standard date format.
