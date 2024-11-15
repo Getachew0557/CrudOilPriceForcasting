@@ -1,0 +1,5 @@
+outs:
+- md5: b06702e363772c117c85b844987c5aef
+  size: 116780
+  hash: md5
+  path: usd_eur_exchange_rate_fred.csv

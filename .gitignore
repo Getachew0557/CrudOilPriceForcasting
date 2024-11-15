@@ -1,4 +1,6 @@
 myenv
 base
-data
+data/*.csv
 .venv
+
+!data/*.dvc
