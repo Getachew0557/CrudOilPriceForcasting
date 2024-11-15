@@ -1,0 +1,11 @@
+2024-11-15 01:15:07,723 - INFO - Starting the change point analysis notebook.
+2024-11-15 01:17:03,348 - INFO - Dataset loaded successfully.
+2024-11-15 01:22:20,079 - INFO - Starting the change point analysis notebook.
+2024-11-15 01:22:20,109 - INFO - Dataset loaded successfully.
+2024-11-15 01:22:20,153 - INFO - GDP macroeconomic indicater successfully downloaded
+2024-11-15 01:22:20,163 - INFO - GDP macroeconomic indicater successfully saved
+2024-11-15 01:22:20,190 - INFO - inflation and unemployment macroeconomic indicater successfully downloaded
+2024-11-15 01:22:20,201 - INFO - inflation and unemployment macroeconomic indicater successfully saved
+2024-11-15 01:22:21,988 - INFO - exchange rate macroeconomic indicater successfully downloaded
+2024-11-15 01:22:22,010 - INFO - Exchange rate macroeconomic indicater successfully saved
+2024-11-15 01:22:22,026 - INFO - macroeconomic indicater successfully loaded
