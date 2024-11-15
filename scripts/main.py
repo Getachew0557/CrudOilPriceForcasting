@@ -17,10 +17,15 @@ from changing_point_analysis import (cusum_analysis, bayesian_change_point_detec
                                      plot_detected_change_points,
                                      plot_detected_changing_point_event)
 
+from economic_oil_price_factor import load_data as load_economic_data, merge_datasets, plot_economic_factors
+
 def main():
     # Load data
-    file_path = '../data/BrentOilPrices.csv'  # Update the path as necessary
-    df = load_data(file_path)
+    brent_oil_prices_path = '../data/BrentOilPrices.csv'
+    inflation_path = '../data/inflation_unemployment_data.csv'
+    exchange_rate_fred_path = '../data/usd_eur_exchange_rate_fred.csv'
+    exchange_rate_vintage_path = '../data/usd_eur_exchange_rates_alpha_vantage.csv'
+    df = load_data(brent_oil_prices_path)
 
     # Perform EDA
     get_data_info(df)
@@ -51,6 +56,18 @@ def main():
 
     # Plotting detected change points along with events
     plot_detected_changing_point_event(df, change_points)
+        
+    # Load datasets
+    brent_oil_prices = load_economic_data(brent_oil_prices_path, 'Date')
+    inflation_data = load_economic_data(inflation_path, 'date')
+    exchange_rate_fred = load_economic_data(exchange_rate_fred_path, 'DATE')
+    exchange_rate_vintage = load_economic_data(exchange_rate_vintage_path, 'Unnamed: 0')
+
+    # Merge datasets
+    merged_data = merge_datasets(brent_oil_prices, inflation_data, exchange_rate_fred, exchange_rate_vintage)
+
+    # Plot economic factors
+    plot_economic_factors(merged_data)
 
 if __name__ == "__main__":
     main()
