@@ -1,0 +1,23 @@
+.container {
+    max-width: 1200px;
+  }
+  
+  .card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-header {
+    background-color: #f7f7f7;
+    font-weight: bold;
+  }
+  
+  .table {
+    margin-top: 10px;
+  }
+  
+  .scrollable-table-container {
+    max-height: 300px; /* Set max height for scrolling */
+    overflow: auto;    /* Enable both horizontal and vertical scrolling */
+    margin: 0 auto;    /* Center the container */
+  }
+  

@@ -1,0 +1,2598 @@
+Date,Event,Actual,Forecast,Previous
+jan03.2007,US ISM Manufacturing PMI,51.4,51.0,49.5
+jan04.2007,US Factory Orders m/m,0.9%,1.5%,-4.5%
+jan04.2007,US ISM Services PMI,57.1,58.0,58.9
+jan04.2007,US Crude Oil Inventories,-1.3M,-2.0M,-8.1M
+jan04.2007,US Distillate Inventories,2.0M,0.9M,0.5M
+jan04.2007,US Gasoline Inventories,5.7M,1.5M,2.9M
+jan05.2007,EZ Consumer Confidence,-6,-7,-7
+jan05.2007,CA Employment Change,62.0K,17.0K,22.0K
+jan05.2007,CA Unemployment Rate,6.1%,6.3%,6.3%
+jan05.2007,US Average Hourly Earnings m/m,0.5%,0.3%,0.3%
+jan05.2007,US Non-Farm Employment Change,167K,115K,132K
+jan05.2007,US Unemployment Rate,4.5%,4.5%,4.5%
+jan05.2007,US Natural Gas Storage,-47B,-60B,-46B
+jan10.2007,US Trade Balance,-58.2B,-60.0B,-58.9B
+jan10.2007,US Crude Oil Inventories,-5.0M,-1.5M,-1.3M
+jan10.2007,US Distillate Inventories,5.4M,2.0M,2.0M
+jan10.2007,US Gasoline Inventories,3.8M,2.5M,5.7M
+jan11.2007,US Natural Gas Storage,-49B,-45B,-47B
+jan12.2007,US Retail Sales m/m,0.9%,0.6%,1.0%
+jan17.2007,US Capacity Utilization Rate,81.8%,81.8%,81.6%
+jan17.2007,US Industrial Production m/m,0.4%,0.1%,-0.1%
+jan18.2007,US Core CPI m/m,0.2%,0.2%,0.0%
+jan18.2007,US CPI m/m,0.5%,0.5%,0.0%
+jan18.2007,US Crude Oil Inventories,6.8M,0.1M,-5.0M
+jan18.2007,US Distillate Inventories,0.9M,1.4M,5.4M
+jan18.2007,US Gasoline Inventories,3.5M,2.5M,3.8M
+jan18.2007,US Natural Gas Storage,-89B,-79B,-49B
+jan24.2007,US Crude Oil Inventories,0.7M,1.3M,6.8M
+jan24.2007,US Distillate Inventories,0.8M,-0.3M,0.9M
+jan24.2007,US Gasoline Inventories,4.0M,1.5M,3.5M
+jan25.2007,US Natural Gas Storage,-179B,-174B,-89B
+jan31.2007,EZ Consumer Confidence,-7,-6,-6
+jan31.2007,US Advance GDP q/q,3.5%,3.0%,2.0%
+jan31.2007,US Crude Oil Inventories,2.7M,1.4M,0.7M
+jan31.2007,US Distillate Inventories,-2.6M,-2.1M,0.8M
+jan31.2007,US Gasoline Inventories,3.8M,1.8M,4.0M
+feb01.2007,US ISM Manufacturing PMI,49.3,51.6,51.4
+feb01.2007,US Natural Gas Storage,-186B,-201B,-179B
+feb02.2007,US Average Hourly Earnings m/m,0.2%,0.4%,0.4%
+feb02.2007,US Non-Farm Employment Change,111K,146K,206K
+feb02.2007,US Unemployment Rate,4.6%,4.5%,4.5%
+feb02.2007,US Factory Orders m/m,2.4%,1.6%,1.2%
+feb05.2007,US ISM Services PMI,59.0,56.8,57.1
+feb07.2007,US Crude Oil Inventories,-0.4M,2.0M,2.7M
+feb07.2007,US Distillate Inventories,-3.6M,-3.0M,-2.6M
+feb07.2007,US Gasoline Inventories,2.6M,1.6M,3.8M
+feb08.2007,US Natural Gas Storage,-224B,-219B,-186B
+feb09.2007,CA Employment Change,89.0K,25.0K,62.0K
+feb09.2007,CA Unemployment Rate,6.2%,6.1%,6.1%
+feb13.2007,US Trade Balance,-61.2B,-59.5B,-58.1B
+feb14.2007,US Retail Sales m/m,0.0%,0.3%,1.2%
+feb14.2007,US Crude Oil Inventories,-0.6M,1.0M,-0.4M
+feb14.2007,US Distillate Inventories,-3.0M,-4.0M,-3.6M
+feb14.2007,US Gasoline Inventories,-2.1M,2.0M,2.6M
+feb15.2007,US Capacity Utilization Rate,81.2%,81.8%,81.8%
+feb15.2007,US Industrial Production m/m,-0.5%,0.0%,0.5%
+feb15.2007,US Natural Gas Storage,-259B,-254B,-224B
+feb21.2007,US Core CPI m/m,0.3%,0.2%,0.2%
+feb21.2007,US CPI m/m,0.2%,0.2%,0.5%
+feb22.2007,US Crude Oil Inventories,3.7M,1.0M,-0.6M
+feb22.2007,US Distillate Inventories,-5.0M,-2.8M,-3.0M
+feb22.2007,US Gasoline Inventories,-3.0M,0.0M,-2.1M
+feb22.2007,US Natural Gas Storage,-223B,-225B,-259B
+feb28.2007,EZ Consumer Confidence,-5,-6,-7
+feb28.2007,US Crude Oil Inventories,1.4M,2.1M,3.7M
+feb28.2007,US Distillate Inventories,-3.8M,-2.6M,-5.0M
+feb28.2007,US Gasoline Inventories,-1.9M,-1.5M,-3.0M
+mar01.2007,US Natural Gas Storage,-132B,-142B,-223B
+mar01.2007,US ISM Manufacturing PMI,52.3,50.0,49.3
+mar05.2007,US ISM Services PMI,54.3,57.2,59.0
+mar06.2007,US Factory Orders m/m,-5.6%,-4.3%,2.6%
+mar07.2007,US Crude Oil Inventories,-4.8M,1.8M,1.4M
+mar07.2007,US Distillate Inventories,-1.3M,-2.8M,-3.8M
+mar07.2007,US Gasoline Inventories,-3.8M,-1.5M,-1.9M
+mar08.2007,US Natural Gas Storage,-102B,-100B,-132B
+mar09.2007,CA Employment Change,14.0K,8.0K,89.0K
+mar09.2007,CA Unemployment Rate,6.1%,6.2%,6.2%
+mar09.2007,US Average Hourly Earnings m/m,0.4%,0.3%,0.2%
+mar09.2007,US Non-Farm Employment Change,97K,100K,146K
+mar09.2007,US Trade Balance,-59.1B,-59.5B,-61.5B
+mar09.2007,US Unemployment Rate,4.5%,4.6%,4.6%
+mar13.2007,US Retail Sales m/m,0.1%,0.3%,0.0%
+mar14.2007,US Crude Oil Inventories,1.1M,2.0M,-4.8M
+mar14.2007,US Distillate Inventories,-2.7M,-2.1M,-1.3M
+mar14.2007,US Gasoline Inventories,-2.5M,-2.4M,-3.8M
+mar15.2007,US Natural Gas Storage,-115B,-118B,-102B
+mar16.2007,US Core CPI m/m,0.2%,0.2%,0.3%
+mar16.2007,US CPI m/m,0.4%,0.3%,0.2%
+mar16.2007,US Capacity Utilization Rate,82.0%,81.3%,81.4%
+mar16.2007,US Industrial Production m/m,1.0%,0.3%,-0.3%
+mar21.2007,US Crude Oil Inventories,3.9M,1.0M,1.1M
+mar21.2007,US Distillate Inventories,-1.7M,-1.5M,-2.7M
+mar21.2007,US Gasoline Inventories,-3.5M,-2.0M,-2.5M
+mar22.2007,US Natural Gas Storage,17B,-1B,-115B
+mar28.2007,US Crude Oil Inventories,-0.8M,2.1M,3.9M
+mar28.2007,US Distillate Inventories,-0.7M,-1.6M,-1.7M
+mar28.2007,US Gasoline Inventories,-0.3M,-2.1M,-3.5M
+mar29.2007,US Natural Gas Storage,-22B,-18B,17B
+mar30.2007,EZ Consumer Confidence,-4,-5,-5
+apr02.2007,US ISM Manufacturing PMI,50.9,51.3,52.3
+apr04.2007,US Factory Orders m/m,1.0%,1.9%,-5.7%
+apr04.2007,US ISM Services PMI,52.4,54.8,54.3
+apr04.2007,US Crude Oil Inventories,4.3M,0.5M,-0.8M
+apr04.2007,US Distillate Inventories,-0.1M,-1.0M,-0.7M
+apr04.2007,US Gasoline Inventories,5.0M,-0.2M,-0.3M
+apr05.2007,CA Employment Change,54.9K,12.0K,14.2K
+apr05.2007,CA Unemployment Rate,6.1%,6.1%,6.1%
+apr05.2007,US Natural Gas Storage,58B,54B,-22B
+apr06.2007,US Average Hourly Earnings m/m,0.3%,0.3%,0.4%
+apr06.2007,US Non-Farm Employment Change,180K,135K,113K
+apr06.2007,US Unemployment Rate,4.4%,4.6%,4.5%
+apr11.2007,US Crude Oil Inventories,0.7M,1.7M,4.3M
+apr11.2007,US Distillate Inventories,0.2M,-0.9M,-0.1M
+apr11.2007,US Gasoline Inventories,-5.5M,-1.4M,5.0M
+apr12.2007,US Natural Gas Storage,23B,18B,58B
+apr13.2007,US Trade Balance,-58.4B,-60.2B,-58.9B
+apr16.2007,US Retail Sales m/m,0.7%,0.4%,0.5%
+apr17.2007,US Core CPI m/m,0.1%,0.2%,0.2%
+apr17.2007,US CPI m/m,0.6%,0.6%,0.4%
+apr17.2007,US Capacity Utilization Rate,81.4%,82.0%,81.6%
+apr17.2007,US Industrial Production m/m,-0.2%,0.2%,0.8%
+apr18.2007,US Crude Oil Inventories,-1.0M,0.7M,0.7M
+apr18.2007,US Distillate Inventories,-0.8M,-0.9M,0.2M
+apr18.2007,US Gasoline Inventories,-2.7M,-1.9M,-5.5M
+apr19.2007,US Natural Gas Storage,-46B,-48B,23B
+apr25.2007,US Crude Oil Inventories,2.1M,-1.5M,-1.0M
+apr25.2007,US Distillate Inventories,0.0M,0.5M,-0.8M
+apr25.2007,US Gasoline Inventories,-2.8M,-0.5M,-2.7M
+apr26.2007,US Natural Gas Storage,18B,18B,-46B
+apr27.2007,US Advance GDP q/q,1.3%,1.9%,2.5%
+apr30.2007,EZ Consumer Confidence,-4,-4,-4
+may01.2007,US ISM Manufacturing PMI,54.7,51.0,50.9
+may02.2007,US Factory Orders m/m,3.1%,1.8%,1.4%
+may02.2007,US Crude Oil Inventories,1.2M,1.5M,2.1M
+may02.2007,US Distillate Inventories,-0.2M,0.3M,0.0M
+may02.2007,US Gasoline Inventories,-1.1M,-1.3M,-2.8M
+may03.2007,US ISM Services PMI,56.0,53.2,52.4
+may03.2007,US Natural Gas Storage,87B,81B,18B
+may04.2007,US Average Hourly Earnings m/m,0.2%,0.3%,0.3%
+may04.2007,US Non-Farm Employment Change,88K,107K,177K
+may04.2007,US Unemployment Rate,4.5%,4.5%,4.4%
+may09.2007,US Crude Oil Inventories,5.5M,0.9M,1.2M
+may09.2007,US Distillate Inventories,1.6M,0.5M,-0.2M
+may09.2007,US Gasoline Inventories,0.4M,0.2M,-1.1M
+may10.2007,US Trade Balance,-63.9B,-60.0B,-57.9B
+may10.2007,US Natural Gas Storage,96B,96B,87B
+may11.2007,CA Employment Change,-5.2K,18.5K,54.9K
+may11.2007,CA Unemployment Rate,6.1%,6.1%,6.1%
+may11.2007,US Retail Sales m/m,-0.2%,0.4%,1.0%
+may15.2007,US Core CPI m/m,0.2%,0.2%,0.1%
+may15.2007,US CPI m/m,0.4%,0.5%,0.6%
+may16.2007,US Capacity Utilization Rate,81.6%,81.4%,81.2%
+may16.2007,US Industrial Production m/m,0.7%,0.3%,-0.3%
+may16.2007,US Crude Oil Inventories,1.1M,0.0M,5.5M
+may16.2007,US Distillate Inventories,1.0M,1.3M,1.6M
+may16.2007,US Gasoline Inventories,1.8M,1.0M,0.4M
+may17.2007,US Natural Gas Storage,95B,97B,96B
+may23.2007,US Crude Oil Inventories,2.0M,0.6M,1.1M
+may23.2007,US Distillate Inventories,0.5M,1.3M,1.0M
+may23.2007,US Gasoline Inventories,1.4M,1.2M,1.8M
+may24.2007,US Natural Gas Storage,104B,96B,95B
+may31.2007,EZ Consumer Confidence,-1,-4,-4
+may31.2007,US Crude Oil Inventories,-2.0M,1.0M,2.0M
+may31.2007,US Distillate Inventories,0.1M,0.7M,0.5M
+may31.2007,US Gasoline Inventories,1.4M,1.5M,1.4M
+may31.2007,US Natural Gas Storage,107B,105B,104B
+jun01.2007,US Average Hourly Earnings m/m,0.3%,0.3%,0.2%
+jun01.2007,US Non-Farm Employment Change,157K,135K,80K
+jun01.2007,US Unemployment Rate,4.5%,4.5%,4.5%
+jun01.2007,US ISM Manufacturing PMI,55.0,54.0,54.7
+jun04.2007,US Factory Orders m/m,0.3%,0.7%,4.1%
+jun05.2007,US ISM Services PMI,59.7,55.3,56.0
+jun06.2007,US Crude Oil Inventories,0.1M,0.1M,-2.0M
+jun06.2007,US Distillate Inventories,1.9M,0.9M,0.1M
+jun06.2007,US Gasoline Inventories,3.5M,1.6M,1.4M
+jun07.2007,US Natural Gas Storage,110B,105B,107B
+jun08.2007,CA Employment Change,9.3K,16.0K,-5.2K
+jun08.2007,CA Unemployment Rate,6.1%,6.1%,6.1%
+jun08.2007,US Trade Balance,-58.5B,-63.5B,-62.4B
+jun13.2007,US Retail Sales m/m,1.4%,0.6%,-0.1%
+jun13.2007,US Crude Oil Inventories,0.1M,-0.3M,0.1M
+jun13.2007,US Distillate Inventories,0.3M,1.7M,1.9M
+jun13.2007,US Gasoline Inventories,0.0M,1.6M,3.5M
+jun14.2007,US Natural Gas Storage,92B,98B,110B
+jun15.2007,US Core CPI m/m,0.1%,0.2%,0.2%
+jun15.2007,US CPI m/m,0.7%,0.6%,0.4%
+jun15.2007,US Capacity Utilization Rate,81.3%,81.6%,81.5%
+jun15.2007,US Industrial Production m/m,0.0%,0.1%,0.4%
+jun20.2007,US Crude Oil Inventories,6.9M,0.0M,0.1M
+jun20.2007,US Distillate Inventories,0.2M,0.9M,0.3M
+jun20.2007,US Gasoline Inventories,1.8M,1.2M,0.0M
+jun21.2007,US Natural Gas Storage,89B,88B,92B
+jun27.2007,US Crude Oil Inventories,1.6M,1.6M,6.9M
+jun27.2007,US Distillate Inventories,-2.3M,0.6M,0.2M
+jun27.2007,US Gasoline Inventories,-0.7M,1.0M,1.8M
+jun28.2007,US Natural Gas Storage,99B,84B,89B
+jun29.2007,EZ Consumer Confidence,-2,-1,-1
+jul02.2007,US ISM Manufacturing PMI,56.0,55.0,55.0
+jul03.2007,US Factory Orders m/m,-0.5%,-0.9%,0.5%
+jul05.2007,US ISM Services PMI,60.7,58.1,59.7
+jul05.2007,US Crude Oil Inventories,3.2M,-0.2M,1.6M
+jul05.2007,US Distillate Inventories,1.2M,0.5M,-2.3M
+jul05.2007,US Gasoline Inventories,1.9M,0.5M,-0.7M
+jul06.2007,CA Employment Change,34.8K,17.5K,9.3K
+jul06.2007,CA Unemployment Rate,6.1%,6.1%,6.1%
+jul06.2007,US Average Hourly Earnings m/m,0.3%,0.4%,0.4%
+jul06.2007,US Non-Farm Employment Change,132K,125K,190K
+jul06.2007,US Unemployment Rate,4.5%,4.5%,4.5%
+jul06.2007,US Natural Gas Storage,78B,82B,99B
+jul11.2007,US Crude Oil Inventories,-1.5M,0.0M,3.2M
+jul11.2007,US Distillate Inventories,0.8M,0.9M,1.2M
+jul11.2007,US Gasoline Inventories,1.1M,0.8M,1.9M
+jul12.2007,US Trade Balance,-60.0B,-60.0B,-58.7B
+jul12.2007,US Natural Gas Storage,106B,97B,78B
+jul13.2007,US Retail Sales m/m,-0.9%,0.0%,1.5%
+jul17.2007,US Capacity Utilization Rate,81.7%,81.5%,81.4%
+jul17.2007,US Industrial Production m/m,0.5%,0.4%,-0.1%
+jul18.2007,US Core CPI m/m,0.2%,0.2%,0.1%
+jul18.2007,US CPI m/m,0.2%,0.1%,0.7%
+jul18.2007,US Crude Oil Inventories,-0.4M,-0.5M,-1.5M
+jul18.2007,US Distillate Inventories,-0.1M,0.9M,0.8M
+jul18.2007,US Gasoline Inventories,-2.2M,0.9M,1.1M
+jul19.2007,US Natural Gas Storage,65B,69B,106B
+jul25.2007,US Crude Oil Inventories,-1.1M,-1.4M,-0.4M
+jul25.2007,US Distillate Inventories,1.4M,0.8M,-0.1M
+jul25.2007,US Gasoline Inventories,0.8M,0.2M,-2.2M
+jul26.2007,US Natural Gas Storage,71B,70B,65B
+jul27.2007,US Advance GDP q/q,3.4%,3.2%,0.7%
+jul31.2007,EZ Consumer Confidence,-2,-2,-2
+aug01.2007,US ISM Manufacturing PMI,53.8,55.7,56.0
+aug01.2007,US Crude Oil Inventories,-6.5M,-1.0M,-1.1M
+aug01.2007,US Distillate Inventories,2.9M,1.3M,1.4M
+aug01.2007,US Gasoline Inventories,0.6M,0.0M,0.8M
+aug02.2007,US Factory Orders m/m,0.6%,1.2%,-0.5%
+aug02.2007,US Natural Gas Storage,77B,74B,71B
+aug03.2007,US Average Hourly Earnings m/m,0.3%,0.3%,0.4%
+aug03.2007,US Non-Farm Employment Change,92K,135K,126K
+aug03.2007,US Unemployment Rate,4.6%,4.5%,4.5%
+aug03.2007,US ISM Services PMI,55.8,59.5,60.7
+aug08.2007,US Crude Oil Inventories,-4.1M,-2.8M,-6.5M
+aug08.2007,US Distillate Inventories,1.0M,1.7M,2.9M
+aug08.2007,US Gasoline Inventories,-1.7M,0.8M,0.6M
+aug09.2007,US Natural Gas Storage,42B,50B,77B
+aug10.2007,CA Employment Change,11.3K,21.0K,34.8K
+aug10.2007,CA Unemployment Rate,6.0%,6.1%,6.1%
+aug13.2007,US Retail Sales m/m,0.3%,0.3%,-0.7%
+aug14.2007,US Trade Balance,-58.1B,-61.0B,-59.2B
+aug15.2007,US Core CPI m/m,0.2%,0.2%,0.2%
+aug15.2007,US CPI m/m,0.1%,0.2%,0.2%
+aug15.2007,US Capacity Utilization Rate,81.9%,81.8%,81.8%
+aug15.2007,US Industrial Production m/m,0.3%,0.3%,0.6%
+aug15.2007,US Crude Oil Inventories,-5.2M,-2.5M,-4.1M
+aug15.2007,US Distillate Inventories,0.2M,1.3M,1.0M
+aug15.2007,US Gasoline Inventories,-1.1M,-0.7M,-1.7M
+aug16.2007,US Natural Gas Storage,21B,24B,42B
+aug22.2007,US Crude Oil Inventories,1.9M,-2.8M,-5.2M
+aug22.2007,US Distillate Inventories,1.4M,0.9M,0.2M
+aug22.2007,US Gasoline Inventories,-5.7M,-0.8M,-1.1M
+aug23.2007,US Natural Gas Storage,23B,29B,21B
+aug29.2007,US Crude Oil Inventories,-3.5M,-0.6M,1.9M
+aug29.2007,US Distillate Inventories,0.9M,0.8M,1.4M
+aug29.2007,US Gasoline Inventories,-3.7M,-2.5M,-5.7M
+aug30.2007,US Natural Gas Storage,43B,40B,23B
+aug31.2007,EZ Consumer Confidence,-3,-2,-2
+aug31.2007,US Factory Orders m/m,3.7%,3.3%,1.0%
+sep04.2007,US ISM Manufacturing PMI,52.9,53.2,53.8
+sep06.2007,US ISM Services PMI,55.8,54.5,55.8
+sep06.2007,US Crude Oil Inventories,-4.0M,-2.1M,-3.5M
+sep06.2007,US Distillate Inventories,2.3M,1.0M,0.9M
+sep06.2007,US Gasoline Inventories,-1.5M,-1.3M,-3.7M
+sep06.2007,US Natural Gas Storage,36B,44B,43B
+sep07.2007,CA Employment Change,23.3K,15.3K,11.3K
+sep07.2007,CA Unemployment Rate,6.0%,6.1%,6.0%
+sep07.2007,US Average Hourly Earnings m/m,0.3%,0.3%,0.3%
+sep07.2007,US Non-Farm Employment Change,-4K,110K,68K
+sep07.2007,US Unemployment Rate,4.6%,4.6%,4.6%
+sep11.2007,US Trade Balance,-59.2B,-59.0B,-59.4B
+sep12.2007,US Crude Oil Inventories,-7.0M,-2.7M,-4.0M
+sep12.2007,US Distillate Inventories,1.8M,1.9M,2.3M
+sep12.2007,US Gasoline Inventories,-0.7M,-0.5M,-1.5M
+sep13.2007,US Natural Gas Storage,64B,61B,36B
+sep14.2007,US Retail Sales m/m,0.3%,0.6%,0.5%
+sep14.2007,US Capacity Utilization Rate,82.2%,82.0%,82.2%
+sep14.2007,US Industrial Production m/m,0.2%,0.3%,0.5%
+sep19.2007,US Core CPI m/m,0.2%,0.2%,0.2%
+sep19.2007,US CPI m/m,-0.1%,0.0%,0.1%
+sep19.2007,US Crude Oil Inventories,-3.9M,-2.0M,-7.0M
+sep19.2007,US Distillate Inventories,1.6M,1.2M,1.8M
+sep19.2007,US Gasoline Inventories,0.4M,-1.0M,-0.7M
+sep20.2007,US Natural Gas Storage,63B,66B,64B
+sep26.2007,US Crude Oil Inventories,1.8M,-2.1M,-3.9M
+sep26.2007,US Distillate Inventories,1.5M,1.1M,1.6M
+sep26.2007,US Gasoline Inventories,0.5M,-0.3M,0.4M
+sep27.2007,US Natural Gas Storage,74B,73B,63B
+sep28.2007,EZ Consumer Confidence,-5,-4,-4
+oct01.2007,US ISM Manufacturing PMI,52.0,52.8,52.9
+oct03.2007,US ISM Services PMI,54.8,55.0,55.8
+oct03.2007,US Crude Oil Inventories,1.1M,-0.5M,1.8M
+oct03.2007,US Distillate Inventories,-1.2M,1.3M,1.5M
+oct03.2007,US Gasoline Inventories,0.0M,0.5M,0.5M
+oct04.2007,US Factory Orders m/m,-3.3%,-2.6%,3.4%
+oct04.2007,US Natural Gas Storage,57B,64B,74B
+oct05.2007,CA Employment Change,51.1K,16.5K,23.3K
+oct05.2007,CA Unemployment Rate,5.9%,6.1%,6.0%
+oct05.2007,US Average Hourly Earnings m/m,0.4%,0.3%,0.3%
+oct05.2007,US Non-Farm Employment Change,110K,100K,89K
+oct05.2007,US Unemployment Rate,4.7%,4.7%,4.6%
+oct11.2007,US Trade Balance,-57.6B,-58.8B,-59.2B
+oct11.2007,US Crude Oil Inventories,-1.7M,1.1M,1.1M
+oct11.2007,US Distillate Inventories,-0.6M,-0.8M,-1.2M
+oct11.2007,US Gasoline Inventories,1.7M,-0.4M,0.0M
+oct11.2007,US Natural Gas Storage,73B,70B,57B
+oct12.2007,US Retail Sales m/m,0.6%,0.3%,0.3%
+oct16.2007,US Capacity Utilization Rate,82.1%,82.2%,82.1%
+oct16.2007,US Industrial Production m/m,0.1%,0.1%,0.0%
+oct17.2007,US Core CPI m/m,0.2%,0.2%,0.2%
+oct17.2007,US CPI m/m,0.3%,0.2%,-0.1%
+oct17.2007,US Crude Oil Inventories,1.8M,0.8M,-1.7M
+oct17.2007,US Distillate Inventories,1.0M,-0.7M,-0.6M
+oct17.2007,US Gasoline Inventories,2.8M,0.4M,1.7M
+oct18.2007,US Natural Gas Storage,39B,50B,73B
+oct24.2007,US Crude Oil Inventories,-5.3M,1.0M,1.8M
+oct24.2007,US Distillate Inventories,-1.8M,0.3M,1.0M
+oct24.2007,US Gasoline Inventories,-1.9M,0.5M,2.8M
+oct25.2007,US Natural Gas Storage,68B,54B,39B
+oct31.2007,EZ Consumer Confidence,-6,-5,-6
+oct31.2007,US Advance GDP q/q,3.9%,3.1%,3.8%
+oct31.2007,US Crude Oil Inventories,-3.9M,0.4M,-5.3M
+oct31.2007,US Distillate Inventories,0.8M,-1.0M,-1.8M
+oct31.2007,US Gasoline Inventories,1.3M,-0.2M,-1.9M
+nov01.2007,US ISM Manufacturing PMI,50.9,51.7,52.0
+nov01.2007,US Natural Gas Storage,66B,59B,68B
+nov02.2007,CA Employment Change,63.0K,12.0K,51.1K
+nov02.2007,CA Unemployment Rate,5.8%,5.9%,5.9%
+nov02.2007,US Average Hourly Earnings m/m,0.2%,0.3%,0.3%
+nov02.2007,US Non-Farm Employment Change,166K,82K,96K
+nov02.2007,US Unemployment Rate,4.7%,4.7%,4.7%
+nov02.2007,US Factory Orders m/m,0.2%,-0.5%,-3.5%
+nov05.2007,US ISM Services PMI,55.8,54.0,54.8
+nov07.2007,US Crude Oil Inventories,-0.8M,-1.3M,-3.9M
+nov07.2007,US Distillate Inventories,0.1M,-0.5M,0.8M
+nov07.2007,US Gasoline Inventories,-0.8M,0.0M,1.3M
+nov08.2007,US Natural Gas Storage,36B,30B,66B
+nov09.2007,US Trade Balance,-56.5B,-59.0B,-56.8B
+nov14.2007,US Retail Sales m/m,0.2%,0.2%,0.7%
+nov15.2007,US Core CPI m/m,0.2%,0.2%,0.2%
+nov15.2007,US CPI m/m,0.3%,0.3%,0.3%
+nov15.2007,US Crude Oil Inventories,2.8M,-0.8M,-0.8M
+nov15.2007,US Distillate Inventories,2.0M,-0.2M,0.1M
+nov15.2007,US Gasoline Inventories,0.7M,-0.4M,-0.8M
+nov15.2007,US Natural Gas Storage,-9B,-8B,36B
+nov16.2007,US Capacity Utilization Rate,81.7%,82.0%,82.2%
+nov16.2007,US Industrial Production m/m,-0.5%,0.1%,0.2%
+nov21.2007,US Crude Oil Inventories,-1.1M,0.8M,2.8M
+nov21.2007,US Distillate Inventories,-2.4M,-0.5M,2.0M
+nov21.2007,US Gasoline Inventories,0.2M,0.9M,0.7M
+nov21.2007,US Natural Gas Storage,4B,2B,-9B
+nov28.2007,US Crude Oil Inventories,-0.5M,-1.0M,-1.1M
+nov28.2007,US Distillate Inventories,-0.1M,-1.2M,-2.4M
+nov28.2007,US Gasoline Inventories,1.4M,0.5M,0.2M
+nov29.2007,US Natural Gas Storage,-12B,-20B,4B
+nov30.2007,EZ Consumer Confidence,-8,-6,-6
+dec03.2007,US ISM Manufacturing PMI,50.8,50.5,50.9
+dec05.2007,US Factory Orders m/m,0.5%,0.1%,0.3%
+dec05.2007,US ISM Services PMI,54.1,55.0,55.8
+dec05.2007,US Crude Oil Inventories,-7.9M,-1.3M,-0.5M
+dec05.2007,US Distillate Inventories,1.4M,-0.3M,-0.1M
+dec05.2007,US Gasoline Inventories,4.0M,0.6M,1.4M
+dec06.2007,US Natural Gas Storage,-88B,-79B,-12B
+dec07.2007,CA Employment Change,42.6K,8.0K,63.0K
+dec07.2007,CA Unemployment Rate,5.9%,5.9%,5.8%
+dec07.2007,US Average Hourly Earnings m/m,0.5%,0.3%,0.1%
+dec07.2007,US Non-Farm Employment Change,94K,75K,170K
+dec07.2007,US Unemployment Rate,4.7%,4.8%,4.7%
+dec12.2007,US Trade Balance,-57.8B,-57.3B,-57.1B
+dec12.2007,US Crude Oil Inventories,-0.7M,-0.9M,-7.9M
+dec12.2007,US Distillate Inventories,-0.8M,0.5M,1.4M
+dec12.2007,US Gasoline Inventories,1.6M,1.0M,4.0M
+dec13.2007,US Retail Sales m/m,1.2%,0.5%,0.2%
+dec13.2007,US Natural Gas Storage,-146B,-127B,-88B
+dec14.2007,US Core CPI m/m,0.3%,0.2%,0.2%
+dec14.2007,US CPI m/m,0.8%,0.6%,0.3%
+dec14.2007,US Capacity Utilization Rate,81.5%,81.7%,81.4%
+dec14.2007,US Industrial Production m/m,0.3%,0.1%,-0.7%
+dec19.2007,US Crude Oil Inventories,-7.6M,-1.5M,-0.7M
+dec19.2007,US Distillate Inventories,-2.2M,-0.5M,-0.8M
+dec19.2007,US Gasoline Inventories,3.0M,0.8M,1.6M
+dec20.2007,US Natural Gas Storage,-121B,-133B,-146B
+dec27.2007,US Crude Oil Inventories,-3.3M,-1.4M,-7.6M
+dec27.2007,US Distillate Inventories,-2.8M,-0.9M,-2.2M
+dec27.2007,US Gasoline Inventories,0.6M,1.4M,3.0M
+dec28.2007,US Natural Gas Storage,-165B,-155B,-121B
+jan02.2008,US ISM Manufacturing PMI,47.7,50.7,50.8
+jan03.2008,US Factory Orders m/m,1.5%,0.5%,0.7%
+jan03.2008,US Crude Oil Inventories,-4.0M,-2.3M,-3.3M
+jan03.2008,US Distillate Inventories,0.6M,-0.6M,-2.8M
+jan03.2008,US Gasoline Inventories,2.0M,1.5M,0.6M
+jan04.2008,US Average Hourly Earnings m/m,0.4%,0.3%,0.4%
+jan04.2008,US Non-Farm Employment Change,18K,70K,115K
+jan04.2008,US Unemployment Rate,5.0%,4.8%,4.7%
+jan04.2008,US ISM Services PMI,53.9,53.5,54.1
+jan04.2008,US Natural Gas Storage,-87B,-110B,-165B
+jan07.2008,EZ Consumer Confidence,-9,-8,-8
+jan09.2008,US Crude Oil Inventories,-6.7M,-2.1M,-4.0M
+jan09.2008,US Distillate Inventories,1.5M,1.0M,0.6M
+jan09.2008,US Gasoline Inventories,5.2M,1.6M,2.0M
+jan10.2008,US Natural Gas Storage,-171B,-163B,-87B
+jan11.2008,CA Employment Change,-18.7K,15.0K,42.6K
+jan11.2008,CA Unemployment Rate,5.9%,5.9%,5.9%
+jan11.2008,US Trade Balance,-63.1B,-59.5B,-57.8B
+jan15.2008,US Retail Sales m/m,-0.4%,0.0%,1.0%
+jan16.2008,US Core CPI m/m,0.2%,0.2%,0.3%
+jan16.2008,US CPI m/m,0.3%,0.2%,0.8%
+jan16.2008,US Capacity Utilization Rate,81.4%,81.2%,81.6%
+jan16.2008,US Industrial Production m/m,0.0%,-0.1%,0.3%
+jan16.2008,US Crude Oil Inventories,4.3M,1.3M,-6.7M
+jan16.2008,US Distillate Inventories,1.2M,1.3M,1.5M
+jan16.2008,US Gasoline Inventories,2.2M,2.5M,5.2M
+jan17.2008,US Natural Gas Storage,-59B,-60B,-171B
+jan24.2008,US Crude Oil Inventories,2.3M,1.5M,4.3M
+jan24.2008,US Distillate Inventories,-1.3M,0.0M,1.2M
+jan24.2008,US Gasoline Inventories,5.1M,1.4M,2.2M
+jan24.2008,US Natural Gas Storage,-155B,-159B,-59B
+jan30.2008,US Advance GDP q/q,0.6%,1.2%,4.9%
+jan30.2008,US Crude Oil Inventories,3.6M,2.0M,2.3M
+jan30.2008,US Distillate Inventories,-1.5M,2.2M,-1.3M
+jan30.2008,US Gasoline Inventories,3.6M,1.9M,5.1M
+jan31.2008,EZ Consumer Confidence,-12,-10,-9
+jan31.2008,US Natural Gas Storage,-274B,-257B,-155B
+feb01.2008,US Average Hourly Earnings m/m,0.2%,0.3%,0.4%
+feb01.2008,US Non-Farm Employment Change,-17K,65K,82K
+feb01.2008,US Unemployment Rate,4.9%,5.0%,5.0%
+feb01.2008,US ISM Manufacturing PMI,50.7,47.3,47.7
+feb04.2008,US Factory Orders m/m,2.3%,2.3%,1.7%
+feb05.2008,US ISM Services PMI,44.6,52.4,53.2
+feb06.2008,US Crude Oil Inventories,7.0M,2.6M,3.6M
+feb06.2008,US Distillate Inventories,0.1M,-2.1M,-1.5M
+feb06.2008,US Gasoline Inventories,3.6M,1.9M,3.6M
+feb07.2008,US Natural Gas Storage,-200B,-187B,-274B
+feb08.2008,CA Employment Change,46.4K,10.0K,-18.7K
+feb08.2008,CA Unemployment Rate,5.8%,6.0%,5.9%
+feb13.2008,US Retail Sales m/m,0.3%,-0.2%,-0.4%
+feb13.2008,US Crude Oil Inventories,1.1M,2.4M,7.0M
+feb13.2008,US Distillate Inventories,-0.2M,-1.5M,0.1M
+feb13.2008,US Gasoline Inventories,1.7M,1.5M,3.6M
+feb14.2008,US Trade Balance,-58.8B,-61.8B,-63.1B
+feb14.2008,US Natural Gas Storage,-120B,-117B,-200B
+feb15.2008,US Capacity Utilization Rate,81.5%,81.4%,81.5%
+feb15.2008,US Industrial Production m/m,0.1%,0.1%,0.1%
+feb20.2008,US Core CPI m/m,0.3%,0.2%,0.2%
+feb20.2008,US CPI m/m,0.4%,0.3%,0.3%
+feb21.2008,US Crude Oil Inventories,4.2M,2.4M,1.1M
+feb21.2008,US Distillate Inventories,-4.4M,-1.6M,-0.2M
+feb21.2008,US Gasoline Inventories,1.0M,0.5M,1.7M
+feb21.2008,US Natural Gas Storage,-172B,-174B,-120B
+feb27.2008,US Crude Oil Inventories,3.2M,2.7M,4.2M
+feb27.2008,US Distillate Inventories,-2.6M,-2.2M,-4.4M
+feb27.2008,US Gasoline Inventories,2.3M,0.4M,1.0M
+feb28.2008,US Natural Gas Storage,-151B,-157B,-172B
+feb29.2008,EZ Consumer Confidence,-12,-12,-12
+mar03.2008,US ISM Manufacturing PMI,48.3,48.0,50.7
+mar05.2008,US Factory Orders m/m,-2.5%,-2.3%,2.0%
+mar05.2008,US ISM Services PMI,49.3,47.6,44.6
+mar05.2008,US Crude Oil Inventories,-3.1M,2.4M,3.2M
+mar05.2008,US Distillate Inventories,-2.3M,-1.6M,-2.6M
+mar05.2008,US Gasoline Inventories,1.7M,0.6M,2.3M
+mar06.2008,US Natural Gas Storage,-135B,-143B,-151B
+mar07.2008,CA Employment Change,43.3K,3.0K,46.4K
+mar07.2008,CA Unemployment Rate,5.8%,5.9%,5.8%
+mar07.2008,US Average Hourly Earnings m/m,0.3%,0.3%,0.3%
+mar07.2008,US Non-Farm Employment Change,-63K,25K,-22K
+mar07.2008,US Unemployment Rate,4.8%,5.0%,4.9%
+mar11.2008,US Trade Balance,-58.2B,-59.5B,-57.9B
+mar12.2008,US Crude Oil Inventories,6.2M,1.7M,-3.1M
+mar12.2008,US Distillate Inventories,-1.2M,-2.0M,-2.3M
+mar12.2008,US Gasoline Inventories,1.7M,0.1M,1.7M
+mar13.2008,US Retail Sales m/m,-0.6%,0.2%,0.4%
+mar13.2008,US Natural Gas Storage,-86B,-85B,-135B
+mar14.2008,US Core CPI m/m,0.0%,0.2%,0.3%
+mar14.2008,US CPI m/m,0.0%,0.3%,0.4%
+mar17.2008,US Capacity Utilization Rate,80.9%,81.2%,81.5%
+mar17.2008,US Industrial Production m/m,-0.5%,-0.1%,0.1%
+mar19.2008,US Crude Oil Inventories,0.1M,2.3M,6.2M
+mar19.2008,US Distillate Inventories,-2.9M,-1.5M,-1.2M
+mar19.2008,US Gasoline Inventories,-3.4M,0.0M,1.7M
+mar20.2008,US Natural Gas Storage,-85B,-45B,-86B
+mar26.2008,US Crude Oil Inventories,0.1M,1.7M,0.1M
+mar26.2008,US Distillate Inventories,-2.1M,-1.8M,-2.9M
+mar26.2008,US Gasoline Inventories,-3.3M,-1.5M,-3.4M
+mar27.2008,US Natural Gas Storage,-36B,-33B,-85B
+mar31.2008,EZ Consumer Confidence,-12,-12,-12
+apr01.2008,US ISM Manufacturing PMI,48.6,47.5,48.3
+apr02.2008,US Factory Orders m/m,-1.3%,-0.8%,-2.3%
+apr02.2008,US Crude Oil Inventories,7.3M,2.3M,0.1M
+apr02.2008,US Distillate Inventories,-1.6M,-1.6M,-2.1M
+apr02.2008,US Gasoline Inventories,-4.5M,-2.8M,-3.3M
+apr03.2008,US ISM Services PMI,49.6,48.5,49.3
+apr03.2008,US Natural Gas Storage,-29B,-34B,-36B
+apr04.2008,CA Employment Change,14.6K,15.0K,43.3K
+apr04.2008,CA Unemployment Rate,6.0%,5.8%,5.8%
+apr04.2008,US Average Hourly Earnings m/m,0.3%,0.3%,0.3%
+apr04.2008,US Non-Farm Employment Change,-80K,-50K,-76K
+apr04.2008,US Unemployment Rate,5.1%,5.0%,4.8%
+apr09.2008,US Crude Oil Inventories,-3.1M,2.3M,7.3M
+apr09.2008,US Distillate Inventories,-3.7M,-1.5M,-1.6M
+apr09.2008,US Gasoline Inventories,-3.4M,-3.0M,-4.5M
+apr10.2008,US Trade Balance,-62.3B,-57.4B,-59.0B
+apr10.2008,US Natural Gas Storage,-14B,-15B,-29B
+apr14.2008,US Retail Sales m/m,0.2%,0.0%,-0.4%
+apr16.2008,US Core CPI m/m,0.2%,0.2%,0.0%
+apr16.2008,US CPI m/m,0.3%,0.3%,0.0%
+apr16.2008,US Capacity Utilization Rate,80.5%,80.3%,80.3%
+apr16.2008,US Industrial Production m/m,0.3%,-0.1%,-0.7%
+apr16.2008,US Distillate Inventories,0.1M,-1.6M,-3.7M
+apr16.2008,US Gasoline Inventories,-5.5M,-1.8M,-3.4M
+apr16.2008,US Crude Oil Inventories,-2.4M,1.8M,-3.1M
+apr17.2008,US Natural Gas Storage,27B,16B,-14B
+apr23.2008,US Crude Oil Inventories,2.4M,1.5M,-2.4M
+apr23.2008,US Distillate Inventories,-1.4M,-0.1M,0.1M
+apr23.2008,US Gasoline Inventories,-3.2M,-2.0M,-5.5M
+apr24.2008,US Natural Gas Storage,24B,22B,27B
+apr30.2008,EZ Consumer Confidence,-12,-13,-12
+apr30.2008,US Advance GDP q/q,0.6%,0.2%,0.6%
+apr30.2008,US Crude Oil Inventories,3.8M,0.9M,2.4M
+apr30.2008,US Distillate Inventories,1.1M,-0.3M,-1.4M
+apr30.2008,US Gasoline Inventories,-1.5M,-0.9M,-3.2M
+may01.2008,US ISM Manufacturing PMI,48.6,48.0,48.6
+may01.2008,US Natural Gas Storage,86B,30B,24B
+may02.2008,US Average Hourly Earnings m/m,0.1%,0.3%,0.3%
+may02.2008,US Non-Farm Employment Change,-20K,-80K,-81K
+may02.2008,US Unemployment Rate,5.0%,5.2%,5.1%
+may02.2008,US Factory Orders m/m,1.4%,0.2%,-0.9%
+may05.2008,US ISM Services PMI,52.0,49.1,49.6
+may07.2008,US Crude Oil Inventories,5.7M,1.6M,3.8M
+may07.2008,US Distillate Inventories,-0.1M,-1.1M,1.1M
+may07.2008,US Gasoline Inventories,0.8M,0.1M,-1.5M
+may08.2008,US Natural Gas Storage,65B,71B,86B
+may09.2008,CA Employment Change,19.2K,10.0K,14.6K
+may09.2008,CA Unemployment Rate,6.1%,6.0%,6.0%
+may09.2008,US Trade Balance,-58.2B,-61.4B,-61.7B
+may13.2008,US Retail Sales m/m,-0.2%,-0.2%,0.2%
+may14.2008,US Core CPI m/m,0.1%,0.2%,0.2%
+may14.2008,US CPI m/m,0.2%,0.3%,0.3%
+may14.2008,US Crude Oil Inventories,0.2M,2.2M,5.7M
+may14.2008,US Distillate Inventories,1.3M,1.3M,-0.1M
+may14.2008,US Gasoline Inventories,-1.7M,-0.2M,0.8M
+may15.2008,US Capacity Utilization Rate,79.7%,80.1%,80.4%
+may15.2008,US Industrial Production m/m,-0.7%,-0.3%,0.2%
+may15.2008,US Natural Gas Storage,93B,88B,65B
+may21.2008,US Crude Oil Inventories,-5.4M,0.5M,0.2M
+may21.2008,US Distillate Inventories,0.7M,1.4M,1.3M
+may21.2008,US Gasoline Inventories,-0.8M,0.3M,-1.7M
+may22.2008,US Natural Gas Storage,85B,85B,93B
+may29.2008,EZ Consumer Confidence,-15,-12,-12
+may29.2008,US Crude Oil Inventories,-8.8M,-0.3M,-5.4M
+may29.2008,US Distillate Inventories,1.6M,1.0M,0.7M
+may29.2008,US Gasoline Inventories,-3.3M,0.0M,-0.8M
+may29.2008,US Natural Gas Storage,87B,84B,85B
+jun02.2008,US ISM Manufacturing PMI,49.6,48.6,48.6
+jun03.2008,US Factory Orders m/m,1.1%,0.0%,1.5%
+jun04.2008,US ISM Services PMI,51.7,51.0,52.0
+jun04.2008,US Crude Oil Inventories,-4.8M,1.1M,-8.8M
+jun04.2008,US Distillate Inventories,2.3M,1.7M,1.6M
+jun04.2008,US Gasoline Inventories,2.9M,1.5M,-3.3M
+jun05.2008,US Natural Gas Storage,105B,103B,87B
+jun06.2008,CA Employment Change,8.4K,10.0K,19.2K
+jun06.2008,CA Unemployment Rate,6.1%,6.1%,6.1%
+jun06.2008,US Average Hourly Earnings m/m,0.3%,0.2%,0.1%
+jun06.2008,US Non-Farm Employment Change,-49K,-57K,-28K
+jun06.2008,US Unemployment Rate,5.5%,5.1%,5.0%
+jun10.2008,US Trade Balance,-60.9B,-59.5B,-56.5B
+jun11.2008,US Crude Oil Inventories,-4.6M,-0.9M,-4.8M
+jun11.2008,US Distillate Inventories,2.3M,2.0M,2.3M
+jun11.2008,US Gasoline Inventories,1.0M,0.9M,2.9M
+jun12.2008,US Retail Sales m/m,1.0%,0.5%,0.4%
+jun12.2008,US Natural Gas Storage,80B,94B,105B
+jun13.2008,US Core CPI m/m,0.2%,0.2%,0.1%
+jun13.2008,US CPI m/m,0.6%,0.5%,0.2%
+jun17.2008,US Capacity Utilization Rate,79.4%,79.7%,79.6%
+jun17.2008,US Industrial Production m/m,-0.2%,0.1%,-0.7%
+jun18.2008,US Crude Oil Inventories,-1.2M,-1.5M,-4.6M
+jun18.2008,US Distillate Inventories,2.6M,1.8M,2.3M
+jun18.2008,US Gasoline Inventories,-1.2M,0.9M,1.0M
+jun19.2008,US Natural Gas Storage,57B,61B,80B
+jun25.2008,US Crude Oil Inventories,0.8M,-0.1M,-1.2M
+jun25.2008,US Distillate Inventories,2.8M,2.0M,2.6M
+jun25.2008,US Gasoline Inventories,-0.2M,0.0M,-1.2M
+jun26.2008,US Natural Gas Storage,90B,90B,57B
+jun27.2008,EZ Consumer Confidence,-17,-16,-15
+jul01.2008,US ISM Manufacturing PMI,50.2,48.6,49.6
+jul02.2008,US Factory Orders m/m,0.6%,0.4%,1.3%
+jul02.2008,US Crude Oil Inventories,-2.0M,-0.1M,0.8M
+jul02.2008,US Distillate Inventories,1.3M,1.5M,2.8M
+jul02.2008,US Gasoline Inventories,2.1M,0.5M,-0.2M
+jul03.2008,US Average Hourly Earnings m/m,0.3%,0.3%,0.3%
+jul03.2008,US Non-Farm Employment Change,-62K,-60K,-62K
+jul03.2008,US Unemployment Rate,5.5%,5.4%,5.5%
+jul03.2008,US ISM Services PMI,48.2,51.1,51.7
+jul03.2008,US Natural Gas Storage,85B,89B,90B
+jul09.2008,US Crude Oil Inventories,-5.9M,-1.5M,-2.0M
+jul09.2008,US Distillate Inventories,1.8M,2.1M,1.3M
+jul09.2008,US Gasoline Inventories,0.9M,0.1M,2.1M
+jul10.2008,US Natural Gas Storage,90B,95B,85B
+jul11.2008,CA Employment Change,-5.0K,10.0K,8.4K
+jul11.2008,CA Unemployment Rate,6.2%,6.1%,6.1%
+jul11.2008,US Trade Balance,-59.8B,-62.5B,-60.5B
+jul15.2008,US Retail Sales m/m,0.1%,0.4%,0.8%
+jul16.2008,US Core CPI m/m,0.3%,0.2%,0.2%
+jul16.2008,US CPI m/m,1.1%,0.7%,0.6%
+jul16.2008,US Capacity Utilization Rate,79.9%,79.3%,79.6%
+jul16.2008,US Industrial Production m/m,0.5%,0.0%,-0.2%
+jul16.2008,US Crude Oil Inventories,3.0M,-1.2M,-5.9M
+jul16.2008,US Distillate Inventories,3.2M,2.1M,1.8M
+jul16.2008,US Gasoline Inventories,2.5M,-0.8M,0.9M
+jul17.2008,US Natural Gas Storage,104B,88B,90B
+jul23.2008,US Crude Oil Inventories,-1.6M,-0.7M,3.0M
+jul23.2008,US Distillate Inventories,2.4M,2.5M,3.2M
+jul23.2008,US Gasoline Inventories,2.8M,0.2M,2.5M
+jul24.2008,US Natural Gas Storage,84B,83B,104B
+jul30.2008,EZ Consumer Confidence,-20,-19,-17
+jul30.2008,US Crude Oil Inventories,-0.1M,-1.4M,-1.6M
+jul30.2008,US Distillate Inventories,2.4M,2.1M,2.4M
+jul30.2008,US Gasoline Inventories,-3.5M,0.3M,2.8M
+jul31.2008,US Advance GDP q/q,1.9%,2.2%,1.0%
+jul31.2008,US Natural Gas Storage,65B,69B,84B
+aug01.2008,US Average Hourly Earnings m/m,0.3%,0.3%,0.3%
+aug01.2008,US Non-Farm Employment Change,-51K,-75K,-51K
+aug01.2008,US Unemployment Rate,5.7%,5.6%,5.5%
+aug01.2008,US ISM Manufacturing PMI,50.0,49.4,50.2
+aug04.2008,US Factory Orders m/m,1.7%,0.7%,0.9%
+aug05.2008,US ISM Services PMI,49.5,48.6,48.2
+aug06.2008,US Crude Oil Inventories,1.7M,0.1M,-0.1M
+aug06.2008,US Distillate Inventories,2.8M,2.0M,2.4M
+aug06.2008,US Gasoline Inventories,-4.3M,-1.5M,-3.5M
+aug07.2008,US Natural Gas Storage,56B,60B,65B
+aug08.2008,CA Employment Change,-55.2K,5.0K,-5.0K
+aug08.2008,CA Unemployment Rate,6.1%,6.2%,6.2%
+aug12.2008,US Trade Balance,-56.8B,-61.8B,-59.2B
+aug13.2008,US Retail Sales m/m,-0.1%,0.0%,0.3%
+aug13.2008,US Crude Oil Inventories,-0.4M,-0.1M,1.7M
+aug13.2008,US Distillate Inventories,-1.8M,2.0M,2.8M
+aug13.2008,US Gasoline Inventories,-6.4M,-1.5M,-4.3M
+aug14.2008,US Core CPI m/m,0.3%,0.2%,0.3%
+aug14.2008,US CPI m/m,0.8%,0.4%,1.1%
+aug14.2008,US Natural Gas Storage,50B,53B,56B
+aug15.2008,US Capacity Utilization Rate,79.9%,79.8%,79.8%
+aug15.2008,US Industrial Production m/m,0.2%,0.0%,0.4%
+aug20.2008,US Crude Oil Inventories,9.4M,0.7M,-0.4M
+aug20.2008,US Distillate Inventories,0.5M,1.0M,-1.8M
+aug20.2008,US Gasoline Inventories,-6.2M,-2.9M,-6.4M
+aug21.2008,US Natural Gas Storage,88B,82B,50B
+aug27.2008,US Crude Oil Inventories,-0.1M,0.9M,9.4M
+aug27.2008,US Distillate Inventories,0.1M,0.6M,0.5M
+aug27.2008,US Gasoline Inventories,-1.2M,-2.4M,-6.2M
+aug28.2008,US Natural Gas Storage,102B,84B,88B
+aug29.2008,EZ Consumer Confidence,-19,-20,-20
+sep02.2008,US ISM Manufacturing PMI,49.9,49.9,50.0
+sep03.2008,US Factory Orders m/m,1.3%,1.0%,2.1%
+sep04.2008,US ISM Services PMI,50.6,49.4,49.5
+sep04.2008,US Distillate Inventories,-0.4M,1.0M,0.1M
+sep04.2008,US Gasoline Inventories,-1.0M,-1.3M,-1.2M
+sep04.2008,US Natural Gas Storage,90B,88B,102B
+sep04.2008,US Crude Oil Inventories,-1.9M,0.0M,-0.1M
+sep05.2008,CA Employment Change,15.2K,9.0K,-55.2K
+sep05.2008,CA Unemployment Rate,6.1%,6.2%,6.1%
+sep05.2008,US Average Hourly Earnings m/m,0.4%,0.3%,0.4%
+sep05.2008,US Non-Farm Employment Change,-84K,-73K,-60K
+sep05.2008,US Unemployment Rate,6.1%,5.7%,5.7%
+sep10.2008,US Crude Oil Inventories,-5.9M,-4.6M,-1.9M
+sep10.2008,US Distillate Inventories,-1.3M,-2.1M,-0.4M
+sep10.2008,US Gasoline Inventories,-6.5M,-4.5M,-1.0M
+sep11.2008,US Trade Balance,-62.2B,-58.0B,-58.8B
+sep11.2008,US Natural Gas Storage,58B,56B,90B
+sep12.2008,US Retail Sales m/m,-0.3%,0.2%,-0.5%
+sep15.2008,US Capacity Utilization Rate,78.7%,79.6%,79.7%
+sep15.2008,US Industrial Production m/m,-1.1%,-0.3%,0.1%
+sep16.2008,US Core CPI m/m,0.2%,0.2%,0.3%
+sep16.2008,US CPI m/m,-0.1%,0.0%,0.8%
+sep17.2008,US Crude Oil Inventories,-6.3M,-4.3M,-5.9M
+sep17.2008,US Distillate Inventories,-0.8M,-1.9M,-1.3M
+sep17.2008,US Gasoline Inventories,-3.3M,-3.5M,-6.5M
+sep18.2008,US Natural Gas Storage,67B,61B,58B
+sep24.2008,US Crude Oil Inventories,-1.5M,-2.0M,-6.3M
+sep24.2008,US Distillate Inventories,-4.2M,-1.5M,-0.8M
+sep24.2008,US Gasoline Inventories,-5.9M,-3.6M,-3.3M
+sep25.2008,US Natural Gas Storage,51B,62B,67B
+sep29.2008,EZ Consumer Confidence,-19,-19,-19
+oct01.2008,US ISM Manufacturing PMI,43.5,49.5,49.9
+oct01.2008,US Crude Oil Inventories,4.3M,1.8M,-1.5M
+oct01.2008,US Distillate Inventories,-2.4M,-1.6M,-4.2M
+oct01.2008,US Gasoline Inventories,0.9M,-2.1M,-5.9M
+oct02.2008,US Factory Orders m/m,-4.0%,-2.6%,0.7%
+oct02.2008,US Natural Gas Storage,87B,75B,51B
+oct03.2008,US Average Hourly Earnings m/m,0.2%,0.3%,0.4%
+oct03.2008,US Non-Farm Employment Change,-159K,-100K,-73K
+oct03.2008,US Unemployment Rate,6.1%,6.1%,6.1%
+oct03.2008,US ISM Services PMI,50.2,50.0,50.6
+oct08.2008,US Crude Oil Inventories,8.1M,2.0M,4.3M
+oct08.2008,US Distillate Inventories,-0.5M,-0.9M,-2.4M
+oct08.2008,US Gasoline Inventories,7.2M,1.5M,0.9M
+oct09.2008,US Natural Gas Storage,88B,86B,87B
+oct10.2008,CA Employment Change,106.9K,11.0K,15.2K
+oct10.2008,CA Unemployment Rate,6.1%,6.2%,6.1%
+oct10.2008,US Trade Balance,-59.1B,-59.5B,-61.3B
+oct15.2008,US Retail Sales m/m,-1.2%,-0.6%,-0.4%
+oct16.2008,US Core CPI m/m,0.1%,0.2%,0.2%
+oct16.2008,US CPI m/m,0.0%,0.1%,-0.1%
+oct16.2008,US Capacity Utilization Rate,76.4%,78.0%,78.7%
+oct16.2008,US Industrial Production m/m,-2.8%,-0.7%,-1.0%
+oct16.2008,US Distillate Inventories,-0.5M,0.5M,-0.5M
+oct16.2008,US Gasoline Inventories,7.0M,1.5M,7.2M
+oct16.2008,US Natural Gas Storage,79B,82B,88B
+oct16.2008,US Crude Oil Inventories,5.6M,2.0M,8.1M
+oct22.2008,US Crude Oil Inventories,3.2M,2.3M,5.6M
+oct22.2008,US Distillate Inventories,2.2M,0.3M,-0.5M
+oct22.2008,US Gasoline Inventories,2.7M,2.6M,7.0M
+oct23.2008,US Natural Gas Storage,70B,76B,79B
+oct29.2008,US Crude Oil Inventories,0.5M,1.4M,3.2M
+oct29.2008,US Distillate Inventories,2.3M,1.1M,2.2M
+oct29.2008,US Gasoline Inventories,-1.5M,1.5M,2.7M
+oct30.2008,EZ Consumer Confidence,-24,-21,-19
+oct30.2008,US Advance GDP q/q,-0.3%,-0.5%,2.8%
+oct30.2008,US Natural Gas Storage,46B,41B,70B
+nov03.2008,US ISM Manufacturing PMI,38.9,41.6,43.5
+nov04.2008,US Factory Orders m/m,-2.5%,-1.0%,-4.3%
+nov05.2008,US ISM Services PMI,44.4,47.3,50.2
+nov05.2008,US Crude Oil Inventories,0.0M,1.1M,0.5M
+nov05.2008,US Distillate Inventories,1.2M,1.6M,2.3M
+nov05.2008,US Gasoline Inventories,1.1M,-0.7M,-1.5M
+nov06.2008,US Natural Gas Storage,12B,25B,46B
+nov07.2008,CA Employment Change,9.5K,-10.0K,106.9K
+nov07.2008,CA Unemployment Rate,6.2%,6.2%,6.1%
+nov07.2008,US Average Hourly Earnings m/m,0.2%,0.2%,0.2%
+nov07.2008,US Non-Farm Employment Change,-240K,-200K,-284K
+nov07.2008,US Unemployment Rate,6.5%,6.3%,6.1%
+nov13.2008,US Trade Balance,-56.5B,-56.5B,-59.1B
+nov13.2008,US Crude Oil Inventories,0.0M,1.0M,0.0M
+nov13.2008,US Distillate Inventories,0.5M,0.9M,1.2M
+nov13.2008,US Gasoline Inventories,2.0M,0.1M,1.1M
+nov14.2008,US Retail Sales m/m,-2.8%,-2.0%,-1.3%
+nov14.2008,US Natural Gas Storage,62B,45B,12B
+nov17.2008,US Capacity Utilization Rate,76.4%,76.4%,75.5%
+nov17.2008,US Industrial Production m/m,1.3%,0.1%,-3.7%
+nov19.2008,US Core CPI m/m,-0.1%,0.1%,0.1%
+nov19.2008,US CPI m/m,-1.0%,-0.8%,0.0%
+nov19.2008,US Crude Oil Inventories,1.6M,0.9M,0.0M
+nov19.2008,US Distillate Inventories,-1.5M,0.7M,0.5M
+nov19.2008,US Gasoline Inventories,0.5M,0.0M,2.0M
+nov20.2008,US Natural Gas Storage,16B,-1B,62B
+nov26.2008,US Crude Oil Inventories,7.3M,0.7M,1.6M
+nov26.2008,US Distillate Inventories,-0.2M,0.0M,-1.5M
+nov26.2008,US Gasoline Inventories,1.8M,0.5M,0.5M
+nov26.2008,US Natural Gas Storage,-66B,-44B,16B
+nov27.2008,EZ Consumer Confidence,-25,-25,-24
+dec01.2008,US ISM Manufacturing PMI,36.2,37.2,38.9
+dec03.2008,US ISM Services PMI,37.3,42.5,44.4
+dec03.2008,US Crude Oil Inventories,-0.4M,1.8M,7.3M
+dec03.2008,US Distillate Inventories,-1.7M,0.7M,-0.2M
+dec03.2008,US Gasoline Inventories,-1.5M,1.0M,1.8M
+dec04.2008,US Factory Orders m/m,-5.1%,-4.0%,-3.1%
+dec04.2008,US Natural Gas Storage,-64B,-69B,-66B
+dec05.2008,CA Employment Change,-70.6K,-21.0K,9.5K
+dec05.2008,CA Unemployment Rate,6.3%,6.4%,6.2%
+dec05.2008,US Average Hourly Earnings m/m,0.4%,0.2%,0.3%
+dec05.2008,US Non-Farm Employment Change,-533K,-320K,-320K
+dec05.2008,US Unemployment Rate,6.7%,6.8%,6.5%
+dec10.2008,US Crude Oil Inventories,0.4M,1.0M,-0.4M
+dec10.2008,US Distillate Inventories,5.6M,-1.4M,-1.7M
+dec10.2008,US Gasoline Inventories,3.7M,-0.4M,-1.5M
+dec11.2008,US Trade Balance,-57.2B,-53.5B,-56.6B
+dec11.2008,US Natural Gas Storage,-67B,-83B,-64B
+dec12.2008,US Retail Sales m/m,-1.8%,-1.9%,-2.9%
+dec15.2008,US Capacity Utilization Rate,75.4%,75.5%,76.0%
+dec15.2008,US Industrial Production m/m,-0.6%,-0.7%,1.5%
+dec16.2008,US Core CPI m/m,0.0%,0.1%,-0.1%
+dec16.2008,US CPI m/m,-1.7%,-1.2%,-1.0%
+dec17.2008,US Crude Oil Inventories,0.5M,0.3M,0.4M
+dec17.2008,US Distillate Inventories,2.9M,1.5M,5.6M
+dec17.2008,US Gasoline Inventories,1.3M,1.3M,3.7M
+dec18.2008,US Natural Gas Storage,-124B,-112B,-67B
+dec24.2008,US Crude Oil Inventories,-3.1M,0.4M,0.5M
+dec24.2008,US Distillate Inventories,1.8M,0.7M,2.9M
+dec24.2008,US Gasoline Inventories,3.3M,0.8M,1.3M
+dec24.2008,US Natural Gas Storage,-147B,-139B,-124B
+dec31.2008,US Crude Oil Inventories,0.5M,-1.4M,-3.1M
+dec31.2008,US Distillate Inventories,0.7M,1.5M,1.8M
+dec31.2008,US Gasoline Inventories,0.8M,1.7M,3.3M
+dec31.2008,US Natural Gas Storage,-143B,-151B,-147B
+jan02.2009,US ISM Manufacturing PMI,32.4,35.5,36.2
+jan06.2009,US Factory Orders m/m,-4.6%,-2.5%,-6.0%
+jan06.2009,US ISM Services PMI,40.6,36.9,37.3
+jan07.2009,US Crude Oil Inventories,6.7M,0.7M,0.5M
+jan07.2009,US Distillate Inventories,1.8M,1.1M,0.7M
+jan07.2009,US Gasoline Inventories,3.3M,1.0M,0.8M
+jan08.2009,EZ Consumer Confidence,-30,-26,-25
+jan08.2009,US Natural Gas Storage,-47B,-78B,-143B
+jan09.2009,CA Employment Change,-34.4K,-21.0K,-70.6K
+jan09.2009,CA Unemployment Rate,6.6%,6.5%,6.3%
+jan09.2009,US Average Hourly Earnings m/m,0.3%,0.2%,0.4%
+jan09.2009,US Non-Farm Employment Change,-524K,-520K,-584K
+jan09.2009,US Unemployment Rate,7.2%,7.0%,6.7%
+jan13.2009,US Trade Balance,-40.4B,-51.4B,-56.7B
+jan14.2009,US Retail Sales m/m,-2.7%,-1.2%,-2.1%
+jan14.2009,US Crude Oil Inventories,1.2M,2.1M,6.7M
+jan14.2009,US Distillate Inventories,6.3M,1.1M,1.8M
+jan14.2009,US Gasoline Inventories,2.1M,1.9M,3.3M
+jan15.2009,US Natural Gas Storage,-94B,-105B,-47B
+jan16.2009,US Core CPI m/m,0.0%,0.1%,0.0%
+jan16.2009,US CPI m/m,-0.7%,-0.8%,-1.7%
+jan16.2009,US Capacity Utilization Rate,73.6%,74.6%,75.2%
+jan16.2009,US Industrial Production m/m,-2.0%,-0.9%,-1.3%
+jan22.2009,US Distillate Inventories,0.8M,0.5M,6.3M
+jan22.2009,US Gasoline Inventories,6.5M,1.8M,2.1M
+jan22.2009,US Crude Oil Inventories,6.1M,1.1M,1.2M
+jan23.2009,US Natural Gas Storage,-176B,-174B,-94B
+jan28.2009,US Crude Oil Inventories,6.2M,2.8M,6.1M
+jan28.2009,US Distillate Inventories,-1.0M,-1.0M,0.8M
+jan28.2009,US Gasoline Inventories,-0.1M,2.0M,6.5M
+jan29.2009,EZ Consumer Confidence,-31,-31,-30
+jan29.2009,US Natural Gas Storage,-186B,-180B,-176B
+jan30.2009,US Advance GDP q/q,-3.8%,-5.4%,-0.5%
+feb02.2009,US ISM Manufacturing PMI,35.6,32.4,32.4
+feb04.2009,US ISM Services PMI,42.9,39.1,40.6
+feb04.2009,US Crude Oil Inventories,7.2M,2.8M,6.2M
+feb04.2009,US Distillate Inventories,-1.4M,-1.4M,-1.0M
+feb04.2009,US Gasoline Inventories,0.4M,0.8M,-0.1M
+feb05.2009,US Factory Orders m/m,-3.9%,-3.1%,-6.5%
+feb05.2009,US Natural Gas Storage,-195B,-190B,-186B
+feb06.2009,CA Employment Change,-129.0K,-40.0K,-34.4K
+feb06.2009,CA Unemployment Rate,7.2%,6.8%,6.6%
+feb06.2009,US Average Hourly Earnings m/m,0.3%,0.2%,0.4%
+feb06.2009,US Non-Farm Employment Change,-598K,-530K,-577K
+feb06.2009,US Unemployment Rate,7.6%,7.5%,7.2%
+feb11.2009,US Trade Balance,-39.9B,-37.0B,-41.6B
+feb11.2009,US Crude Oil Inventories,4.7M,3.1M,7.2M
+feb11.2009,US Distillate Inventories,-1.0M,-1.5M,-1.4M
+feb11.2009,US Gasoline Inventories,-2.7M,0.5M,0.4M
+feb12.2009,US Retail Sales m/m,1.0%,-0.8%,-3.0%
+feb12.2009,US Natural Gas Storage,-159B,-166B,-195B
+feb18.2009,US Capacity Utilization Rate,72.0%,72.5%,73.3%
+feb18.2009,US Industrial Production m/m,-1.8%,-1.4%,-2.4%
+feb19.2009,US Natural Gas Storage,-24B,-49B,-159B
+feb19.2009,US Crude Oil Inventories,-0.2M,2.9M,4.7M
+feb19.2009,US Distillate Inventories,-0.8M,-1.5M,-1.0M
+feb19.2009,US Gasoline Inventories,1.1M,-0.5M,-2.7M
+feb20.2009,US Core CPI m/m,0.2%,0.1%,0.0%
+feb20.2009,US CPI m/m,0.3%,0.2%,-0.7%
+feb25.2009,US Crude Oil Inventories,0.7M,0.9M,-0.2M
+feb25.2009,US Distillate Inventories,0.9M,-1.2M,-0.8M
+feb25.2009,US Gasoline Inventories,-3.3M,0.0M,1.1M
+feb26.2009,EZ Consumer Confidence,-33,-31,-31
+feb26.2009,US Natural Gas Storage,-101B,-98B,-24B
+mar02.2009,US ISM Manufacturing PMI,35.8,34.0,35.6
+mar04.2009,US ISM Services PMI,41.6,41.2,42.9
+mar04.2009,US Crude Oil Inventories,-0.7M,1.0M,0.7M
+mar04.2009,US Distillate Inventories,1.7M,-1.0M,0.9M
+mar04.2009,US Gasoline Inventories,0.2M,-0.8M,-3.3M
+mar05.2009,US Factory Orders m/m,-1.9%,-3.5%,-4.9%
+mar05.2009,US Natural Gas Storage,-102B,-95B,-101B
+mar06.2009,US Average Hourly Earnings m/m,0.2%,0.3%,0.2%
+mar06.2009,US Non-Farm Employment Change,-651K,-647K,-655K
+mar06.2009,US Unemployment Rate,8.1%,7.9%,7.6%
+mar11.2009,US Crude Oil Inventories,0.7M,0.1M,-0.7M
+mar11.2009,US Distillate Inventories,2.1M,0.2M,1.7M
+mar11.2009,US Gasoline Inventories,-3.0M,-1.0M,0.2M
+mar12.2009,US Retail Sales m/m,-0.1%,-0.5%,1.8%
+mar12.2009,US Natural Gas Storage,-112B,-104B,-102B
+mar13.2009,CA Employment Change,-82.6K,-50.5K,-129.0K
+mar13.2009,CA Unemployment Rate,7.7%,7.4%,7.2%
+mar13.2009,US Trade Balance,-36.0B,-38.3B,-39.9B
+mar16.2009,US Capacity Utilization Rate,70.9%,71.1%,71.9%
+mar16.2009,US Industrial Production m/m,-1.4%,-1.2%,-1.9%
+mar18.2009,US Core CPI m/m,0.2%,0.1%,0.2%
+mar18.2009,US CPI m/m,0.4%,0.3%,0.3%
+mar18.2009,US Crude Oil Inventories,2.0M,1.2M,0.7M
+mar18.2009,US Distillate Inventories,0.1M,1.1M,2.1M
+mar18.2009,US Gasoline Inventories,3.2M,-1.4M,-3.0M
+mar19.2009,US Natural Gas Storage,-30B,-26B,-112B
+mar25.2009,US Crude Oil Inventories,3.3M,1.2M,2.0M
+mar25.2009,US Distillate Inventories,-1.6M,-0.1M,0.1M
+mar25.2009,US Gasoline Inventories,-1.1M,-0.7M,3.2M
+mar26.2009,US Natural Gas Storage,3B,-10B,-30B
+mar30.2009,EZ Consumer Confidence,-34,-33,-33
+apr01.2009,US ISM Manufacturing PMI,36.3,35.8,35.8
+apr01.2009,US Crude Oil Inventories,2.8M,3.1M,3.3M
+apr01.2009,US Distillate Inventories,0.2M,-1.2M,-1.6M
+apr01.2009,US Gasoline Inventories,2.2M,-1.5M,-1.1M
+apr02.2009,US Factory Orders m/m,1.8%,1.5%,-3.5%
+apr02.2009,US Natural Gas Storage,0B,-1B,3B
+apr03.2009,US Average Hourly Earnings m/m,0.2%,0.2%,0.2%
+apr03.2009,US Non-Farm Employment Change,-663K,-659K,-651K
+apr03.2009,US Unemployment Rate,8.5%,8.5%,8.1%
+apr03.2009,US ISM Services PMI,40.8,41.9,41.6
+apr08.2009,US Crude Oil Inventories,1.7M,1.6M,2.8M
+apr08.2009,US Distillate Inventories,-3.4M,-0.6M,0.2M
+apr08.2009,US Gasoline Inventories,0.7M,-1.3M,2.2M
+apr09.2009,CA Employment Change,-61.3K,-50.2K,-82.6K
+apr09.2009,CA Unemployment Rate,8.0%,8.0%,7.7%
+apr09.2009,US Trade Balance,-26.0B,-36.6B,-36.2B
+apr09.2009,US Natural Gas Storage,20B,12B,0B
+apr14.2009,US Retail Sales m/m,-1.1%,0.3%,0.3%
+apr15.2009,US Core CPI m/m,0.2%,0.1%,0.2%
+apr15.2009,US CPI m/m,-0.1%,0.1%,0.4%
+apr15.2009,US Capacity Utilization Rate,69.3%,69.7%,70.3%
+apr15.2009,US Industrial Production m/m,-1.5%,-0.9%,-1.5%
+apr15.2009,US Crude Oil Inventories,5.6M,2.0M,1.7M
+apr15.2009,US Distillate Inventories,-1.2M,-1.0M,-3.4M
+apr15.2009,US Gasoline Inventories,-0.9M,-0.5M,0.7M
+apr16.2009,US Natural Gas Storage,21B,18B,20B
+apr22.2009,US Crude Oil Inventories,3.9M,2.3M,5.6M
+apr22.2009,US Distillate Inventories,2.7M,-1.0M,-1.2M
+apr22.2009,US Gasoline Inventories,0.8M,-0.7M,-0.9M
+apr23.2009,US Natural Gas Storage,46B,40B,21B
+apr29.2009,EZ Consumer Confidence,-31,-33,-34
+apr29.2009,US Advance GDP q/q,-6.1%,-4.8%,-6.3%
+apr29.2009,US Crude Oil Inventories,4.1M,1.8M,3.9M
+apr29.2009,US Distillate Inventories,1.8M,1.0M,2.7M
+apr29.2009,US Gasoline Inventories,-4.7M,0.2M,0.8M
+apr30.2009,US Natural Gas Storage,82B,82B,46B
+may01.2009,US Factory Orders m/m,-0.9%,-0.7%,0.7%
+may01.2009,US ISM Manufacturing PMI,40.1,38.4,36.3
+may05.2009,US ISM Services PMI,43.7,42.5,40.8
+may06.2009,US Crude Oil Inventories,0.6M,2.4M,4.1M
+may06.2009,US Distillate Inventories,2.4M,0.9M,1.8M
+may06.2009,US Gasoline Inventories,-0.2M,0.5M,-4.7M
+may07.2009,US Natural Gas Storage,95B,94B,82B
+may08.2009,CA Employment Change,35.9K,-48.5K,-61.3K
+may08.2009,CA Unemployment Rate,8.0%,8.3%,8.0%
+may08.2009,US Average Hourly Earnings m/m,0.1%,0.2%,0.2%
+may08.2009,US Non-Farm Employment Change,-539K,-590K,-699K
+may08.2009,US Unemployment Rate,8.9%,8.9%,8.5%
+may12.2009,US Trade Balance,-27.6B,-29.2B,-26.1B
+may13.2009,US Retail Sales m/m,-0.4%,0.0%,-1.3%
+may13.2009,US Crude Oil Inventories,-4.7M,1.1M,0.6M
+may13.2009,US Distillate Inventories,0.9M,1.3M,2.4M
+may13.2009,US Gasoline Inventories,-4.2M,0.0M,-0.2M
+may14.2009,US Natural Gas Storage,95B,100B,95B
+may15.2009,US Core CPI m/m,0.3%,0.1%,0.2%
+may15.2009,US CPI m/m,0.0%,0.0%,-0.1%
+may15.2009,US Capacity Utilization Rate,69.1%,68.9%,69.4%
+may15.2009,US Industrial Production m/m,-0.5%,-0.5%,-1.7%
+may20.2009,US Crude Oil Inventories,-2.1M,-1.3M,-4.7M
+may20.2009,US Distillate Inventories,0.7M,1.2M,0.9M
+may20.2009,US Gasoline Inventories,-4.3M,-1.2M,-4.2M
+may21.2009,US Natural Gas Storage,103B,95B,95B
+may28.2009,EZ Consumer Confidence,-31,-30,-31
+may28.2009,US Natural Gas Storage,106B,114B,103B
+may28.2009,US Crude Oil Inventories,-5.4M,-0.1M,-2.1M
+may28.2009,US Distillate Inventories,0.2M,1.0M,0.7M
+may28.2009,US Gasoline Inventories,-0.5M,-1.3M,-4.3M
+jun01.2009,US ISM Manufacturing PMI,42.8,42.2,40.1
+jun03.2009,US Factory Orders m/m,0.7%,0.9%,-1.9%
+jun03.2009,US ISM Services PMI,44.0,45.1,43.7
+jun03.2009,US Crude Oil Inventories,2.9M,-1.6M,-5.4M
+jun03.2009,US Distillate Inventories,1.7M,0.9M,0.2M
+jun03.2009,US Gasoline Inventories,-0.2M,0.6M,-0.5M
+jun04.2009,US Natural Gas Storage,124B,116B,106B
+jun05.2009,CA Employment Change,-41.8K,-36.4K,35.9K
+jun05.2009,CA Unemployment Rate,8.4%,8.2%,8.0%
+jun05.2009,US Average Hourly Earnings m/m,0.1%,0.2%,0.1%
+jun05.2009,US Non-Farm Employment Change,-345K,-520K,-504K
+jun05.2009,US Unemployment Rate,9.4%,9.2%,8.9%
+jun10.2009,US Trade Balance,-29.2B,-28.8B,-28.5B
+jun10.2009,US Crude Oil Inventories,-4.4M,0.1M,2.9M
+jun10.2009,US Distillate Inventories,-0.3M,1.4M,1.7M
+jun10.2009,US Gasoline Inventories,-1.6M,0.8M,-0.2M
+jun11.2009,US Retail Sales m/m,0.5%,0.4%,-0.2%
+jun11.2009,US Natural Gas Storage,106B,110B,124B
+jun16.2009,US Capacity Utilization Rate,68.3%,68.5%,69.0%
+jun16.2009,US Industrial Production m/m,-1.1%,-0.7%,-0.7%
+jun17.2009,US Core CPI m/m,0.1%,0.1%,0.3%
+jun17.2009,US CPI m/m,0.1%,0.3%,0.0%
+jun17.2009,US Crude Oil Inventories,-3.9M,-1.8M,-4.4M
+jun17.2009,US Distillate Inventories,0.3M,0.9M,-0.3M
+jun17.2009,US Gasoline Inventories,3.4M,0.5M,-1.6M
+jun18.2009,US Natural Gas Storage,114B,104B,106B
+jun24.2009,US Crude Oil Inventories,-3.8M,-1.1M,-3.9M
+jun24.2009,US Distillate Inventories,2.1M,0.9M,0.3M
+jun24.2009,US Gasoline Inventories,3.9M,0.5M,3.4M
+jun25.2009,US Natural Gas Storage,94B,101B,114B
+jun29.2009,EZ Consumer Confidence,-25,-29,-28
+jul01.2009,US ISM Manufacturing PMI,44.8,44.5,42.8
+jul01.2009,US Crude Oil Inventories,-3.7M,-1.8M,-3.8M
+jul01.2009,US Distillate Inventories,2.9M,1.5M,2.1M
+jul01.2009,US Gasoline Inventories,2.3M,2.0M,3.9M
+jul02.2009,US Average Hourly Earnings m/m,0.0%,0.2%,0.2%
+jul02.2009,US Non-Farm Employment Change,-467K,-360K,-322K
+jul02.2009,US Unemployment Rate,9.5%,9.6%,9.4%
+jul02.2009,US Factory Orders m/m,1.2%,0.7%,0.5%
+jul02.2009,US Natural Gas Storage,70B,74B,94B
+jul06.2009,US ISM Services PMI,47.0,45.9,44.0
+jul08.2009,US Crude Oil Inventories,-2.9M,-2.8M,-3.7M
+jul08.2009,US Distillate Inventories,3.7M,1.8M,2.9M
+jul08.2009,US Gasoline Inventories,1.9M,0.9M,2.3M
+jul09.2009,US Natural Gas Storage,75B,85B,70B
+jul10.2009,CA Employment Change,-7.4K,-34.6K,-41.8K
+jul10.2009,CA Unemployment Rate,8.6%,8.7%,8.4%
+jul10.2009,US Trade Balance,-26.0B,-30.0B,-28.8B
+jul14.2009,US Retail Sales m/m,0.6%,0.4%,0.5%
+jul15.2009,US Core CPI m/m,0.2%,0.2%,0.1%
+jul15.2009,US CPI m/m,0.7%,0.6%,0.1%
+jul15.2009,US Capacity Utilization Rate,68.0%,67.8%,68.2%
+jul15.2009,US Industrial Production m/m,-0.4%,-0.6%,-1.2%
+jul15.2009,US Crude Oil Inventories,-2.8M,-1.9M,-2.9M
+jul15.2009,US Distillate Inventories,0.6M,2.0M,3.7M
+jul15.2009,US Gasoline Inventories,1.4M,0.9M,1.9M
+jul16.2009,US Natural Gas Storage,90B,93B,75B
+jul22.2009,US Crude Oil Inventories,-1.8M,-1.9M,-2.8M
+jul22.2009,US Distillate Inventories,1.2M,1.5M,0.6M
+jul22.2009,US Gasoline Inventories,0.8M,0.6M,1.4M
+jul23.2009,US Natural Gas Storage,66B,63B,90B
+jul29.2009,US Crude Oil Inventories,5.1M,-1.1M,-1.8M
+jul29.2009,US Distillate Inventories,2.1M,1.0M,1.2M
+jul29.2009,US Gasoline Inventories,-2.3M,0.0M,0.8M
+jul30.2009,EZ Consumer Confidence,-23,-24,-25
+jul30.2009,US Natural Gas Storage,71B,71B,66B
+jul31.2009,US Advance GDP q/q,-1.0%,-1.4%,-5.5%
+aug03.2009,US ISM Manufacturing PMI,48.9,46.4,44.8
+aug05.2009,US Factory Orders m/m,0.4%,-0.7%,1.1%
+aug05.2009,US ISM Services PMI,46.4,48.1,47.0
+aug05.2009,US Crude Oil Inventories,1.7M,0.9M,5.1M
+aug05.2009,US Distillate Inventories,-1.1M,1.2M,2.1M
+aug05.2009,US Gasoline Inventories,-0.2M,-0.8M,-2.3M
+aug06.2009,US Natural Gas Storage,66B,60B,71B
+aug07.2009,CA Employment Change,-44.5K,-19.0K,-7.4K
+aug07.2009,CA Unemployment Rate,8.6%,8.8%,8.6%
+aug07.2009,US Average Hourly Earnings m/m,0.2%,0.1%,0.0%
+aug07.2009,US Non-Farm Employment Change,-247K,-320K,-443K
+aug07.2009,US Unemployment Rate,9.4%,9.6%,9.5%
+aug12.2009,US Trade Balance,-27.0B,-28.4B,-26.0B
+aug12.2009,US Crude Oil Inventories,2.5M,0.7M,1.7M
+aug12.2009,US Distillate Inventories,0.8M,0.2M,-1.1M
+aug12.2009,US Gasoline Inventories,-0.9M,-1.2M,-0.2M
+aug13.2009,US Retail Sales m/m,-0.1%,0.8%,0.8%
+aug13.2009,US Natural Gas Storage,63B,71B,66B
+aug14.2009,US Core CPI m/m,0.1%,0.1%,0.2%
+aug14.2009,US CPI m/m,0.0%,0.0%,0.7%
+aug14.2009,US Capacity Utilization Rate,68.5%,68.2%,68.1%
+aug14.2009,US Industrial Production m/m,0.5%,0.4%,-0.4%
+aug19.2009,US Crude Oil Inventories,-8.4M,1.1M,2.5M
+aug19.2009,US Distillate Inventories,-0.7M,0.7M,0.8M
+aug19.2009,US Gasoline Inventories,-1.7M,-0.8M,-0.9M
+aug20.2009,US Natural Gas Storage,52B,57B,63B
+aug26.2009,US Crude Oil Inventories,0.2M,-1.5M,-8.4M
+aug26.2009,US Distillate Inventories,0.8M,0.4M,-0.7M
+aug26.2009,US Gasoline Inventories,-1.7M,-0.8M,-1.7M
+aug27.2009,US Natural Gas Storage,54B,53B,52B
+aug28.2009,EZ Consumer Confidence,-22,-21,-23
+sep01.2009,US ISM Manufacturing PMI,52.9,50.6,48.9
+sep02.2009,US Factory Orders m/m,1.3%,2.3%,0.9%
+sep02.2009,US Crude Oil Inventories,-0.4M,-0.8M,0.2M
+sep02.2009,US Distillate Inventories,1.2M,0.7M,0.8M
+sep02.2009,US Gasoline Inventories,-3.0M,-0.9M,-1.7M
+sep03.2009,US ISM Services PMI,48.4,48.3,46.4
+sep03.2009,US Natural Gas Storage,65B,67B,54B
+sep04.2009,CA Employment Change,27.1K,-12.4K,-44.5K
+sep04.2009,CA Unemployment Rate,8.7%,8.7%,8.6%
+sep04.2009,US Average Hourly Earnings m/m,0.3%,0.1%,0.3%
+sep04.2009,US Non-Farm Employment Change,-216K,-223K,-276K
+sep04.2009,US Unemployment Rate,9.7%,9.5%,9.4%
+sep10.2009,US Trade Balance,-32.0B,-27.1B,-27.5B
+sep10.2009,US Natural Gas Storage,69B,77B,65B
+sep10.2009,US Crude Oil Inventories,-5.9M,-1.5M,-0.4M
+sep10.2009,US Distillate Inventories,2.0M,1.0M,1.2M
+sep10.2009,US Gasoline Inventories,2.1M,-1.5M,-3.0M
+jan03.2007,US ISM Manufacturing PMI,51.4,51.0,49.5
+jan04.2007,US Factory Orders m/m,0.9%,1.5%,-4.5%
+jan04.2007,US ISM Services PMI,57.1,58.0,58.9
+jan04.2007,US Crude Oil Inventories,-1.3M,-2.0M,-8.1M
+jan04.2007,US Distillate Inventories,2.0M,0.9M,0.5M
+jan04.2007,US Gasoline Inventories,5.7M,1.5M,2.9M
+jan05.2007,EZ Consumer Confidence,-6,-7,-7
+jan05.2007,CA Employment Change,62.0K,17.0K,22.0K
+jan05.2007,CA Unemployment Rate,6.1%,6.3%,6.3%
+jan05.2007,US Average Hourly Earnings m/m,0.5%,0.3%,0.3%
+jan05.2007,US Non-Farm Employment Change,167K,115K,132K
+jan05.2007,US Unemployment Rate,4.5%,4.5%,4.5%
+jan05.2007,US Natural Gas Storage,-47B,-60B,-46B
+jan10.2007,US Trade Balance,-58.2B,-60.0B,-58.9B
+jan10.2007,US Crude Oil Inventories,-5.0M,-1.5M,-1.3M
+jan10.2007,US Distillate Inventories,5.4M,2.0M,2.0M
+jan10.2007,US Gasoline Inventories,3.8M,2.5M,5.7M
+jan11.2007,US Natural Gas Storage,-49B,-45B,-47B
+jan12.2007,US Retail Sales m/m,0.9%,0.6%,1.0%
+jan17.2007,US Capacity Utilization Rate,81.8%,81.8%,81.6%
+jan17.2007,US Industrial Production m/m,0.4%,0.1%,-0.1%
+jan18.2007,US Core CPI m/m,0.2%,0.2%,0.0%
+jan18.2007,US CPI m/m,0.5%,0.5%,0.0%
+jan18.2007,US Crude Oil Inventories,6.8M,0.1M,-5.0M
+jan18.2007,US Distillate Inventories,0.9M,1.4M,5.4M
+jan18.2007,US Gasoline Inventories,3.5M,2.5M,3.8M
+jan18.2007,US Natural Gas Storage,-89B,-79B,-49B
+jan24.2007,US Crude Oil Inventories,0.7M,1.3M,6.8M
+jan24.2007,US Distillate Inventories,0.8M,-0.3M,0.9M
+jan24.2007,US Gasoline Inventories,4.0M,1.5M,3.5M
+jan25.2007,US Natural Gas Storage,-179B,-174B,-89B
+jan31.2007,EZ Consumer Confidence,-7,-6,-6
+jan31.2007,US Advance GDP q/q,3.5%,3.0%,2.0%
+jan31.2007,US Crude Oil Inventories,2.7M,1.4M,0.7M
+jan31.2007,US Distillate Inventories,-2.6M,-2.1M,0.8M
+jan31.2007,US Gasoline Inventories,3.8M,1.8M,4.0M
+feb01.2007,US ISM Manufacturing PMI,49.3,51.6,51.4
+feb01.2007,US Natural Gas Storage,-186B,-201B,-179B
+feb02.2007,US Average Hourly Earnings m/m,0.2%,0.4%,0.4%
+feb02.2007,US Non-Farm Employment Change,111K,146K,206K
+feb02.2007,US Unemployment Rate,4.6%,4.5%,4.5%
+feb02.2007,US Factory Orders m/m,2.4%,1.6%,1.2%
+feb05.2007,US ISM Services PMI,59.0,56.8,57.1
+feb07.2007,US Crude Oil Inventories,-0.4M,2.0M,2.7M
+feb07.2007,US Distillate Inventories,-3.6M,-3.0M,-2.6M
+feb07.2007,US Gasoline Inventories,2.6M,1.6M,3.8M
+feb08.2007,US Natural Gas Storage,-224B,-219B,-186B
+feb09.2007,CA Employment Change,89.0K,25.0K,62.0K
+feb09.2007,CA Unemployment Rate,6.2%,6.1%,6.1%
+feb13.2007,US Trade Balance,-61.2B,-59.5B,-58.1B
+feb14.2007,US Retail Sales m/m,0.0%,0.3%,1.2%
+feb14.2007,US Crude Oil Inventories,-0.6M,1.0M,-0.4M
+feb14.2007,US Distillate Inventories,-3.0M,-4.0M,-3.6M
+feb14.2007,US Gasoline Inventories,-2.1M,2.0M,2.6M
+feb15.2007,US Capacity Utilization Rate,81.2%,81.8%,81.8%
+feb15.2007,US Industrial Production m/m,-0.5%,0.0%,0.5%
+feb15.2007,US Natural Gas Storage,-259B,-254B,-224B
+feb21.2007,US Core CPI m/m,0.3%,0.2%,0.2%
+feb21.2007,US CPI m/m,0.2%,0.2%,0.5%
+feb22.2007,US Crude Oil Inventories,3.7M,1.0M,-0.6M
+feb22.2007,US Distillate Inventories,-5.0M,-2.8M,-3.0M
+feb22.2007,US Gasoline Inventories,-3.0M,0.0M,-2.1M
+feb22.2007,US Natural Gas Storage,-223B,-225B,-259B
+feb28.2007,EZ Consumer Confidence,-5,-6,-7
+feb28.2007,US Crude Oil Inventories,1.4M,2.1M,3.7M
+feb28.2007,US Distillate Inventories,-3.8M,-2.6M,-5.0M
+feb28.2007,US Gasoline Inventories,-1.9M,-1.5M,-3.0M
+mar01.2007,US Natural Gas Storage,-132B,-142B,-223B
+mar01.2007,US ISM Manufacturing PMI,52.3,50.0,49.3
+mar05.2007,US ISM Services PMI,54.3,57.2,59.0
+mar06.2007,US Factory Orders m/m,-5.6%,-4.3%,2.6%
+mar07.2007,US Crude Oil Inventories,-4.8M,1.8M,1.4M
+mar07.2007,US Distillate Inventories,-1.3M,-2.8M,-3.8M
+mar07.2007,US Gasoline Inventories,-3.8M,-1.5M,-1.9M
+mar08.2007,US Natural Gas Storage,-102B,-100B,-132B
+mar09.2007,CA Employment Change,14.0K,8.0K,89.0K
+mar09.2007,CA Unemployment Rate,6.1%,6.2%,6.2%
+mar09.2007,US Average Hourly Earnings m/m,0.4%,0.3%,0.2%
+mar09.2007,US Non-Farm Employment Change,97K,100K,146K
+mar09.2007,US Trade Balance,-59.1B,-59.5B,-61.5B
+mar09.2007,US Unemployment Rate,4.5%,4.6%,4.6%
+mar13.2007,US Retail Sales m/m,0.1%,0.3%,0.0%
+mar14.2007,US Crude Oil Inventories,1.1M,2.0M,-4.8M
+mar14.2007,US Distillate Inventories,-2.7M,-2.1M,-1.3M
+mar14.2007,US Gasoline Inventories,-2.5M,-2.4M,-3.8M
+mar15.2007,US Natural Gas Storage,-115B,-118B,-102B
+mar16.2007,US Core CPI m/m,0.2%,0.2%,0.3%
+mar16.2007,US CPI m/m,0.4%,0.3%,0.2%
+mar16.2007,US Capacity Utilization Rate,82.0%,81.3%,81.4%
+mar16.2007,US Industrial Production m/m,1.0%,0.3%,-0.3%
+mar21.2007,US Crude Oil Inventories,3.9M,1.0M,1.1M
+mar21.2007,US Distillate Inventories,-1.7M,-1.5M,-2.7M
+mar21.2007,US Gasoline Inventories,-3.5M,-2.0M,-2.5M
+mar22.2007,US Natural Gas Storage,17B,-1B,-115B
+mar28.2007,US Crude Oil Inventories,-0.8M,2.1M,3.9M
+mar28.2007,US Distillate Inventories,-0.7M,-1.6M,-1.7M
+mar28.2007,US Gasoline Inventories,-0.3M,-2.1M,-3.5M
+mar29.2007,US Natural Gas Storage,-22B,-18B,17B
+mar30.2007,EZ Consumer Confidence,-4,-5,-5
+apr02.2007,US ISM Manufacturing PMI,50.9,51.3,52.3
+apr04.2007,US Factory Orders m/m,1.0%,1.9%,-5.7%
+apr04.2007,US ISM Services PMI,52.4,54.8,54.3
+apr04.2007,US Crude Oil Inventories,4.3M,0.5M,-0.8M
+apr04.2007,US Distillate Inventories,-0.1M,-1.0M,-0.7M
+apr04.2007,US Gasoline Inventories,5.0M,-0.2M,-0.3M
+apr05.2007,CA Employment Change,54.9K,12.0K,14.2K
+apr05.2007,CA Unemployment Rate,6.1%,6.1%,6.1%
+apr05.2007,US Natural Gas Storage,58B,54B,-22B
+apr06.2007,US Average Hourly Earnings m/m,0.3%,0.3%,0.4%
+apr06.2007,US Non-Farm Employment Change,180K,135K,113K
+apr06.2007,US Unemployment Rate,4.4%,4.6%,4.5%
+apr11.2007,US Crude Oil Inventories,0.7M,1.7M,4.3M
+apr11.2007,US Distillate Inventories,0.2M,-0.9M,-0.1M
+apr11.2007,US Gasoline Inventories,-5.5M,-1.4M,5.0M
+apr12.2007,US Natural Gas Storage,23B,18B,58B
+apr13.2007,US Trade Balance,-58.4B,-60.2B,-58.9B
+apr16.2007,US Retail Sales m/m,0.7%,0.4%,0.5%
+apr17.2007,US Core CPI m/m,0.1%,0.2%,0.2%
+apr17.2007,US CPI m/m,0.6%,0.6%,0.4%
+apr17.2007,US Capacity Utilization Rate,81.4%,82.0%,81.6%
+apr17.2007,US Industrial Production m/m,-0.2%,0.2%,0.8%
+apr18.2007,US Crude Oil Inventories,-1.0M,0.7M,0.7M
+apr18.2007,US Distillate Inventories,-0.8M,-0.9M,0.2M
+apr18.2007,US Gasoline Inventories,-2.7M,-1.9M,-5.5M
+apr19.2007,US Natural Gas Storage,-46B,-48B,23B
+apr25.2007,US Crude Oil Inventories,2.1M,-1.5M,-1.0M
+apr25.2007,US Distillate Inventories,0.0M,0.5M,-0.8M
+apr25.2007,US Gasoline Inventories,-2.8M,-0.5M,-2.7M
+apr26.2007,US Natural Gas Storage,18B,18B,-46B
+apr27.2007,US Advance GDP q/q,1.3%,1.9%,2.5%
+apr30.2007,EZ Consumer Confidence,-4,-4,-4
+may01.2007,US ISM Manufacturing PMI,54.7,51.0,50.9
+may02.2007,US Factory Orders m/m,3.1%,1.8%,1.4%
+may02.2007,US Crude Oil Inventories,1.2M,1.5M,2.1M
+may02.2007,US Distillate Inventories,-0.2M,0.3M,0.0M
+may02.2007,US Gasoline Inventories,-1.1M,-1.3M,-2.8M
+may03.2007,US ISM Services PMI,56.0,53.2,52.4
+may03.2007,US Natural Gas Storage,87B,81B,18B
+may04.2007,US Average Hourly Earnings m/m,0.2%,0.3%,0.3%
+may04.2007,US Non-Farm Employment Change,88K,107K,177K
+may04.2007,US Unemployment Rate,4.5%,4.5%,4.4%
+may09.2007,US Crude Oil Inventories,5.5M,0.9M,1.2M
+may09.2007,US Distillate Inventories,1.6M,0.5M,-0.2M
+may09.2007,US Gasoline Inventories,0.4M,0.2M,-1.1M
+may10.2007,US Trade Balance,-63.9B,-60.0B,-57.9B
+may10.2007,US Natural Gas Storage,96B,96B,87B
+may11.2007,CA Employment Change,-5.2K,18.5K,54.9K
+may11.2007,CA Unemployment Rate,6.1%,6.1%,6.1%
+may11.2007,US Retail Sales m/m,-0.2%,0.4%,1.0%
+may15.2007,US Core CPI m/m,0.2%,0.2%,0.1%
+may15.2007,US CPI m/m,0.4%,0.5%,0.6%
+may16.2007,US Capacity Utilization Rate,81.6%,81.4%,81.2%
+may16.2007,US Industrial Production m/m,0.7%,0.3%,-0.3%
+may16.2007,US Crude Oil Inventories,1.1M,0.0M,5.5M
+may16.2007,US Distillate Inventories,1.0M,1.3M,1.6M
+may16.2007,US Gasoline Inventories,1.8M,1.0M,0.4M
+may17.2007,US Natural Gas Storage,95B,97B,96B
+may23.2007,US Crude Oil Inventories,2.0M,0.6M,1.1M
+may23.2007,US Distillate Inventories,0.5M,1.3M,1.0M
+may23.2007,US Gasoline Inventories,1.4M,1.2M,1.8M
+may24.2007,US Natural Gas Storage,104B,96B,95B
+may31.2007,EZ Consumer Confidence,-1,-4,-4
+may31.2007,US Crude Oil Inventories,-2.0M,1.0M,2.0M
+may31.2007,US Distillate Inventories,0.1M,0.7M,0.5M
+may31.2007,US Gasoline Inventories,1.4M,1.5M,1.4M
+may31.2007,US Natural Gas Storage,107B,105B,104B
+jun01.2007,US Average Hourly Earnings m/m,0.3%,0.3%,0.2%
+jun01.2007,US Non-Farm Employment Change,157K,135K,80K
+jun01.2007,US Unemployment Rate,4.5%,4.5%,4.5%
+jun01.2007,US ISM Manufacturing PMI,55.0,54.0,54.7
+jun04.2007,US Factory Orders m/m,0.3%,0.7%,4.1%
+jun05.2007,US ISM Services PMI,59.7,55.3,56.0
+jun06.2007,US Crude Oil Inventories,0.1M,0.1M,-2.0M
+jun06.2007,US Distillate Inventories,1.9M,0.9M,0.1M
+jun06.2007,US Gasoline Inventories,3.5M,1.6M,1.4M
+jun07.2007,US Natural Gas Storage,110B,105B,107B
+jun08.2007,CA Employment Change,9.3K,16.0K,-5.2K
+jun08.2007,CA Unemployment Rate,6.1%,6.1%,6.1%
+jun08.2007,US Trade Balance,-58.5B,-63.5B,-62.4B
+jun13.2007,US Retail Sales m/m,1.4%,0.6%,-0.1%
+jun13.2007,US Crude Oil Inventories,0.1M,-0.3M,0.1M
+jun13.2007,US Distillate Inventories,0.3M,1.7M,1.9M
+jun13.2007,US Gasoline Inventories,0.0M,1.6M,3.5M
+jun14.2007,US Natural Gas Storage,92B,98B,110B
+jun15.2007,US Core CPI m/m,0.1%,0.2%,0.2%
+jun15.2007,US CPI m/m,0.7%,0.6%,0.4%
+jun15.2007,US Capacity Utilization Rate,81.3%,81.6%,81.5%
+jun15.2007,US Industrial Production m/m,0.0%,0.1%,0.4%
+jun20.2007,US Crude Oil Inventories,6.9M,0.0M,0.1M
+jun20.2007,US Distillate Inventories,0.2M,0.9M,0.3M
+jun20.2007,US Gasoline Inventories,1.8M,1.2M,0.0M
+jun21.2007,US Natural Gas Storage,89B,88B,92B
+jun27.2007,US Crude Oil Inventories,1.6M,1.6M,6.9M
+jun27.2007,US Distillate Inventories,-2.3M,0.6M,0.2M
+jun27.2007,US Gasoline Inventories,-0.7M,1.0M,1.8M
+jun28.2007,US Natural Gas Storage,99B,84B,89B
+jun29.2007,EZ Consumer Confidence,-2,-1,-1
+jul02.2007,US ISM Manufacturing PMI,56.0,55.0,55.0
+jul03.2007,US Factory Orders m/m,-0.5%,-0.9%,0.5%
+jul05.2007,US ISM Services PMI,60.7,58.1,59.7
+jul05.2007,US Crude Oil Inventories,3.2M,-0.2M,1.6M
+jul05.2007,US Distillate Inventories,1.2M,0.5M,-2.3M
+jul05.2007,US Gasoline Inventories,1.9M,0.5M,-0.7M
+jul06.2007,CA Employment Change,34.8K,17.5K,9.3K
+jul06.2007,CA Unemployment Rate,6.1%,6.1%,6.1%
+jul06.2007,US Average Hourly Earnings m/m,0.3%,0.4%,0.4%
+jul06.2007,US Non-Farm Employment Change,132K,125K,190K
+jul06.2007,US Unemployment Rate,4.5%,4.5%,4.5%
+jul06.2007,US Natural Gas Storage,78B,82B,99B
+jul11.2007,US Crude Oil Inventories,-1.5M,0.0M,3.2M
+jul11.2007,US Distillate Inventories,0.8M,0.9M,1.2M
+jul11.2007,US Gasoline Inventories,1.1M,0.8M,1.9M
+jul12.2007,US Trade Balance,-60.0B,-60.0B,-58.7B
+jul12.2007,US Natural Gas Storage,106B,97B,78B
+jul13.2007,US Retail Sales m/m,-0.9%,0.0%,1.5%
+jul17.2007,US Capacity Utilization Rate,81.7%,81.5%,81.4%
+jul17.2007,US Industrial Production m/m,0.5%,0.4%,-0.1%
+jul18.2007,US Core CPI m/m,0.2%,0.2%,0.1%
+jul18.2007,US CPI m/m,0.2%,0.1%,0.7%
+jul18.2007,US Crude Oil Inventories,-0.4M,-0.5M,-1.5M
+jul18.2007,US Distillate Inventories,-0.1M,0.9M,0.8M
+jul18.2007,US Gasoline Inventories,-2.2M,0.9M,1.1M
+jul19.2007,US Natural Gas Storage,65B,69B,106B
+jul25.2007,US Crude Oil Inventories,-1.1M,-1.4M,-0.4M
+jul25.2007,US Distillate Inventories,1.4M,0.8M,-0.1M
+jul25.2007,US Gasoline Inventories,0.8M,0.2M,-2.2M
+jul26.2007,US Natural Gas Storage,71B,70B,65B
+jul27.2007,US Advance GDP q/q,3.4%,3.2%,0.7%
+jul31.2007,EZ Consumer Confidence,-2,-2,-2
+aug01.2007,US ISM Manufacturing PMI,53.8,55.7,56.0
+aug01.2007,US Crude Oil Inventories,-6.5M,-1.0M,-1.1M
+aug01.2007,US Distillate Inventories,2.9M,1.3M,1.4M
+aug01.2007,US Gasoline Inventories,0.6M,0.0M,0.8M
+aug02.2007,US Factory Orders m/m,0.6%,1.2%,-0.5%
+aug02.2007,US Natural Gas Storage,77B,74B,71B
+aug03.2007,US Average Hourly Earnings m/m,0.3%,0.3%,0.4%
+aug03.2007,US Non-Farm Employment Change,92K,135K,126K
+aug03.2007,US Unemployment Rate,4.6%,4.5%,4.5%
+aug03.2007,US ISM Services PMI,55.8,59.5,60.7
+aug08.2007,US Crude Oil Inventories,-4.1M,-2.8M,-6.5M
+aug08.2007,US Distillate Inventories,1.0M,1.7M,2.9M
+aug08.2007,US Gasoline Inventories,-1.7M,0.8M,0.6M
+aug09.2007,US Natural Gas Storage,42B,50B,77B
+aug10.2007,CA Employment Change,11.3K,21.0K,34.8K
+aug10.2007,CA Unemployment Rate,6.0%,6.1%,6.1%
+aug13.2007,US Retail Sales m/m,0.3%,0.3%,-0.7%
+aug14.2007,US Trade Balance,-58.1B,-61.0B,-59.2B
+aug15.2007,US Core CPI m/m,0.2%,0.2%,0.2%
+aug15.2007,US CPI m/m,0.1%,0.2%,0.2%
+aug15.2007,US Capacity Utilization Rate,81.9%,81.8%,81.8%
+aug15.2007,US Industrial Production m/m,0.3%,0.3%,0.6%
+aug15.2007,US Crude Oil Inventories,-5.2M,-2.5M,-4.1M
+aug15.2007,US Distillate Inventories,0.2M,1.3M,1.0M
+aug15.2007,US Gasoline Inventories,-1.1M,-0.7M,-1.7M
+aug16.2007,US Natural Gas Storage,21B,24B,42B
+aug22.2007,US Crude Oil Inventories,1.9M,-2.8M,-5.2M
+aug22.2007,US Distillate Inventories,1.4M,0.9M,0.2M
+aug22.2007,US Gasoline Inventories,-5.7M,-0.8M,-1.1M
+aug23.2007,US Natural Gas Storage,23B,29B,21B
+aug29.2007,US Crude Oil Inventories,-3.5M,-0.6M,1.9M
+aug29.2007,US Distillate Inventories,0.9M,0.8M,1.4M
+aug29.2007,US Gasoline Inventories,-3.7M,-2.5M,-5.7M
+aug30.2007,US Natural Gas Storage,43B,40B,23B
+aug31.2007,EZ Consumer Confidence,-3,-2,-2
+aug31.2007,US Factory Orders m/m,3.7%,3.3%,1.0%
+sep04.2007,US ISM Manufacturing PMI,52.9,53.2,53.8
+sep06.2007,US ISM Services PMI,55.8,54.5,55.8
+sep06.2007,US Crude Oil Inventories,-4.0M,-2.1M,-3.5M
+sep06.2007,US Distillate Inventories,2.3M,1.0M,0.9M
+sep06.2007,US Gasoline Inventories,-1.5M,-1.3M,-3.7M
+sep06.2007,US Natural Gas Storage,36B,44B,43B
+sep07.2007,CA Employment Change,23.3K,15.3K,11.3K
+sep07.2007,CA Unemployment Rate,6.0%,6.1%,6.0%
+sep07.2007,US Average Hourly Earnings m/m,0.3%,0.3%,0.3%
+sep07.2007,US Non-Farm Employment Change,-4K,110K,68K
+sep07.2007,US Unemployment Rate,4.6%,4.6%,4.6%
+sep11.2007,US Trade Balance,-59.2B,-59.0B,-59.4B
+sep12.2007,US Crude Oil Inventories,-7.0M,-2.7M,-4.0M
+sep12.2007,US Distillate Inventories,1.8M,1.9M,2.3M
+sep12.2007,US Gasoline Inventories,-0.7M,-0.5M,-1.5M
+sep13.2007,US Natural Gas Storage,64B,61B,36B
+sep14.2007,US Retail Sales m/m,0.3%,0.6%,0.5%
+sep14.2007,US Capacity Utilization Rate,82.2%,82.0%,82.2%
+sep14.2007,US Industrial Production m/m,0.2%,0.3%,0.5%
+sep19.2007,US Core CPI m/m,0.2%,0.2%,0.2%
+sep19.2007,US CPI m/m,-0.1%,0.0%,0.1%
+sep19.2007,US Crude Oil Inventories,-3.9M,-2.0M,-7.0M
+sep19.2007,US Distillate Inventories,1.6M,1.2M,1.8M
+sep19.2007,US Gasoline Inventories,0.4M,-1.0M,-0.7M
+sep20.2007,US Natural Gas Storage,63B,66B,64B
+sep26.2007,US Crude Oil Inventories,1.8M,-2.1M,-3.9M
+sep26.2007,US Distillate Inventories,1.5M,1.1M,1.6M
+sep26.2007,US Gasoline Inventories,0.5M,-0.3M,0.4M
+sep27.2007,US Natural Gas Storage,74B,73B,63B
+sep28.2007,EZ Consumer Confidence,-5,-4,-4
+oct01.2007,US ISM Manufacturing PMI,52.0,52.8,52.9
+oct03.2007,US ISM Services PMI,54.8,55.0,55.8
+oct03.2007,US Crude Oil Inventories,1.1M,-0.5M,1.8M
+oct03.2007,US Distillate Inventories,-1.2M,1.3M,1.5M
+oct03.2007,US Gasoline Inventories,0.0M,0.5M,0.5M
+oct04.2007,US Factory Orders m/m,-3.3%,-2.6%,3.4%
+oct04.2007,US Natural Gas Storage,57B,64B,74B
+oct05.2007,CA Employment Change,51.1K,16.5K,23.3K
+oct05.2007,CA Unemployment Rate,5.9%,6.1%,6.0%
+oct05.2007,US Average Hourly Earnings m/m,0.4%,0.3%,0.3%
+oct05.2007,US Non-Farm Employment Change,110K,100K,89K
+oct05.2007,US Unemployment Rate,4.7%,4.7%,4.6%
+oct11.2007,US Trade Balance,-57.6B,-58.8B,-59.2B
+oct11.2007,US Crude Oil Inventories,-1.7M,1.1M,1.1M
+oct11.2007,US Distillate Inventories,-0.6M,-0.8M,-1.2M
+oct11.2007,US Gasoline Inventories,1.7M,-0.4M,0.0M
+oct11.2007,US Natural Gas Storage,73B,70B,57B
+oct12.2007,US Retail Sales m/m,0.6%,0.3%,0.3%
+oct17.2007,US Core CPI m/m,0.2%,0.2%,0.2%
+oct17.2007,US CPI m/m,0.3%,0.2%,-0.1%
+oct17.2007,US Crude Oil Inventories,1.8M,0.8M,-1.7M
+oct17.2007,US Distillate Inventories,1.0M,-0.7M,-0.6M
+oct17.2007,US Gasoline Inventories,2.8M,0.4M,1.7M
+oct18.2007,US Natural Gas Storage,39B,50B,73B
+oct24.2007,US Crude Oil Inventories,-5.3M,1.0M,1.8M
+oct24.2007,US Distillate Inventories,-1.8M,0.3M,1.0M
+oct24.2007,US Gasoline Inventories,-1.9M,0.5M,2.8M
+oct25.2007,US Natural Gas Storage,68B,54B,39B
+oct31.2007,EZ Consumer Confidence,-6,-5,-6
+oct31.2007,US Advance GDP q/q,3.9%,3.1%,3.8%
+oct31.2007,US Crude Oil Inventories,-3.9M,0.4M,-5.3M
+oct31.2007,US Distillate Inventories,0.8M,-1.0M,-1.8M
+oct31.2007,US Gasoline Inventories,1.3M,-0.2M,-1.9M
+nov01.2007,US ISM Manufacturing PMI,50.9,51.7,52.0
+nov01.2007,US Natural Gas Storage,66B,59B,68B
+nov02.2007,CA Employment Change,63.0K,12.0K,51.1K
+nov02.2007,CA Unemployment Rate,5.8%,5.9%,5.9%
+nov02.2007,US Average Hourly Earnings m/m,0.2%,0.3%,0.3%
+nov02.2007,US Non-Farm Employment Change,166K,82K,96K
+nov02.2007,US Unemployment Rate,4.7%,4.7%,4.7%
+nov02.2007,US Factory Orders m/m,0.2%,-0.5%,-3.5%
+nov05.2007,US ISM Services PMI,55.8,54.0,54.8
+nov07.2007,US Crude Oil Inventories,-0.8M,-1.3M,-3.9M
+nov07.2007,US Distillate Inventories,0.1M,-0.5M,0.8M
+nov07.2007,US Gasoline Inventories,-0.8M,0.0M,1.3M
+nov08.2007,US Natural Gas Storage,36B,30B,66B
+nov09.2007,US Trade Balance,-56.5B,-59.0B,-56.8B
+nov14.2007,US Retail Sales m/m,0.2%,0.2%,0.7%
+nov15.2007,US Core CPI m/m,0.2%,0.2%,0.2%
+nov15.2007,US CPI m/m,0.3%,0.3%,0.3%
+nov15.2007,US Crude Oil Inventories,2.8M,-0.8M,-0.8M
+nov15.2007,US Distillate Inventories,2.0M,-0.2M,0.1M
+nov15.2007,US Gasoline Inventories,0.7M,-0.4M,-0.8M
+nov15.2007,US Natural Gas Storage,-9B,-8B,36B
+nov16.2007,US Capacity Utilization Rate,81.7%,82.0%,82.2%
+nov16.2007,US Industrial Production m/m,-0.5%,0.1%,0.2%
+nov21.2007,US Crude Oil Inventories,-1.1M,0.8M,2.8M
+nov21.2007,US Distillate Inventories,-2.4M,-0.5M,2.0M
+nov21.2007,US Gasoline Inventories,0.2M,0.9M,0.7M
+nov21.2007,US Natural Gas Storage,4B,2B,-9B
+nov28.2007,US Crude Oil Inventories,-0.5M,-1.0M,-1.1M
+nov28.2007,US Distillate Inventories,-0.1M,-1.2M,-2.4M
+nov28.2007,US Gasoline Inventories,1.4M,0.5M,0.2M
+nov29.2007,US Natural Gas Storage,-12B,-20B,4B
+nov30.2007,EZ Consumer Confidence,-8,-6,-6
+dec03.2007,US ISM Manufacturing PMI,50.8,50.5,50.9
+dec05.2007,US Factory Orders m/m,0.5%,0.1%,0.3%
+dec05.2007,US ISM Services PMI,54.1,55.0,55.8
+dec05.2007,US Crude Oil Inventories,-7.9M,-1.3M,-0.5M
+dec05.2007,US Distillate Inventories,1.4M,-0.3M,-0.1M
+dec05.2007,US Gasoline Inventories,4.0M,0.6M,1.4M
+dec06.2007,US Natural Gas Storage,-88B,-79B,-12B
+dec07.2007,CA Employment Change,42.6K,8.0K,63.0K
+dec07.2007,CA Unemployment Rate,5.9%,5.9%,5.8%
+dec07.2007,US Average Hourly Earnings m/m,0.5%,0.3%,0.1%
+dec07.2007,US Non-Farm Employment Change,94K,75K,170K
+dec07.2007,US Unemployment Rate,4.7%,4.8%,4.7%
+dec12.2007,US Trade Balance,-57.8B,-57.3B,-57.1B
+dec12.2007,US Crude Oil Inventories,-0.7M,-0.9M,-7.9M
+dec12.2007,US Distillate Inventories,-0.8M,0.5M,1.4M
+dec12.2007,US Gasoline Inventories,1.6M,1.0M,4.0M
+dec13.2007,US Retail Sales m/m,1.2%,0.5%,0.2%
+dec13.2007,US Natural Gas Storage,-146B,-127B,-88B
+dec14.2007,US Core CPI m/m,0.3%,0.2%,0.2%
+dec14.2007,US CPI m/m,0.8%,0.6%,0.3%
+dec14.2007,US Capacity Utilization Rate,81.5%,81.7%,81.4%
+dec14.2007,US Industrial Production m/m,0.3%,0.1%,-0.7%
+dec19.2007,US Crude Oil Inventories,-7.6M,-1.5M,-0.7M
+dec19.2007,US Distillate Inventories,-2.2M,-0.5M,-0.8M
+dec19.2007,US Gasoline Inventories,3.0M,0.8M,1.6M
+dec20.2007,US Natural Gas Storage,-121B,-133B,-146B
+dec27.2007,US Crude Oil Inventories,-3.3M,-1.4M,-7.6M
+dec27.2007,US Distillate Inventories,-2.8M,-0.9M,-2.2M
+dec27.2007,US Gasoline Inventories,0.6M,1.4M,3.0M
+dec28.2007,US Natural Gas Storage,-165B,-155B,-121B
+jan02.2008,US ISM Manufacturing PMI,47.7,50.7,50.8
+jan03.2008,US Factory Orders m/m,1.5%,0.5%,0.7%
+jan03.2008,US Crude Oil Inventories,-4.0M,-2.3M,-3.3M
+jan03.2008,US Distillate Inventories,0.6M,-0.6M,-2.8M
+jan03.2008,US Gasoline Inventories,2.0M,1.5M,0.6M
+jan04.2008,US Average Hourly Earnings m/m,0.4%,0.3%,0.4%
+jan04.2008,US Non-Farm Employment Change,18K,70K,115K
+jan04.2008,US Unemployment Rate,5.0%,4.8%,4.7%
+jan04.2008,US ISM Services PMI,53.9,53.5,54.1
+jan04.2008,US Natural Gas Storage,-87B,-110B,-165B
+jan07.2008,EZ Consumer Confidence,-9,-8,-8
+jan09.2008,US Crude Oil Inventories,-6.7M,-2.1M,-4.0M
+jan09.2008,US Distillate Inventories,1.5M,1.0M,0.6M
+jan09.2008,US Gasoline Inventories,5.2M,1.6M,2.0M
+jan10.2008,US Natural Gas Storage,-171B,-163B,-87B
+jan11.2008,CA Employment Change,-18.7K,15.0K,42.6K
+jan11.2008,CA Unemployment Rate,5.9%,5.9%,5.9%
+jan11.2008,US Trade Balance,-63.1B,-59.5B,-57.8B
+jan15.2008,US Retail Sales m/m,-0.4%,0.0%,1.0%
+jan16.2008,US Core CPI m/m,0.2%,0.2%,0.3%
+jan16.2008,US CPI m/m,0.3%,0.2%,0.8%
+jan16.2008,US Capacity Utilization Rate,81.4%,81.2%,81.6%
+jan16.2008,US Industrial Production m/m,0.0%,-0.1%,0.3%
+jan16.2008,US Crude Oil Inventories,4.3M,1.3M,-6.7M
+jan16.2008,US Distillate Inventories,1.2M,1.3M,1.5M
+jan16.2008,US Gasoline Inventories,2.2M,2.5M,5.2M
+jan17.2008,US Natural Gas Storage,-59B,-60B,-171B
+jan24.2008,US Crude Oil Inventories,2.3M,1.5M,4.3M
+jan24.2008,US Distillate Inventories,-1.3M,0.0M,1.2M
+jan24.2008,US Gasoline Inventories,5.1M,1.4M,2.2M
+jan24.2008,US Natural Gas Storage,-155B,-159B,-59B
+jan30.2008,US Advance GDP q/q,0.6%,1.2%,4.9%
+jan30.2008,US Crude Oil Inventories,3.6M,2.0M,2.3M
+jan30.2008,US Distillate Inventories,-1.5M,2.2M,-1.3M
+jan30.2008,US Gasoline Inventories,3.6M,1.9M,5.1M
+jan31.2008,EZ Consumer Confidence,-12,-10,-9
+jan31.2008,US Natural Gas Storage,-274B,-257B,-155B
+feb01.2008,US Average Hourly Earnings m/m,0.2%,0.3%,0.4%
+feb01.2008,US Non-Farm Employment Change,-17K,65K,82K
+feb01.2008,US Unemployment Rate,4.9%,5.0%,5.0%
+feb01.2008,US ISM Manufacturing PMI,50.7,47.3,47.7
+feb04.2008,US Factory Orders m/m,2.3%,2.3%,1.7%
+feb05.2008,US ISM Services PMI,44.6,52.4,53.2
+feb06.2008,US Crude Oil Inventories,7.0M,2.6M,3.6M
+feb06.2008,US Distillate Inventories,0.1M,-2.1M,-1.5M
+feb06.2008,US Gasoline Inventories,3.6M,1.9M,3.6M
+feb07.2008,US Natural Gas Storage,-200B,-187B,-274B
+feb08.2008,CA Employment Change,46.4K,10.0K,-18.7K
+feb08.2008,CA Unemployment Rate,5.8%,6.0%,5.9%
+feb13.2008,US Retail Sales m/m,0.3%,-0.2%,-0.4%
+feb13.2008,US Crude Oil Inventories,1.1M,2.4M,7.0M
+feb13.2008,US Distillate Inventories,-0.2M,-1.5M,0.1M
+feb13.2008,US Gasoline Inventories,1.7M,1.5M,3.6M
+feb14.2008,US Trade Balance,-58.8B,-61.8B,-63.1B
+feb14.2008,US Natural Gas Storage,-120B,-117B,-200B
+feb15.2008,US Capacity Utilization Rate,81.5%,81.4%,81.5%
+feb15.2008,US Industrial Production m/m,0.1%,0.1%,0.1%
+feb20.2008,US Core CPI m/m,0.3%,0.2%,0.2%
+feb20.2008,US CPI m/m,0.4%,0.3%,0.3%
+feb21.2008,US Crude Oil Inventories,4.2M,2.4M,1.1M
+feb21.2008,US Distillate Inventories,-4.4M,-1.6M,-0.2M
+feb21.2008,US Gasoline Inventories,1.0M,0.5M,1.7M
+feb21.2008,US Natural Gas Storage,-172B,-174B,-120B
+feb27.2008,US Crude Oil Inventories,3.2M,2.7M,4.2M
+feb27.2008,US Distillate Inventories,-2.6M,-2.2M,-4.4M
+feb27.2008,US Gasoline Inventories,2.3M,0.4M,1.0M
+feb28.2008,US Natural Gas Storage,-151B,-157B,-172B
+feb29.2008,EZ Consumer Confidence,-12,-12,-12
+mar03.2008,US ISM Manufacturing PMI,48.3,48.0,50.7
+mar05.2008,US Factory Orders m/m,-2.5%,-2.3%,2.0%
+mar05.2008,US ISM Services PMI,49.3,47.6,44.6
+mar05.2008,US Crude Oil Inventories,-3.1M,2.4M,3.2M
+mar05.2008,US Distillate Inventories,-2.3M,-1.6M,-2.6M
+mar05.2008,US Gasoline Inventories,1.7M,0.6M,2.3M
+mar06.2008,US Natural Gas Storage,-135B,-143B,-151B
+mar07.2008,CA Employment Change,43.3K,3.0K,46.4K
+mar07.2008,CA Unemployment Rate,5.8%,5.9%,5.8%
+mar07.2008,US Average Hourly Earnings m/m,0.3%,0.3%,0.3%
+mar07.2008,US Non-Farm Employment Change,-63K,25K,-22K
+mar07.2008,US Unemployment Rate,4.8%,5.0%,4.9%
+mar11.2008,US Trade Balance,-58.2B,-59.5B,-57.9B
+mar12.2008,US Crude Oil Inventories,6.2M,1.7M,-3.1M
+mar12.2008,US Distillate Inventories,-1.2M,-2.0M,-2.3M
+mar12.2008,US Gasoline Inventories,1.7M,0.1M,1.7M
+mar13.2008,US Retail Sales m/m,-0.6%,0.2%,0.4%
+mar13.2008,US Natural Gas Storage,-86B,-85B,-135B
+mar14.2008,US Core CPI m/m,0.0%,0.2%,0.3%
+mar14.2008,US CPI m/m,0.0%,0.3%,0.4%
+mar17.2008,US Capacity Utilization Rate,80.9%,81.2%,81.5%
+mar17.2008,US Industrial Production m/m,-0.5%,-0.1%,0.1%
+mar19.2008,US Crude Oil Inventories,0.1M,2.3M,6.2M
+mar19.2008,US Distillate Inventories,-2.9M,-1.5M,-1.2M
+mar19.2008,US Gasoline Inventories,-3.4M,0.0M,1.7M
+mar20.2008,US Natural Gas Storage,-85B,-45B,-86B
+mar26.2008,US Crude Oil Inventories,0.1M,1.7M,0.1M
+mar26.2008,US Distillate Inventories,-2.1M,-1.8M,-2.9M
+mar26.2008,US Gasoline Inventories,-3.3M,-1.5M,-3.4M
+mar27.2008,US Natural Gas Storage,-36B,-33B,-85B
+mar31.2008,EZ Consumer Confidence,-12,-12,-12
+apr01.2008,US ISM Manufacturing PMI,48.6,47.5,48.3
+apr02.2008,US Factory Orders m/m,-1.3%,-0.8%,-2.3%
+apr02.2008,US Crude Oil Inventories,7.3M,2.3M,0.1M
+apr02.2008,US Distillate Inventories,-1.6M,-1.6M,-2.1M
+apr02.2008,US Gasoline Inventories,-4.5M,-2.8M,-3.3M
+apr03.2008,US ISM Services PMI,49.6,48.5,49.3
+apr03.2008,US Natural Gas Storage,-29B,-34B,-36B
+apr04.2008,CA Employment Change,14.6K,15.0K,43.3K
+apr04.2008,CA Unemployment Rate,6.0%,5.8%,5.8%
+apr04.2008,US Average Hourly Earnings m/m,0.3%,0.3%,0.3%
+apr04.2008,US Non-Farm Employment Change,-80K,-50K,-76K
+apr04.2008,US Unemployment Rate,5.1%,5.0%,4.8%
+apr09.2008,US Crude Oil Inventories,-3.1M,2.3M,7.3M
+apr09.2008,US Distillate Inventories,-3.7M,-1.5M,-1.6M
+apr09.2008,US Gasoline Inventories,-3.4M,-3.0M,-4.5M
+apr10.2008,US Trade Balance,-62.3B,-57.4B,-59.0B
+apr10.2008,US Natural Gas Storage,-14B,-15B,-29B
+apr14.2008,US Retail Sales m/m,0.2%,0.0%,-0.4%
+apr16.2008,US Core CPI m/m,0.2%,0.2%,0.0%
+apr16.2008,US CPI m/m,0.3%,0.3%,0.0%
+apr16.2008,US Capacity Utilization Rate,80.5%,80.3%,80.3%
+apr16.2008,US Industrial Production m/m,0.3%,-0.1%,-0.7%
+apr16.2008,US Distillate Inventories,0.1M,-1.6M,-3.7M
+apr16.2008,US Gasoline Inventories,-5.5M,-1.8M,-3.4M
+apr16.2008,US Crude Oil Inventories,-2.4M,1.8M,-3.1M
+apr17.2008,US Natural Gas Storage,27B,16B,-14B
+apr23.2008,US Crude Oil Inventories,2.4M,1.5M,-2.4M
+apr23.2008,US Distillate Inventories,-1.4M,-0.1M,0.1M
+apr23.2008,US Gasoline Inventories,-3.2M,-2.0M,-5.5M
+apr24.2008,US Natural Gas Storage,24B,22B,27B
+apr30.2008,EZ Consumer Confidence,-12,-13,-12
+apr30.2008,US Advance GDP q/q,0.6%,0.2%,0.6%
+apr30.2008,US Crude Oil Inventories,3.8M,0.9M,2.4M
+apr30.2008,US Distillate Inventories,1.1M,-0.3M,-1.4M
+apr30.2008,US Gasoline Inventories,-1.5M,-0.9M,-3.2M
+may01.2008,US ISM Manufacturing PMI,48.6,48.0,48.6
+may01.2008,US Natural Gas Storage,86B,30B,24B
+may02.2008,US Average Hourly Earnings m/m,0.1%,0.3%,0.3%
+may02.2008,US Non-Farm Employment Change,-20K,-80K,-81K
+may02.2008,US Unemployment Rate,5.0%,5.2%,5.1%
+may02.2008,US Factory Orders m/m,1.4%,0.2%,-0.9%
+may05.2008,US ISM Services PMI,52.0,49.1,49.6
+may07.2008,US Crude Oil Inventories,5.7M,1.6M,3.8M
+may07.2008,US Distillate Inventories,-0.1M,-1.1M,1.1M
+may07.2008,US Gasoline Inventories,0.8M,0.1M,-1.5M
+may08.2008,US Natural Gas Storage,65B,71B,86B
+may09.2008,CA Employment Change,19.2K,10.0K,14.6K
+may09.2008,CA Unemployment Rate,6.1%,6.0%,6.0%
+may09.2008,US Trade Balance,-58.2B,-61.4B,-61.7B
+may13.2008,US Retail Sales m/m,-0.2%,-0.2%,0.2%
+may14.2008,US Core CPI m/m,0.1%,0.2%,0.2%
+may14.2008,US CPI m/m,0.2%,0.3%,0.3%
+may14.2008,US Crude Oil Inventories,0.2M,2.2M,5.7M
+may14.2008,US Distillate Inventories,1.3M,1.3M,-0.1M
+may14.2008,US Gasoline Inventories,-1.7M,-0.2M,0.8M
+may15.2008,US Capacity Utilization Rate,79.7%,80.1%,80.4%
+may15.2008,US Industrial Production m/m,-0.7%,-0.3%,0.2%
+may15.2008,US Natural Gas Storage,93B,88B,65B
+may21.2008,US Crude Oil Inventories,-5.4M,0.5M,0.2M
+may21.2008,US Distillate Inventories,0.7M,1.4M,1.3M
+may21.2008,US Gasoline Inventories,-0.8M,0.3M,-1.7M
+may22.2008,US Natural Gas Storage,85B,85B,93B
+may29.2008,EZ Consumer Confidence,-15,-12,-12
+may29.2008,US Crude Oil Inventories,-8.8M,-0.3M,-5.4M
+may29.2008,US Distillate Inventories,1.6M,1.0M,0.7M
+may29.2008,US Gasoline Inventories,-3.3M,0.0M,-0.8M
+may29.2008,US Natural Gas Storage,87B,84B,85B
+jun02.2008,US ISM Manufacturing PMI,49.6,48.6,48.6
+jun03.2008,US Factory Orders m/m,1.1%,0.0%,1.5%
+jun04.2008,US ISM Services PMI,51.7,51.0,52.0
+jun04.2008,US Crude Oil Inventories,-4.8M,1.1M,-8.8M
+jun04.2008,US Distillate Inventories,2.3M,1.7M,1.6M
+jun04.2008,US Gasoline Inventories,2.9M,1.5M,-3.3M
+jun05.2008,US Natural Gas Storage,105B,103B,87B
+jun06.2008,CA Employment Change,8.4K,10.0K,19.2K
+jun06.2008,CA Unemployment Rate,6.1%,6.1%,6.1%
+jun06.2008,US Average Hourly Earnings m/m,0.3%,0.2%,0.1%
+jun06.2008,US Non-Farm Employment Change,-49K,-57K,-28K
+jun06.2008,US Unemployment Rate,5.5%,5.1%,5.0%
+jun10.2008,US Trade Balance,-60.9B,-59.5B,-56.5B
+jun11.2008,US Crude Oil Inventories,-4.6M,-0.9M,-4.8M
+jun11.2008,US Distillate Inventories,2.3M,2.0M,2.3M
+jun11.2008,US Gasoline Inventories,1.0M,0.9M,2.9M
+jun12.2008,US Retail Sales m/m,1.0%,0.5%,0.4%
+jun12.2008,US Natural Gas Storage,80B,94B,105B
+jun13.2008,US Core CPI m/m,0.2%,0.2%,0.1%
+jun13.2008,US CPI m/m,0.6%,0.5%,0.2%
+jun17.2008,US Capacity Utilization Rate,79.4%,79.7%,79.6%
+jun17.2008,US Industrial Production m/m,-0.2%,0.1%,-0.7%
+jun18.2008,US Crude Oil Inventories,-1.2M,-1.5M,-4.6M
+jun18.2008,US Distillate Inventories,2.6M,1.8M,2.3M
+jun18.2008,US Gasoline Inventories,-1.2M,0.9M,1.0M
+jun19.2008,US Natural Gas Storage,57B,61B,80B
+jun25.2008,US Crude Oil Inventories,0.8M,-0.1M,-1.2M
+jun25.2008,US Distillate Inventories,2.8M,2.0M,2.6M
+jun25.2008,US Gasoline Inventories,-0.2M,0.0M,-1.2M
+jun26.2008,US Natural Gas Storage,90B,90B,57B
+jun27.2008,EZ Consumer Confidence,-17,-16,-15
+jul01.2008,US ISM Manufacturing PMI,50.2,48.6,49.6
+jul02.2008,US Factory Orders m/m,0.6%,0.4%,1.3%
+jul02.2008,US Crude Oil Inventories,-2.0M,-0.1M,0.8M
+jul02.2008,US Distillate Inventories,1.3M,1.5M,2.8M
+jul02.2008,US Gasoline Inventories,2.1M,0.5M,-0.2M
+jul03.2008,US Average Hourly Earnings m/m,0.3%,0.3%,0.3%
+jul03.2008,US Non-Farm Employment Change,-62K,-60K,-62K
+jul03.2008,US Unemployment Rate,5.5%,5.4%,5.5%
+jul03.2008,US ISM Services PMI,48.2,51.1,51.7
+jul03.2008,US Natural Gas Storage,85B,89B,90B
+jul09.2008,US Crude Oil Inventories,-5.9M,-1.5M,-2.0M
+jul09.2008,US Distillate Inventories,1.8M,2.1M,1.3M
+jul09.2008,US Gasoline Inventories,0.9M,0.1M,2.1M
+jul10.2008,US Natural Gas Storage,90B,95B,85B
+jul11.2008,CA Employment Change,-5.0K,10.0K,8.4K
+jul11.2008,CA Unemployment Rate,6.2%,6.1%,6.1%
+jul11.2008,US Trade Balance,-59.8B,-62.5B,-60.5B
+jul15.2008,US Retail Sales m/m,0.1%,0.4%,0.8%
+jul16.2008,US Core CPI m/m,0.3%,0.2%,0.2%
+jul16.2008,US CPI m/m,1.1%,0.7%,0.6%
+jul16.2008,US Capacity Utilization Rate,79.9%,79.3%,79.6%
+jul16.2008,US Industrial Production m/m,0.5%,0.0%,-0.2%
+jul16.2008,US Crude Oil Inventories,3.0M,-1.2M,-5.9M
+jul16.2008,US Distillate Inventories,3.2M,2.1M,1.8M
+jul16.2008,US Gasoline Inventories,2.5M,-0.8M,0.9M
+jul17.2008,US Natural Gas Storage,104B,88B,90B
+jul23.2008,US Crude Oil Inventories,-1.6M,-0.7M,3.0M
+jul23.2008,US Distillate Inventories,2.4M,2.5M,3.2M
+jul23.2008,US Gasoline Inventories,2.8M,0.2M,2.5M
+jul24.2008,US Natural Gas Storage,84B,83B,104B
+jul30.2008,EZ Consumer Confidence,-20,-19,-17
+jul30.2008,US Crude Oil Inventories,-0.1M,-1.4M,-1.6M
+jul30.2008,US Distillate Inventories,2.4M,2.1M,2.4M
+jul30.2008,US Gasoline Inventories,-3.5M,0.3M,2.8M
+jul31.2008,US Advance GDP q/q,1.9%,2.2%,1.0%
+jul31.2008,US Natural Gas Storage,65B,69B,84B
+aug01.2008,US Average Hourly Earnings m/m,0.3%,0.3%,0.3%
+aug01.2008,US Non-Farm Employment Change,-51K,-75K,-51K
+aug01.2008,US Unemployment Rate,5.7%,5.6%,5.5%
+aug01.2008,US ISM Manufacturing PMI,50.0,49.4,50.2
+aug04.2008,US Factory Orders m/m,1.7%,0.7%,0.9%
+aug05.2008,US ISM Services PMI,49.5,48.6,48.2
+aug06.2008,US Crude Oil Inventories,1.7M,0.1M,-0.1M
+aug06.2008,US Distillate Inventories,2.8M,2.0M,2.4M
+aug06.2008,US Gasoline Inventories,-4.3M,-1.5M,-3.5M
+aug07.2008,US Natural Gas Storage,56B,60B,65B
+aug08.2008,CA Employment Change,-55.2K,5.0K,-5.0K
+aug08.2008,CA Unemployment Rate,6.1%,6.2%,6.2%
+aug12.2008,US Trade Balance,-56.8B,-61.8B,-59.2B
+aug13.2008,US Retail Sales m/m,-0.1%,0.0%,0.3%
+aug13.2008,US Crude Oil Inventories,-0.4M,-0.1M,1.7M
+aug13.2008,US Distillate Inventories,-1.8M,2.0M,2.8M
+aug13.2008,US Gasoline Inventories,-6.4M,-1.5M,-4.3M
+aug14.2008,US Core CPI m/m,0.3%,0.2%,0.3%
+aug14.2008,US CPI m/m,0.8%,0.4%,1.1%
+aug14.2008,US Natural Gas Storage,50B,53B,56B
+aug15.2008,US Capacity Utilization Rate,79.9%,79.8%,79.8%
+aug15.2008,US Industrial Production m/m,0.2%,0.0%,0.4%
+aug20.2008,US Crude Oil Inventories,9.4M,0.7M,-0.4M
+aug20.2008,US Distillate Inventories,0.5M,1.0M,-1.8M
+aug20.2008,US Gasoline Inventories,-6.2M,-2.9M,-6.4M
+aug21.2008,US Natural Gas Storage,88B,82B,50B
+aug27.2008,US Crude Oil Inventories,-0.1M,0.9M,9.4M
+aug27.2008,US Distillate Inventories,0.1M,0.6M,0.5M
+aug27.2008,US Gasoline Inventories,-1.2M,-2.4M,-6.2M
+aug28.2008,US Natural Gas Storage,102B,84B,88B
+aug29.2008,EZ Consumer Confidence,-19,-20,-20
+sep02.2008,US ISM Manufacturing PMI,49.9,49.9,50.0
+sep03.2008,US Factory Orders m/m,1.3%,1.0%,2.1%
+sep04.2008,US ISM Services PMI,50.6,49.4,49.5
+sep04.2008,US Distillate Inventories,-0.4M,1.0M,0.1M
+sep04.2008,US Gasoline Inventories,-1.0M,-1.3M,-1.2M
+sep04.2008,US Natural Gas Storage,90B,88B,102B
+sep04.2008,US Crude Oil Inventories,-1.9M,0.0M,-0.1M
+sep05.2008,CA Employment Change,15.2K,9.0K,-55.2K
+sep05.2008,CA Unemployment Rate,6.1%,6.2%,6.1%
+sep05.2008,US Average Hourly Earnings m/m,0.4%,0.3%,0.4%
+sep05.2008,US Non-Farm Employment Change,-84K,-73K,-60K
+sep05.2008,US Unemployment Rate,6.1%,5.7%,5.7%
+sep10.2008,US Crude Oil Inventories,-5.9M,-4.6M,-1.9M
+sep10.2008,US Distillate Inventories,-1.3M,-2.1M,-0.4M
+sep10.2008,US Gasoline Inventories,-6.5M,-4.5M,-1.0M
+sep11.2008,US Trade Balance,-62.2B,-58.0B,-58.8B
+sep11.2008,US Natural Gas Storage,58B,56B,90B
+sep12.2008,US Retail Sales m/m,-0.3%,0.2%,-0.5%
+sep15.2008,US Capacity Utilization Rate,78.7%,79.6%,79.7%
+sep15.2008,US Industrial Production m/m,-1.1%,-0.3%,0.1%
+sep16.2008,US Core CPI m/m,0.2%,0.2%,0.3%
+sep16.2008,US CPI m/m,-0.1%,0.0%,0.8%
+sep17.2008,US Crude Oil Inventories,-6.3M,-4.3M,-5.9M
+sep17.2008,US Distillate Inventories,-0.8M,-1.9M,-1.3M
+sep17.2008,US Gasoline Inventories,-3.3M,-3.5M,-6.5M
+sep18.2008,US Natural Gas Storage,67B,61B,58B
+sep24.2008,US Crude Oil Inventories,-1.5M,-2.0M,-6.3M
+sep24.2008,US Distillate Inventories,-4.2M,-1.5M,-0.8M
+sep24.2008,US Gasoline Inventories,-5.9M,-3.6M,-3.3M
+sep25.2008,US Natural Gas Storage,51B,62B,67B
+sep29.2008,EZ Consumer Confidence,-19,-19,-19
+oct01.2008,US ISM Manufacturing PMI,43.5,49.5,49.9
+oct01.2008,US Crude Oil Inventories,4.3M,1.8M,-1.5M
+oct01.2008,US Distillate Inventories,-2.4M,-1.6M,-4.2M
+oct01.2008,US Gasoline Inventories,0.9M,-2.1M,-5.9M
+oct02.2008,US Factory Orders m/m,-4.0%,-2.6%,0.7%
+oct02.2008,US Natural Gas Storage,87B,75B,51B
+oct03.2008,US Average Hourly Earnings m/m,0.2%,0.3%,0.4%
+oct03.2008,US Non-Farm Employment Change,-159K,-100K,-73K
+oct03.2008,US Unemployment Rate,6.1%,6.1%,6.1%
+oct03.2008,US ISM Services PMI,50.2,50.0,50.6
+oct08.2008,US Crude Oil Inventories,8.1M,2.0M,4.3M
+oct08.2008,US Distillate Inventories,-0.5M,-0.9M,-2.4M
+oct08.2008,US Gasoline Inventories,7.2M,1.5M,0.9M
+oct09.2008,US Natural Gas Storage,88B,86B,87B
+oct10.2008,CA Employment Change,106.9K,11.0K,15.2K
+oct10.2008,CA Unemployment Rate,6.1%,6.2%,6.1%
+oct10.2008,US Trade Balance,-59.1B,-59.5B,-61.3B
+oct15.2008,US Retail Sales m/m,-1.2%,-0.6%,-0.4%
+oct16.2008,US Core CPI m/m,0.1%,0.2%,0.2%
+oct16.2008,US CPI m/m,0.0%,0.1%,-0.1%
+oct16.2008,US Capacity Utilization Rate,76.4%,78.0%,78.7%
+oct16.2008,US Industrial Production m/m,-2.8%,-0.7%,-1.0%
+oct16.2008,US Distillate Inventories,-0.5M,0.5M,-0.5M
+oct16.2008,US Gasoline Inventories,7.0M,1.5M,7.2M
+oct16.2008,US Natural Gas Storage,79B,82B,88B
+oct16.2008,US Crude Oil Inventories,5.6M,2.0M,8.1M
+oct29.2008,US Crude Oil Inventories,0.5M,1.4M,3.2M
+oct29.2008,US Distillate Inventories,2.3M,1.1M,2.2M
+oct29.2008,US Gasoline Inventories,-1.5M,1.5M,2.7M
+oct30.2008,EZ Consumer Confidence,-24,-21,-19
+oct30.2008,US Advance GDP q/q,-0.3%,-0.5%,2.8%
+oct30.2008,US Natural Gas Storage,46B,41B,70B
+nov03.2008,US ISM Manufacturing PMI,38.9,41.6,43.5
+nov04.2008,US Factory Orders m/m,-2.5%,-1.0%,-4.3%
+nov05.2008,US ISM Services PMI,44.4,47.3,50.2
+nov05.2008,US Crude Oil Inventories,0.0M,1.1M,0.5M
+nov05.2008,US Distillate Inventories,1.2M,1.6M,2.3M
+nov05.2008,US Gasoline Inventories,1.1M,-0.7M,-1.5M
+nov06.2008,US Natural Gas Storage,12B,25B,46B
+nov07.2008,CA Employment Change,9.5K,-10.0K,106.9K
+nov07.2008,CA Unemployment Rate,6.2%,6.2%,6.1%
+nov07.2008,US Average Hourly Earnings m/m,0.2%,0.2%,0.2%
+nov07.2008,US Non-Farm Employment Change,-240K,-200K,-284K
+nov07.2008,US Unemployment Rate,6.5%,6.3%,6.1%
+nov13.2008,US Trade Balance,-56.5B,-56.5B,-59.1B
+nov13.2008,US Crude Oil Inventories,0.0M,1.0M,0.0M
+nov13.2008,US Distillate Inventories,0.5M,0.9M,1.2M
+nov13.2008,US Gasoline Inventories,2.0M,0.1M,1.1M
+nov14.2008,US Retail Sales m/m,-2.8%,-2.0%,-1.3%
+nov14.2008,US Natural Gas Storage,62B,45B,12B
+nov17.2008,US Capacity Utilization Rate,76.4%,76.4%,75.5%
+nov17.2008,US Industrial Production m/m,1.3%,0.1%,-3.7%
+nov19.2008,US Core CPI m/m,-0.1%,0.1%,0.1%
+nov19.2008,US CPI m/m,-1.0%,-0.8%,0.0%
+nov19.2008,US Crude Oil Inventories,1.6M,0.9M,0.0M
+nov19.2008,US Distillate Inventories,-1.5M,0.7M,0.5M
+nov19.2008,US Gasoline Inventories,0.5M,0.0M,2.0M
+nov20.2008,US Natural Gas Storage,16B,-1B,62B
+nov26.2008,US Crude Oil Inventories,7.3M,0.7M,1.6M
+nov26.2008,US Distillate Inventories,-0.2M,0.0M,-1.5M
+nov26.2008,US Gasoline Inventories,1.8M,0.5M,0.5M
+nov26.2008,US Natural Gas Storage,-66B,-44B,16B
+nov27.2008,EZ Consumer Confidence,-25,-25,-24
+dec01.2008,US ISM Manufacturing PMI,36.2,37.2,38.9
+dec03.2008,US ISM Services PMI,37.3,42.5,44.4
+dec03.2008,US Crude Oil Inventories,-0.4M,1.8M,7.3M
+dec03.2008,US Distillate Inventories,-1.7M,0.7M,-0.2M
+dec03.2008,US Gasoline Inventories,-1.5M,1.0M,1.8M
+dec04.2008,US Factory Orders m/m,-5.1%,-4.0%,-3.1%
+dec04.2008,US Natural Gas Storage,-64B,-69B,-66B
+dec05.2008,CA Employment Change,-70.6K,-21.0K,9.5K
+dec05.2008,CA Unemployment Rate,6.3%,6.4%,6.2%
+dec05.2008,US Average Hourly Earnings m/m,0.4%,0.2%,0.3%
+dec05.2008,US Non-Farm Employment Change,-533K,-320K,-320K
+dec05.2008,US Unemployment Rate,6.7%,6.8%,6.5%
+dec10.2008,US Crude Oil Inventories,0.4M,1.0M,-0.4M
+dec10.2008,US Distillate Inventories,5.6M,-1.4M,-1.7M
+dec10.2008,US Gasoline Inventories,3.7M,-0.4M,-1.5M
+dec11.2008,US Trade Balance,-57.2B,-53.5B,-56.6B
+dec11.2008,US Natural Gas Storage,-67B,-83B,-64B
+dec12.2008,US Retail Sales m/m,-1.8%,-1.9%,-2.9%
+dec15.2008,US Capacity Utilization Rate,75.4%,75.5%,76.0%
+dec15.2008,US Industrial Production m/m,-0.6%,-0.7%,1.5%
+dec16.2008,US Core CPI m/m,0.0%,0.1%,-0.1%
+dec16.2008,US CPI m/m,-1.7%,-1.2%,-1.0%
+dec17.2008,US Crude Oil Inventories,0.5M,0.3M,0.4M
+dec17.2008,US Distillate Inventories,2.9M,1.5M,5.6M
+dec17.2008,US Gasoline Inventories,1.3M,1.3M,3.7M
+dec18.2008,US Natural Gas Storage,-124B,-112B,-67B
+dec24.2008,US Crude Oil Inventories,-3.1M,0.4M,0.5M
+dec24.2008,US Distillate Inventories,1.8M,0.7M,2.9M
+dec24.2008,US Gasoline Inventories,3.3M,0.8M,1.3M
+dec24.2008,US Natural Gas Storage,-147B,-139B,-124B
+dec31.2008,US Crude Oil Inventories,0.5M,-1.4M,-3.1M
+dec31.2008,US Distillate Inventories,0.7M,1.5M,1.8M
+dec31.2008,US Gasoline Inventories,0.8M,1.7M,3.3M
+dec31.2008,US Natural Gas Storage,-143B,-151B,-147B
+jan02.2009,US ISM Manufacturing PMI,32.4,35.5,36.2
+jan06.2009,US Factory Orders m/m,-4.6%,-2.5%,-6.0%
+jan06.2009,US ISM Services PMI,40.6,36.9,37.3
+jan07.2009,US Crude Oil Inventories,6.7M,0.7M,0.5M
+jan07.2009,US Distillate Inventories,1.8M,1.1M,0.7M
+jan07.2009,US Gasoline Inventories,3.3M,1.0M,0.8M
+jan08.2009,EZ Consumer Confidence,-30,-26,-25
+jan08.2009,US Natural Gas Storage,-47B,-78B,-143B
+jan09.2009,CA Employment Change,-34.4K,-21.0K,-70.6K
+jan09.2009,CA Unemployment Rate,6.6%,6.5%,6.3%
+jan09.2009,US Average Hourly Earnings m/m,0.3%,0.2%,0.4%
+jan09.2009,US Non-Farm Employment Change,-524K,-520K,-584K
+jan09.2009,US Unemployment Rate,7.2%,7.0%,6.7%
+jan13.2009,US Trade Balance,-40.4B,-51.4B,-56.7B
+jan14.2009,US Retail Sales m/m,-2.7%,-1.2%,-2.1%
+jan14.2009,US Crude Oil Inventories,1.2M,2.1M,6.7M
+jan14.2009,US Distillate Inventories,6.3M,1.1M,1.8M
+jan14.2009,US Gasoline Inventories,2.1M,1.9M,3.3M
+jan15.2009,US Natural Gas Storage,-94B,-105B,-47B
+jan16.2009,US Core CPI m/m,0.0%,0.1%,0.0%
+jan16.2009,US CPI m/m,-0.7%,-0.8%,-1.7%
+jan16.2009,US Capacity Utilization Rate,73.6%,74.6%,75.2%
+jan16.2009,US Industrial Production m/m,-2.0%,-0.9%,-1.3%
+jan22.2009,US Distillate Inventories,0.8M,0.5M,6.3M
+jan22.2009,US Gasoline Inventories,6.5M,1.8M,2.1M
+jan22.2009,US Crude Oil Inventories,6.1M,1.1M,1.2M
+jan23.2009,US Natural Gas Storage,-176B,-174B,-94B
+jan28.2009,US Crude Oil Inventories,6.2M,2.8M,6.1M
+jan28.2009,US Distillate Inventories,-1.0M,-1.0M,0.8M
+jan28.2009,US Gasoline Inventories,-0.1M,2.0M,6.5M
+jan29.2009,EZ Consumer Confidence,-31,-31,-30
+jan29.2009,US Natural Gas Storage,-186B,-180B,-176B
+jan30.2009,US Advance GDP q/q,-3.8%,-5.4%,-0.5%
+feb02.2009,US ISM Manufacturing PMI,35.6,32.4,32.4
+feb04.2009,US ISM Services PMI,42.9,39.1,40.6
+feb04.2009,US Crude Oil Inventories,7.2M,2.8M,6.2M
+feb04.2009,US Distillate Inventories,-1.4M,-1.4M,-1.0M
+feb04.2009,US Gasoline Inventories,0.4M,0.8M,-0.1M
+feb05.2009,US Factory Orders m/m,-3.9%,-3.1%,-6.5%
+feb05.2009,US Natural Gas Storage,-195B,-190B,-186B
+feb06.2009,CA Employment Change,-129.0K,-40.0K,-34.4K
+feb06.2009,CA Unemployment Rate,7.2%,6.8%,6.6%
+feb06.2009,US Average Hourly Earnings m/m,0.3%,0.2%,0.4%
+feb06.2009,US Non-Farm Employment Change,-598K,-530K,-577K
+feb06.2009,US Unemployment Rate,7.6%,7.5%,7.2%
+feb11.2009,US Trade Balance,-39.9B,-37.0B,-41.6B
+feb11.2009,US Crude Oil Inventories,4.7M,3.1M,7.2M
+feb11.2009,US Distillate Inventories,-1.0M,-1.5M,-1.4M
+feb11.2009,US Gasoline Inventories,-2.7M,0.5M,0.4M
+feb12.2009,US Retail Sales m/m,1.0%,-0.8%,-3.0%
+feb12.2009,US Natural Gas Storage,-159B,-166B,-195B
+feb18.2009,US Capacity Utilization Rate,72.0%,72.5%,73.3%
+feb18.2009,US Industrial Production m/m,-1.8%,-1.4%,-2.4%
+feb19.2009,US Natural Gas Storage,-24B,-49B,-159B
+feb19.2009,US Crude Oil Inventories,-0.2M,2.9M,4.7M
+feb19.2009,US Distillate Inventories,-0.8M,-1.5M,-1.0M
+feb19.2009,US Gasoline Inventories,1.1M,-0.5M,-2.7M
+feb20.2009,US Core CPI m/m,0.2%,0.1%,0.0%
+feb20.2009,US CPI m/m,0.3%,0.2%,-0.7%
+feb25.2009,US Crude Oil Inventories,0.7M,0.9M,-0.2M
+feb25.2009,US Distillate Inventories,0.9M,-1.2M,-0.8M
+feb25.2009,US Gasoline Inventories,-3.3M,0.0M,1.1M
+feb26.2009,EZ Consumer Confidence,-33,-31,-31
+feb26.2009,US Natural Gas Storage,-101B,-98B,-24B
+mar02.2009,US ISM Manufacturing PMI,35.8,34.0,35.6
+mar04.2009,US ISM Services PMI,41.6,41.2,42.9
+mar04.2009,US Crude Oil Inventories,-0.7M,1.0M,0.7M
+mar04.2009,US Distillate Inventories,1.7M,-1.0M,0.9M
+mar04.2009,US Gasoline Inventories,0.2M,-0.8M,-3.3M
+mar05.2009,US Factory Orders m/m,-1.9%,-3.5%,-4.9%
+mar05.2009,US Natural Gas Storage,-102B,-95B,-101B
+mar06.2009,US Average Hourly Earnings m/m,0.2%,0.3%,0.2%
+mar06.2009,US Non-Farm Employment Change,-651K,-647K,-655K
+mar06.2009,US Unemployment Rate,8.1%,7.9%,7.6%
+mar11.2009,US Crude Oil Inventories,0.7M,0.1M,-0.7M
+mar11.2009,US Distillate Inventories,2.1M,0.2M,1.7M
+mar11.2009,US Gasoline Inventories,-3.0M,-1.0M,0.2M
+mar12.2009,US Retail Sales m/m,-0.1%,-0.5%,1.8%
+mar12.2009,US Natural Gas Storage,-112B,-104B,-102B
+mar13.2009,CA Employment Change,-82.6K,-50.5K,-129.0K
+mar13.2009,CA Unemployment Rate,7.7%,7.4%,7.2%
+mar13.2009,US Trade Balance,-36.0B,-38.3B,-39.9B
+mar16.2009,US Capacity Utilization Rate,70.9%,71.1%,71.9%
+mar16.2009,US Industrial Production m/m,-1.4%,-1.2%,-1.9%
+mar18.2009,US Core CPI m/m,0.2%,0.1%,0.2%
+mar18.2009,US CPI m/m,0.4%,0.3%,0.3%
+mar18.2009,US Crude Oil Inventories,2.0M,1.2M,0.7M
+mar18.2009,US Distillate Inventories,0.1M,1.1M,2.1M
+mar18.2009,US Gasoline Inventories,3.2M,-1.4M,-3.0M
+mar19.2009,US Natural Gas Storage,-30B,-26B,-112B
+mar25.2009,US Crude Oil Inventories,3.3M,1.2M,2.0M
+mar25.2009,US Distillate Inventories,-1.6M,-0.1M,0.1M
+mar25.2009,US Gasoline Inventories,-1.1M,-0.7M,3.2M
+mar26.2009,US Natural Gas Storage,3B,-10B,-30B
+mar30.2009,EZ Consumer Confidence,-34,-33,-33
+apr01.2009,US ISM Manufacturing PMI,36.3,35.8,35.8
+apr01.2009,US Crude Oil Inventories,2.8M,3.1M,3.3M
+apr01.2009,US Distillate Inventories,0.2M,-1.2M,-1.6M
+apr01.2009,US Gasoline Inventories,2.2M,-1.5M,-1.1M
+apr02.2009,US Factory Orders m/m,1.8%,1.5%,-3.5%
+apr02.2009,US Natural Gas Storage,0B,-1B,3B
+apr03.2009,US Average Hourly Earnings m/m,0.2%,0.2%,0.2%
+apr03.2009,US Non-Farm Employment Change,-663K,-659K,-651K
+apr03.2009,US Unemployment Rate,8.5%,8.5%,8.1%
+apr03.2009,US ISM Services PMI,40.8,41.9,41.6
+apr08.2009,US Crude Oil Inventories,1.7M,1.6M,2.8M
+apr08.2009,US Distillate Inventories,-3.4M,-0.6M,0.2M
+apr08.2009,US Gasoline Inventories,0.7M,-1.3M,2.2M
+apr09.2009,CA Employment Change,-61.3K,-50.2K,-82.6K
+apr09.2009,CA Unemployment Rate,8.0%,8.0%,7.7%
+apr09.2009,US Trade Balance,-26.0B,-36.6B,-36.2B
+apr09.2009,US Natural Gas Storage,20B,12B,0B
+apr14.2009,US Retail Sales m/m,-1.1%,0.3%,0.3%
+apr15.2009,US Core CPI m/m,0.2%,0.1%,0.2%
+apr15.2009,US CPI m/m,-0.1%,0.1%,0.4%
+apr15.2009,US Capacity Utilization Rate,69.3%,69.7%,70.3%
+apr15.2009,US Industrial Production m/m,-1.5%,-0.9%,-1.5%
+apr15.2009,US Crude Oil Inventories,5.6M,2.0M,1.7M
+apr15.2009,US Distillate Inventories,-1.2M,-1.0M,-3.4M
+apr15.2009,US Gasoline Inventories,-0.9M,-0.5M,0.7M
+apr16.2009,US Natural Gas Storage,21B,18B,20B
+apr22.2009,US Crude Oil Inventories,3.9M,2.3M,5.6M
+apr22.2009,US Distillate Inventories,2.7M,-1.0M,-1.2M
+apr22.2009,US Gasoline Inventories,0.8M,-0.7M,-0.9M
+apr23.2009,US Natural Gas Storage,46B,40B,21B
+apr29.2009,EZ Consumer Confidence,-31,-33,-34
+apr29.2009,US Advance GDP q/q,-6.1%,-4.8%,-6.3%
+apr29.2009,US Crude Oil Inventories,4.1M,1.8M,3.9M
+apr29.2009,US Distillate Inventories,1.8M,1.0M,2.7M
+apr29.2009,US Gasoline Inventories,-4.7M,0.2M,0.8M
+apr30.2009,US Natural Gas Storage,82B,82B,46B
+may01.2009,US Factory Orders m/m,-0.9%,-0.7%,0.7%
+may01.2009,US ISM Manufacturing PMI,40.1,38.4,36.3
+may05.2009,US ISM Services PMI,43.7,42.5,40.8
+may06.2009,US Crude Oil Inventories,0.6M,2.4M,4.1M
+may06.2009,US Distillate Inventories,2.4M,0.9M,1.8M
+may06.2009,US Gasoline Inventories,-0.2M,0.5M,-4.7M
+may07.2009,US Natural Gas Storage,95B,94B,82B
+may08.2009,CA Employment Change,35.9K,-48.5K,-61.3K
+may08.2009,CA Unemployment Rate,8.0%,8.3%,8.0%
+may08.2009,US Average Hourly Earnings m/m,0.1%,0.2%,0.2%
+may08.2009,US Non-Farm Employment Change,-539K,-590K,-699K
+may08.2009,US Unemployment Rate,8.9%,8.9%,8.5%
+may12.2009,US Trade Balance,-27.6B,-29.2B,-26.1B
+may13.2009,US Retail Sales m/m,-0.4%,0.0%,-1.3%
+may13.2009,US Crude Oil Inventories,-4.7M,1.1M,0.6M
+may13.2009,US Distillate Inventories,0.9M,1.3M,2.4M
+may13.2009,US Gasoline Inventories,-4.2M,0.0M,-0.2M
+may14.2009,US Natural Gas Storage,95B,100B,95B
+may15.2009,US Core CPI m/m,0.3%,0.1%,0.2%
+may15.2009,US CPI m/m,0.0%,0.0%,-0.1%
+may15.2009,US Capacity Utilization Rate,69.1%,68.9%,69.4%
+may15.2009,US Industrial Production m/m,-0.5%,-0.5%,-1.7%
+may20.2009,US Crude Oil Inventories,-2.1M,-1.3M,-4.7M
+may20.2009,US Distillate Inventories,0.7M,1.2M,0.9M
+may20.2009,US Gasoline Inventories,-4.3M,-1.2M,-4.2M
+may21.2009,US Natural Gas Storage,103B,95B,95B
+may28.2009,EZ Consumer Confidence,-31,-30,-31
+may28.2009,US Natural Gas Storage,106B,114B,103B
+may28.2009,US Crude Oil Inventories,-5.4M,-0.1M,-2.1M
+may28.2009,US Distillate Inventories,0.2M,1.0M,0.7M
+may28.2009,US Gasoline Inventories,-0.5M,-1.3M,-4.3M
+jun01.2009,US ISM Manufacturing PMI,42.8,42.2,40.1
+jun03.2009,US Factory Orders m/m,0.7%,0.9%,-1.9%
+jun03.2009,US ISM Services PMI,44.0,45.1,43.7
+jun03.2009,US Crude Oil Inventories,2.9M,-1.6M,-5.4M
+jun03.2009,US Distillate Inventories,1.7M,0.9M,0.2M
+jun03.2009,US Gasoline Inventories,-0.2M,0.6M,-0.5M
+jun04.2009,US Natural Gas Storage,124B,116B,106B
+jun05.2009,CA Employment Change,-41.8K,-36.4K,35.9K
+jun05.2009,CA Unemployment Rate,8.4%,8.2%,8.0%
+jun05.2009,US Average Hourly Earnings m/m,0.1%,0.2%,0.1%
+jun05.2009,US Non-Farm Employment Change,-345K,-520K,-504K
+jun05.2009,US Unemployment Rate,9.4%,9.2%,8.9%
+jun10.2009,US Trade Balance,-29.2B,-28.8B,-28.5B
+jun10.2009,US Crude Oil Inventories,-4.4M,0.1M,2.9M
+jun10.2009,US Distillate Inventories,-0.3M,1.4M,1.7M
+jun10.2009,US Gasoline Inventories,-1.6M,0.8M,-0.2M
+jun11.2009,US Retail Sales m/m,0.5%,0.4%,-0.2%
+jun11.2009,US Natural Gas Storage,106B,110B,124B
+jun16.2009,US Capacity Utilization Rate,68.3%,68.5%,69.0%
+jun16.2009,US Industrial Production m/m,-1.1%,-0.7%,-0.7%
+jun17.2009,US Core CPI m/m,0.1%,0.1%,0.3%
+jun17.2009,US CPI m/m,0.1%,0.3%,0.0%
+jun17.2009,US Crude Oil Inventories,-3.9M,-1.8M,-4.4M
+jun17.2009,US Distillate Inventories,0.3M,0.9M,-0.3M
+jun17.2009,US Gasoline Inventories,3.4M,0.5M,-1.6M
+jun18.2009,US Natural Gas Storage,114B,104B,106B
+jun24.2009,US Crude Oil Inventories,-3.8M,-1.1M,-3.9M
+jun24.2009,US Distillate Inventories,2.1M,0.9M,0.3M
+jun24.2009,US Gasoline Inventories,3.9M,0.5M,3.4M
+jun25.2009,US Natural Gas Storage,94B,101B,114B
+jun29.2009,EZ Consumer Confidence,-25,-29,-28
+jul01.2009,US ISM Manufacturing PMI,44.8,44.5,42.8
+jul01.2009,US Crude Oil Inventories,-3.7M,-1.8M,-3.8M
+jul01.2009,US Distillate Inventories,2.9M,1.5M,2.1M
+jul01.2009,US Gasoline Inventories,2.3M,2.0M,3.9M
+jul02.2009,US Average Hourly Earnings m/m,0.0%,0.2%,0.2%
+jul02.2009,US Non-Farm Employment Change,-467K,-360K,-322K
+jul02.2009,US Unemployment Rate,9.5%,9.6%,9.4%
+jul02.2009,US Factory Orders m/m,1.2%,0.7%,0.5%
+jul02.2009,US Natural Gas Storage,70B,74B,94B
+jul06.2009,US ISM Services PMI,47.0,45.9,44.0
+jul08.2009,US Crude Oil Inventories,-2.9M,-2.8M,-3.7M
+jul08.2009,US Distillate Inventories,3.7M,1.8M,2.9M
+jul08.2009,US Gasoline Inventories,1.9M,0.9M,2.3M
+jul09.2009,US Natural Gas Storage,75B,85B,70B
+jul10.2009,CA Employment Change,-7.4K,-34.6K,-41.8K
+jul10.2009,CA Unemployment Rate,8.6%,8.7%,8.4%
+jul10.2009,US Trade Balance,-26.0B,-30.0B,-28.8B
+jul14.2009,US Retail Sales m/m,0.6%,0.4%,0.5%
+jul15.2009,US Core CPI m/m,0.2%,0.2%,0.1%
+jul15.2009,US CPI m/m,0.7%,0.6%,0.1%
+jul15.2009,US Capacity Utilization Rate,68.0%,67.8%,68.2%
+jul15.2009,US Industrial Production m/m,-0.4%,-0.6%,-1.2%
+jul15.2009,US Crude Oil Inventories,-2.8M,-1.9M,-2.9M
+jul15.2009,US Distillate Inventories,0.6M,2.0M,3.7M
+jul15.2009,US Gasoline Inventories,1.4M,0.9M,1.9M
+jul16.2009,US Natural Gas Storage,90B,93B,75B
+jul22.2009,US Crude Oil Inventories,-1.8M,-1.9M,-2.8M
+jul22.2009,US Distillate Inventories,1.2M,1.5M,0.6M
+jul22.2009,US Gasoline Inventories,0.8M,0.6M,1.4M
+jul23.2009,US Natural Gas Storage,66B,63B,90B
+jul29.2009,US Crude Oil Inventories,5.1M,-1.1M,-1.8M
+jul29.2009,US Distillate Inventories,2.1M,1.0M,1.2M
+jul29.2009,US Gasoline Inventories,-2.3M,0.0M,0.8M
+jul30.2009,EZ Consumer Confidence,-23,-24,-25
+jul30.2009,US Natural Gas Storage,71B,71B,66B
+jul31.2009,US Advance GDP q/q,-1.0%,-1.4%,-5.5%
+aug03.2009,US ISM Manufacturing PMI,48.9,46.4,44.8
+aug05.2009,US Factory Orders m/m,0.4%,-0.7%,1.1%
+aug05.2009,US ISM Services PMI,46.4,48.1,47.0
+aug05.2009,US Crude Oil Inventories,1.7M,0.9M,5.1M
+aug05.2009,US Distillate Inventories,-1.1M,1.2M,2.1M
+aug05.2009,US Gasoline Inventories,-0.2M,-0.8M,-2.3M
+aug06.2009,US Natural Gas Storage,66B,60B,71B
+aug07.2009,CA Employment Change,-44.5K,-19.0K,-7.4K
+aug07.2009,CA Unemployment Rate,8.6%,8.8%,8.6%
+aug07.2009,US Average Hourly Earnings m/m,0.2%,0.1%,0.0%
+aug07.2009,US Non-Farm Employment Change,-247K,-320K,-443K
+aug07.2009,US Unemployment Rate,9.4%,9.6%,9.5%
+aug12.2009,US Trade Balance,-27.0B,-28.4B,-26.0B
+aug12.2009,US Crude Oil Inventories,2.5M,0.7M,1.7M
+aug12.2009,US Distillate Inventories,0.8M,0.2M,-1.1M
+aug12.2009,US Gasoline Inventories,-0.9M,-1.2M,-0.2M
+aug13.2009,US Retail Sales m/m,-0.1%,0.8%,0.8%
+aug13.2009,US Natural Gas Storage,63B,71B,66B
+aug14.2009,US Core CPI m/m,0.1%,0.1%,0.2%
+aug14.2009,US CPI m/m,0.0%,0.0%,0.7%
+aug14.2009,US Capacity Utilization Rate,68.5%,68.2%,68.1%
+aug14.2009,US Industrial Production m/m,0.5%,0.4%,-0.4%
+aug19.2009,US Crude Oil Inventories,-8.4M,1.1M,2.5M
+aug19.2009,US Distillate Inventories,-0.7M,0.7M,0.8M
+aug19.2009,US Gasoline Inventories,-1.7M,-0.8M,-0.9M
+aug20.2009,US Natural Gas Storage,52B,57B,63B
+aug26.2009,US Crude Oil Inventories,0.2M,-1.5M,-8.4M
+aug26.2009,US Distillate Inventories,0.8M,0.4M,-0.7M
+aug26.2009,US Gasoline Inventories,-1.7M,-0.8M,-1.7M
+aug27.2009,US Natural Gas Storage,54B,53B,52B
+aug28.2009,EZ Consumer Confidence,-22,-21,-23
+sep01.2009,US ISM Manufacturing PMI,52.9,50.6,48.9
+sep02.2009,US Factory Orders m/m,1.3%,2.3%,0.9%
+sep02.2009,US Crude Oil Inventories,-0.4M,-0.8M,0.2M
+sep02.2009,US Distillate Inventories,1.2M,0.7M,0.8M
+sep02.2009,US Gasoline Inventories,-3.0M,-0.9M,-1.7M
+sep03.2009,US ISM Services PMI,48.4,48.3,46.4
+sep03.2009,US Natural Gas Storage,65B,67B,54B
+sep04.2009,CA Employment Change,27.1K,-12.4K,-44.5K
+sep04.2009,CA Unemployment Rate,8.7%,8.7%,8.6%
+sep04.2009,US Average Hourly Earnings m/m,0.3%,0.1%,0.3%
+sep04.2009,US Non-Farm Employment Change,-216K,-223K,-276K
+sep04.2009,US Unemployment Rate,9.7%,9.5%,9.4%
+sep10.2009,US Trade Balance,-32.0B,-27.1B,-27.5B
+sep10.2009,US Natural Gas Storage,69B,77B,65B
+sep10.2009,US Crude Oil Inventories,-5.9M,-1.5M,-0.4M
+sep10.2009,US Distillate Inventories,2.0M,1.0M,1.2M
+sep10.2009,US Gasoline Inventories,2.1M,-1.5M,-3.0M
+sep15.2009,US Retail Sales m/m,2.7%,1.9%,-0.2%
+sep16.2009,US Core CPI m/m,0.1%,0.1%,0.1%
+sep16.2009,US CPI m/m,0.4%,0.3%,0.0%
+sep16.2009,US Capacity Utilization Rate,69.6%,69.1%,69.0%
+sep16.2009,US Industrial Production m/m,0.8%,0.7%,1.0%
+sep16.2009,US Crude Oil Inventories,-4.7M,-2.6M,-5.9M
+sep16.2009,US Distillate Inventories,2.2M,1.3M,2.0M
+sep16.2009,US Gasoline Inventories,0.5M,0.7M,2.1M
+sep17.2009,US Natural Gas Storage,66B,74B,69B
+sep23.2009,US Crude Oil Inventories,2.8M,-1.4M,-4.7M
+sep23.2009,US Distillate Inventories,3.0M,1.4M,2.2M
+sep23.2009,US Gasoline Inventories,5.4M,0.5M,0.5M
+sep24.2009,US Natural Gas Storage,67B,73B,66B
+sep29.2009,EZ Consumer Confidence,-19,-21,-22
+sep30.2009,US Crude Oil Inventories,2.8M,0.5M,2.8M
+sep30.2009,US Distillate Inventories,0.3M,1.2M,3.0M
+sep30.2009,US Gasoline Inventories,-1.7M,1.1M,5.4M
+oct01.2009,US ISM Manufacturing PMI,52.6,53.9,52.9
+oct01.2009,US Natural Gas Storage,64B,62B,67B
+oct02.2009,US Average Hourly Earnings m/m,0.1%,0.2%,0.4%
+oct02.2009,US Non-Farm Employment Change,-263K,-179K,-201K
+oct02.2009,US Unemployment Rate,9.8%,9.8%,9.7%
+oct02.2009,US Factory Orders m/m,-0.8%,0.2%,1.4%
+oct05.2009,US ISM Services PMI,50.9,50.0,48.4
+oct07.2009,US Crude Oil Inventories,-1.0M,2.0M,2.8M
+oct07.2009,US Distillate Inventories,0.7M,-0.4M,0.3M
+oct07.2009,US Gasoline Inventories,2.9M,1.1M,-1.7M
+oct08.2009,US Natural Gas Storage,69B,57B,64B
+oct09.2009,CA Employment Change,30.6K,4.9K,27.1K
+oct09.2009,CA Unemployment Rate,8.4%,8.8%,8.7%
+oct09.2009,US Trade Balance,-30.7B,-32.8B,-31.9B
+oct14.2009,US Retail Sales m/m,-1.5%,-2.0%,2.2%
+oct15.2009,US Core CPI m/m,0.2%,0.1%,0.1%
+oct15.2009,US CPI m/m,0.2%,0.2%,0.4%
+oct15.2009,US Natural Gas Storage,58B,55B,69B
+oct15.2009,US Crude Oil Inventories,0.4M,1.0M,-1.0M
+oct15.2009,US Distillate Inventories,-1.1M,-0.1M,0.7M
+oct15.2009,US Gasoline Inventories,-5.2M,1.1M,2.9M
+oct16.2009,US Capacity Utilization Rate,70.5%,69.8%,69.9%
+oct16.2009,US Industrial Production m/m,0.7%,0.1%,1.2%
+oct21.2009,US Crude Oil Inventories,1.3M,0.9M,0.4M
+oct21.2009,US Distillate Inventories,0.8M,-1.0M,-1.1M
+oct21.2009,US Gasoline Inventories,-2.2M,-0.9M,-5.2M
+oct22.2009,US Natural Gas Storage,18B,22B,58B
+oct28.2009,US Crude Oil Inventories,0.8M,1.6M,1.3M
+oct28.2009,US Distillate Inventories,-2.1M,-1.0M,0.8M
+oct28.2009,US Gasoline Inventories,1.6M,-1.0M,-2.2M
+oct29.2009,EZ Consumer Confidence,-18,-17,-19
+oct29.2009,US Advance GDP q/q,3.5%,3.2%,-0.7%
+oct29.2009,US Natural Gas Storage,25B,27B,18B
+nov02.2009,US ISM Manufacturing PMI,55.7,53.1,52.6
+nov03.2009,US Factory Orders m/m,0.9%,1.1%,-0.8%
+nov04.2009,US ISM Services PMI,50.6,51.6,50.9
+nov04.2009,US Crude Oil Inventories,-4.0M,1.7M,0.8M
+nov04.2009,US Distillate Inventories,-0.4M,-1.0M,-2.1M
+nov04.2009,US Gasoline Inventories,-0.3M,0.4M,1.6M
+nov05.2009,US Natural Gas Storage,29B,30B,25B
+nov06.2009,CA Employment Change,-43.2K,10.0K,30.6K
+nov06.2009,CA Unemployment Rate,8.6%,8.5%,8.4%
+nov06.2009,US Average Hourly Earnings m/m,0.3%,0.1%,0.1%
+nov06.2009,US Non-Farm Employment Change,-190K,-173K,-219K
+nov06.2009,US Unemployment Rate,10.2%,9.9%,9.8%
+nov12.2009,US Crude Oil Inventories,1.8M,0.8M,-4.0M
+nov12.2009,US Distillate Inventories,0.3M,-0.7M,-0.4M
+nov12.2009,US Gasoline Inventories,2.6M,-0.4M,-0.3M
+nov13.2009,US Trade Balance,-36.5B,-31.8B,-30.8B
+nov13.2009,US Natural Gas Storage,25B,17B,29B
+nov16.2009,US Retail Sales m/m,1.4%,1.0%,-2.3%
+nov17.2009,US Capacity Utilization Rate,70.7%,70.9%,70.5%
+nov17.2009,US Industrial Production m/m,0.1%,0.4%,0.6%
+nov18.2009,US Core CPI m/m,0.2%,0.1%,0.2%
+nov18.2009,US CPI m/m,0.3%,0.2%,0.2%
+nov18.2009,US Crude Oil Inventories,-0.9M,0.8M,1.8M
+nov18.2009,US Distillate Inventories,-0.3M,-0.9M,0.3M
+nov18.2009,US Gasoline Inventories,-1.8M,0.0M,2.6M
+nov19.2009,US Natural Gas Storage,20B,21B,25B
+nov25.2009,US Crude Oil Inventories,1.0M,1.6M,-0.9M
+nov25.2009,US Distillate Inventories,-0.5M,0.0M,-0.3M
+nov25.2009,US Gasoline Inventories,1.0M,0.3M,-1.8M
+nov25.2009,US Natural Gas Storage,2B,17B,20B
+nov27.2009,EZ Consumer Confidence,-17,-18,-18
+dec01.2009,US ISM Manufacturing PMI,53.6,54.8,55.7
+dec10.2009,US Trade Balance,-32.9B,-36.9B,-35.7B
+dec10.2009,US Natural Gas Storage,-64B,-45B,2B
+dec11.2009,US Retail Sales m/m,1.3%,0.6%,1.1%
+dec15.2009,US Capacity Utilization Rate,71.3%,71.1%,70.6%
+dec15.2009,US Industrial Production m/m,0.8%,0.6%,0.0%
+dec16.2009,US Core CPI m/m,0.0%,0.1%,0.2%
+dec16.2009,US CPI m/m,0.4%,0.4%,0.3%
+dec16.2009,US Crude Oil Inventories,-3.7M,-2.1M,-3.8M
+dec16.2009,US Distillate Inventories,-3.0M,-0.5M,1.6M
+dec16.2009,US Gasoline Inventories,0.9M,1.3M,2.3M
+dec17.2009,US Natural Gas Storage,-207B,-175B,-64B
+dec23.2009,US Crude Oil Inventories,-4.9M,-1.5M,-3.7M
+dec23.2009,US Distillate Inventories,-3.0M,-2.0M,-3.0M
+dec23.2009,US Gasoline Inventories,-0.9M,1.0M,0.9M
+dec24.2009,US Natural Gas Storage,-166B,-171B,-207B
+dec30.2009,US Crude Oil Inventories,-1.5M,-1.7M,-4.9M
+dec30.2009,US Distillate Inventories,-2.1M,-2.2M,-3.0M
+dec30.2009,US Gasoline Inventories,-0.4M,1.0M,-0.9M
+dec31.2009,US Natural Gas Storage,-124B,-143B,-166B
+jan04.2010,US ISM Manufacturing PMI,55.9,54.1,53.6
+jan05.2010,US Factory Orders m/m,1.1%,0.5%,0.8%
+jan06.2010,US ISM Services PMI,50.1,50.5,48.7
+jan06.2010,US Crude Oil Inventories,1.3M,-0.4M,-1.5M
+jan06.2010,US Distillate Inventories,-0.2M,-1.9M,-2.1M
+jan06.2010,US Gasoline Inventories,3.7M,0.8M,-0.4M
+jan07.2010,EZ Consumer Confidence,-16,-16,-17
+jan07.2010,US Natural Gas Storage,-153B,-147B,-124B
+jan08.2010,CA Employment Change,-2.6K,20.2K,79.1K
+jan08.2010,CA Unemployment Rate,8.5%,8.5%,8.5%
+jan08.2010,US Average Hourly Earnings m/m,0.2%,0.2%,0.2%
+jan08.2010,US Non-Farm Employment Change,-85K,-3K,4K
+jan08.2010,US Unemployment Rate,10.0%,10.1%,10.0%
+jan12.2010,US Trade Balance,-36.4B,-34.9B,-33.2B
+jan14.2010,US Retail Sales m/m,-0.3%,0.4%,1.8%
+jan14.2010,US Natural Gas Storage,-266B,-255B,-153B
+jan15.2010,US Core CPI m/m,0.1%,0.1%,0.0%
+jan15.2010,US CPI m/m,0.1%,0.2%,0.4%
+jan15.2010,US Capacity Utilization Rate,72.0%,71.9%,71.5%
+jan15.2010,US Industrial Production m/m,0.6%,0.7%,0.6%
+jan21.2010,EZ Consumer Confidence,-16,-15,-16
+jan21.2010,US Natural Gas Storage,-245B,-214B,-266B
+jan21.2010,US Crude Oil Inventories,-0.4M,2.2M,3.7M
+jan21.2010,US Distillate Inventories,-3.3M,-0.4M,1.4M
+jan21.2010,US Gasoline Inventories,4.0M,1.8M,3.8M
+jan27.2010,US Crude Oil Inventories,-3.9M,1.4M,-0.4M
+jan27.2010,US Distillate Inventories,0.4M,-1.8M,-3.3M
+jan27.2010,US Gasoline Inventories,2.0M,0.9M,4.0M
+jan28.2010,US Natural Gas Storage,-86B,-102B,-245B
+jan29.2010,US Advance GDP q/q,5.7%,4.5%,2.2%
+feb01.2010,US ISM Manufacturing PMI,58.4,55.5,55.9
+feb03.2010,US ISM Services PMI,50.5,51.1,50.1
+feb03.2010,US Crude Oil Inventories,2.3M,0.4M,-3.9M
+feb03.2010,US Distillate Inventories,-0.9M,-1.5M,0.4M
+feb03.2010,US Gasoline Inventories,-1.3M,1.4M,2.0M
+feb04.2010,US Factory Orders m/m,1.0%,0.7%,1.0%
+feb04.2010,US Natural Gas Storage,-115B,-123B,-86B
+feb05.2010,CA Employment Change,43.0K,15.2K,-2.6K
+feb05.2010,CA Unemployment Rate,8.3%,8.5%,8.5%
+feb05.2010,US Average Hourly Earnings m/m,0.2%,0.2%,0.2%
+feb05.2010,US Non-Farm Employment Change,-20K,10K,-150K
+feb05.2010,US Unemployment Rate,9.7%,10.0%,10.0%
+feb10.2010,US Trade Balance,-40.2B,-35.8B,-36.4B
+feb12.2010,US Retail Sales m/m,0.5%,0.4%,-0.1%
+feb12.2010,US Natural Gas Storage,-191B,-176B,-115B
+feb12.2010,US Crude Oil Inventories,2.4M,1.4M,2.3M
+feb12.2010,US Distillate Inventories,2.3M,0.6M,-0.9M
+feb12.2010,US Gasoline Inventories,-0.4M,-1.5M,-1.3M
+feb17.2010,US Capacity Utilization Rate,72.6%,72.6%,71.9%
+feb17.2010,US Industrial Production m/m,0.9%,0.7%,0.7%
+feb18.2010,EZ Consumer Confidence,-17,-17,-16
+feb18.2010,US Natural Gas Storage,-190B,-185B,-191B
+feb18.2010,US Crude Oil Inventories,3.1M,1.5M,2.4M
+feb18.2010,US Distillate Inventories,-2.9M,-1.5M,2.3M
+feb18.2010,US Gasoline Inventories,1.6M,1.5M,-0.4M
+feb19.2010,US Core CPI m/m,-0.1%,0.2%,0.1%
+feb19.2010,US CPI m/m,0.2%,0.3%,0.1%
+feb24.2010,US Crude Oil Inventories,3.0M,1.8M,3.1M
+feb24.2010,US Distillate Inventories,-0.6M,-1.5M,-2.9M
+feb24.2010,US Gasoline Inventories,-0.9M,0.6M,1.6M
+feb25.2010,US Natural Gas Storage,-172B,-165B,-190B
+mar01.2010,US ISM Manufacturing PMI,56.5,57.7,58.4
+mar03.2010,US ISM Services PMI,53.0,51.0,50.5
+mar03.2010,US Crude Oil Inventories,4.1M,1.2M,3.0M
+mar03.2010,US Distillate Inventories,-0.8M,-1.0M,-0.6M
+mar03.2010,US Gasoline Inventories,0.8M,0.3M,-0.9M
+mar04.2010,US Factory Orders m/m,1.7%,1.4%,1.5%
+mar04.2010,US Natural Gas Storage,-116B,-130B,-172B
+mar05.2010,US Average Hourly Earnings m/m,0.1%,0.2%,0.2%
+mar05.2010,US Non-Farm Employment Change,-36K,-56K,-26K
+mar05.2010,US Unemployment Rate,9.7%,9.8%,9.7%
+mar10.2010,US Crude Oil Inventories,1.4M,1.9M,4.1M
+mar10.2010,US Distillate Inventories,-2.2M,-1.0M,-0.8M
+mar10.2010,US Gasoline Inventories,-3.0M,0.0M,0.8M
+mar11.2010,US Trade Balance,-37.3B,-40.9B,-39.9B
+mar11.2010,US Natural Gas Storage,-111B,-107B,-116B
+mar12.2010,CA Employment Change,20.9K,17.5K,43.0K
+mar12.2010,CA Unemployment Rate,8.2%,8.3%,8.3%
+mar12.2010,US Retail Sales m/m,0.3%,-0.1%,0.1%
+mar15.2010,US Capacity Utilization Rate,72.7%,72.7%,72.5%
+mar15.2010,US Industrial Production m/m,0.1%,0.1%,0.9%
+mar17.2010,US Crude Oil Inventories,1.0M,0.6M,1.4M
+mar17.2010,US Distillate Inventories,-1.5M,-1.4M,-2.2M
+mar17.2010,US Gasoline Inventories,-1.7M,-1.3M,-3.0M
+mar18.2010,US Core CPI m/m,0.1%,0.1%,-0.1%
+mar18.2010,US CPI m/m,0.0%,0.1%,0.2%
+mar18.2010,US Natural Gas Storage,-11B,-37B,-111B
+mar22.2010,EZ Consumer Confidence,-17,-17,-17
+mar24.2010,US Crude Oil Inventories,7.3M,1.3M,1.0M
+mar24.2010,US Distillate Inventories,-2.4M,-1.0M,-1.5M
+mar24.2010,US Gasoline Inventories,-2.7M,-1.5M,-1.7M
+mar25.2010,US Natural Gas Storage,11B,10B,-11B
+mar31.2010,US Factory Orders m/m,0.6%,0.5%,2.5%
+mar31.2010,US Crude Oil Inventories,2.9M,2.4M,7.3M
+mar31.2010,US Distillate Inventories,-1.1M,-1.4M,-2.4M
+mar31.2010,US Gasoline Inventories,0.3M,-1.9M,-2.7M
+apr01.2010,US ISM Manufacturing PMI,59.6,57.0,56.5
+apr01.2010,US Natural Gas Storage,12B,20B,11B
+apr02.2010,US Average Hourly Earnings m/m,-0.1%,0.2%,0.2%
+apr02.2010,US Non-Farm Employment Change,162K,185K,-14K
+apr02.2010,US Unemployment Rate,9.7%,9.7%,9.7%
+apr05.2010,US ISM Services PMI,55.4,54.1,53.0
+apr07.2010,US Crude Oil Inventories,2.0M,1.0M,2.9M
+apr07.2010,US Distillate Inventories,1.1M,-1.1M,-1.1M
+apr07.2010,US Gasoline Inventories,-2.5M,-1.0M,0.3M
+apr08.2010,US Natural Gas Storage,31B,29B,12B
+apr09.2010,CA Employment Change,17.9K,25.9K,20.9K
+apr09.2010,CA Unemployment Rate,8.2%,8.1%,8.2%
+apr13.2010,US Trade Balance,-39.7B,-38.5B,-37.0B
+apr14.2010,US Retail Sales m/m,1.6%,1.1%,0.5%
+apr14.2010,US Core CPI m/m,0.0%,0.1%,0.1%
+apr14.2010,US CPI m/m,0.1%,0.1%,0.0%
+apr14.2010,US Crude Oil Inventories,-2.2M,1.4M,2.0M
+apr14.2010,US Distillate Inventories,1.1M,1.0M,1.1M
+apr14.2010,US Gasoline Inventories,-1.0M,-1.0M,-2.5M
+apr15.2010,US Capacity Utilization Rate,73.2%,73.3%,73.0%
+apr15.2010,US Industrial Production m/m,0.1%,0.6%,0.3%
+apr15.2010,US Natural Gas Storage,87B,81B,31B
+apr21.2010,US Crude Oil Inventories,1.9M,0.1M,-2.2M
+apr21.2010,US Distillate Inventories,2.1M,1.0M,1.1M
+apr21.2010,US Gasoline Inventories,3.6M,0.5M,-1.0M
+apr22.2010,EZ Consumer Confidence,-15,-17,-17
+apr22.2010,US Natural Gas Storage,73B,77B,87B
+apr28.2010,US Crude Oil Inventories,1.9M,0.9M,1.9M
+apr28.2010,US Distillate Inventories,2.9M,1.5M,2.1M
+apr28.2010,US Gasoline Inventories,-1.2M,0.9M,3.6M
+apr29.2010,US Natural Gas Storage,83B,70B,73B
+apr30.2010,US Advance GDP q/q,3.2%,3.4%,5.6%
+may03.2010,US ISM Manufacturing PMI,60.4,60.0,59.6
+may04.2010,US Factory Orders m/m,1.3%,0.0%,1.3%
+may05.2010,US ISM Services PMI,55.4,56.1,55.4
+may05.2010,US Crude Oil Inventories,2.8M,0.6M,1.9M
+may05.2010,US Distillate Inventories,0.6M,2.0M,2.9M
+may05.2010,US Gasoline Inventories,1.3M,1.0M,-1.2M
+may06.2010,US Natural Gas Storage,83B,79B,83B
+may07.2010,CA Employment Change,108.7K,24.3K,17.9K
+may07.2010,CA Unemployment Rate,8.1%,8.2%,8.2%
+may07.2010,US Average Hourly Earnings m/m,0.0%,0.2%,-0.1%
+may07.2010,US Non-Farm Employment Change,290K,198K,230K
+may07.2010,US Unemployment Rate,9.9%,9.7%,9.7%
+may12.2010,US Trade Balance,-40.4B,-40.0B,-39.4B
+may12.2010,US Crude Oil Inventories,1.9M,1.0M,2.8M
+may12.2010,US Distillate Inventories,1.4M,1.2M,0.6M
+may12.2010,US Gasoline Inventories,-2.8M,0.4M,1.3M
+may13.2010,US Natural Gas Storage,94B,102B,83B
+may14.2010,US Retail Sales m/m,0.4%,0.3%,2.1%
+may14.2010,US Capacity Utilization Rate,73.7%,73.8%,73.1%
+may14.2010,US Industrial Production m/m,0.8%,0.6%,0.2%
+may19.2010,US Core CPI m/m,0.0%,0.1%,0.0%
+may19.2010,US CPI m/m,-0.1%,0.2%,0.1%
+may19.2010,US Crude Oil Inventories,0.2M,0.7M,1.9M
+may19.2010,US Distillate Inventories,-1.0M,1.0M,1.4M
+may19.2010,US Gasoline Inventories,-0.3M,-0.9M,-2.8M
+may20.2010,EZ Consumer Confidence,-18,-15,-15
+may20.2010,US Natural Gas Storage,76B,79B,94B
+may26.2010,US Crude Oil Inventories,2.4M,0.2M,0.2M
+may26.2010,US Distillate Inventories,-0.3M,0.5M,-1.0M
+may26.2010,US Gasoline Inventories,-0.2M,0.3M,-0.3M
+may27.2010,US Natural Gas Storage,104B,101B,76B
+jun01.2010,US ISM Manufacturing PMI,59.7,59.3,60.4
+jun03.2010,US Factory Orders m/m,1.2%,1.7%,1.7%
+jun03.2010,US ISM Services PMI,55.4,55.7,55.4
+jun03.2010,US Natural Gas Storage,88B,90B,104B
+jun03.2010,US Crude Oil Inventories,-1.9M,-0.4M,2.4M
+jun03.2010,US Distillate Inventories,0.4M,0.2M,-0.3M
+jun03.2010,US Gasoline Inventories,-2.6M,-0.5M,-0.2M
+jun04.2010,CA Employment Change,24.7K,16.8K,108.7K
+jun04.2010,CA Unemployment Rate,8.1%,8.1%,8.1%
+jun04.2010,US Average Hourly Earnings m/m,0.3%,0.1%,0.1%
+jun04.2010,US Non-Farm Employment Change,431K,521K,290K
+jun04.2010,US Unemployment Rate,9.7%,9.8%,9.9%
+jun09.2010,US Crude Oil Inventories,-1.8M,-1.1M,-1.9M
+jun09.2010,US Distillate Inventories,1.8M,0.5M,0.4M
+jun09.2010,US Gasoline Inventories,0.0M,-0.5M,-2.6M
+jun10.2010,US Trade Balance,-40.3B,-40.8B,-40.0B
+jun10.2010,US Natural Gas Storage,99B,91B,88B
+jun11.2010,US Retail Sales m/m,-1.2%,0.2%,0.6%
+jun16.2010,US Capacity Utilization Rate,74.7%,74.6%,73.7%
+jun16.2010,US Industrial Production m/m,1.2%,0.9%,0.7%
+jun16.2010,US Crude Oil Inventories,1.7M,-1.5M,-1.8M
+jun16.2010,US Distillate Inventories,1.8M,1.0M,1.8M
+jun16.2010,US Gasoline Inventories,-0.6M,0.0M,0.0M
+jun17.2010,US Core CPI m/m,0.1%,0.1%,0.0%
+jun17.2010,US CPI m/m,-0.2%,-0.2%,-0.1%
+jun17.2010,US Natural Gas Storage,87B,86B,99B
+jun22.2010,EZ Consumer Confidence,-17,-19,-18
+jun23.2010,US Crude Oil Inventories,2.0M,-1.2M,1.7M
+jun23.2010,US Distillate Inventories,0.3M,1.5M,1.8M
+jun23.2010,US Gasoline Inventories,-0.8M,-0.2M,-0.6M
+jun24.2010,US Natural Gas Storage,81B,80B,87B
+jun30.2010,US Crude Oil Inventories,-2.0M,-0.9M,2.0M
+jun30.2010,US Distillate Inventories,2.5M,-0.4M,0.3M
+jun30.2010,US Gasoline Inventories,0.5M,-0.2M,-0.8M
+jul01.2010,US ISM Manufacturing PMI,56.2,58.9,59.7
+jul01.2010,US Natural Gas Storage,60B,65B,81B
+jul02.2010,US Average Hourly Earnings m/m,-0.1%,0.1%,0.2%
+jul02.2010,US Non-Farm Employment Change,-125K,-106K,433K
+jul02.2010,US Unemployment Rate,9.5%,9.8%,9.7%
+jul02.2010,US Factory Orders m/m,-1.4%,-0.5%,1.0%
+jul06.2010,US ISM Services PMI,53.8,55.1,55.4
+jul08.2010,US Natural Gas Storage,78B,71B,60B
+jul08.2010,US Crude Oil Inventories,-5.0M,-1.8M,-2.0M
+jul08.2010,US Distillate Inventories,0.3M,1.6M,2.5M
+jul08.2010,US Gasoline Inventories,1.3M,0.1M,0.5M
+jul09.2010,CA Employment Change,93.2K,17.9K,24.7K
+jul09.2010,CA Unemployment Rate,7.9%,8.1%,8.1%
+jul13.2010,US Trade Balance,-42.3B,-39.3B,-40.3B
+jul14.2010,US Retail Sales m/m,-0.5%,-0.2%,-1.1%
+jul14.2010,US Crude Oil Inventories,-5.1M,-1.1M,-5.0M
+jul14.2010,US Distillate Inventories,2.9M,1.0M,0.3M
+jul14.2010,US Gasoline Inventories,1.6M,0.0M,1.3M
+jul15.2010,US Capacity Utilization Rate,74.1%,74.2%,74.1%
+jul15.2010,US Industrial Production m/m,0.1%,0.0%,1.3%
+jul15.2010,US Natural Gas Storage,78B,74B,78B
+jul16.2010,US Core CPI m/m,0.2%,0.1%,0.1%
+jul16.2010,US CPI m/m,-0.1%,0.0%,-0.2%
+jul21.2010,US Crude Oil Inventories,0.4M,-1.1M,-5.1M
+jul21.2010,US Distillate Inventories,3.9M,1.5M,2.9M
+jul21.2010,US Gasoline Inventories,1.1M,0.7M,1.6M
+jul22.2010,EZ Consumer Confidence,-14,-17,-17
+jul22.2010,US Natural Gas Storage,51B,53B,78B
+jul28.2010,US Crude Oil Inventories,7.3M,-1.4M,0.4M
+jul28.2010,US Distillate Inventories,0.9M,2.0M,3.9M
+jul28.2010,US Gasoline Inventories,0.1M,0.3M,1.1M
+jul29.2010,US Natural Gas Storage,28B,31B,51B
+jul30.2010,US Advance GDP q/q,2.4%,2.5%,2.7%
+aug02.2010,US ISM Manufacturing PMI,55.5,54.2,56.2
+aug03.2010,US Factory Orders m/m,-1.2%,-0.2%,-1.8%
+aug04.2010,US ISM Services PMI,54.3,53.2,53.8
+aug04.2010,US Crude Oil Inventories,-2.8M,-0.9M,7.3M
+aug04.2010,US Distillate Inventories,2.2M,1.0M,0.9M
+aug04.2010,US Gasoline Inventories,0.7M,-1.0M,0.1M
+aug05.2010,US Natural Gas Storage,29B,32B,28B
+aug06.2010,CA Employment Change,-9.3K,13.7K,93.2K
+aug06.2010,CA Unemployment Rate,8.0%,7.9%,7.9%
+aug06.2010,US Average Hourly Earnings m/m,0.2%,0.1%,0.0%
+aug06.2010,US Non-Farm Employment Change,-131K,-63K,-221K
+aug06.2010,US Unemployment Rate,9.5%,9.6%,9.5%
+aug11.2010,US Trade Balance,-49.9B,-42.0B,-42.0B
+aug11.2010,US Crude Oil Inventories,-3.0M,-1.9M,-2.8M
+aug11.2010,US Distillate Inventories,3.5M,1.8M,2.2M
+aug11.2010,US Gasoline Inventories,0.4M,0.3M,0.7M
+aug12.2010,US Natural Gas Storage,37B,35B,29B
+aug13.2010,US Retail Sales m/m,0.4%,0.5%,-0.3%
+aug13.2010,US Core CPI m/m,0.1%,0.1%,0.2%
+aug13.2010,US CPI m/m,0.3%,0.2%,-0.1%
+aug17.2010,US Capacity Utilization Rate,74.8%,74.6%,74.1%
+aug17.2010,US Industrial Production m/m,1.0%,0.5%,-0.1%
+aug18.2010,US Crude Oil Inventories,-0.8M,-1.1M,-3.0M
+aug18.2010,US Distillate Inventories,1.1M,1.5M,3.5M
+aug18.2010,US Gasoline Inventories,0.0M,0.4M,0.4M
+aug19.2010,US Natural Gas Storage,27B,32B,37B
+aug23.2010,EZ Consumer Confidence,-12,-13,-14
+aug25.2010,US Crude Oil Inventories,4.1M,0.1M,-0.8M
+aug25.2010,US Distillate Inventories,1.8M,1.1M,1.1M
+aug25.2010,US Gasoline Inventories,2.3M,-0.5M,0.0M
+aug26.2010,US Natural Gas Storage,40B,38B,27B
+sep01.2010,US ISM Manufacturing PMI,56.3,53.2,55.5
+sep01.2010,US Crude Oil Inventories,3.4M,1.3M,4.1M
+sep01.2010,US Distillate Inventories,-0.7M,1.1M,1.8M
+sep01.2010,US Gasoline Inventories,-0.2M,-0.2M,2.3M
+sep02.2010,US Factory Orders m/m,0.1%,0.4%,-0.6%
+sep02.2010,US Natural Gas Storage,54B,56B,40B
+sep03.2010,US Average Hourly Earnings m/m,0.3%,0.1%,0.2%
+sep03.2010,US Non-Farm Employment Change,-54K,-101K,-54K
+sep03.2010,US Unemployment Rate,9.6%,9.6%,9.5%
+sep03.2010,US ISM Services PMI,51.5,53.6,54.3
+sep09.2010,US Trade Balance,-42.8B,-47.4B,-49.8B
+sep09.2010,US Natural Gas Storage,58B,51B,54B
+sep09.2010,US Crude Oil Inventories,-1.9M,0.7M,3.4M
+sep09.2010,US Distillate Inventories,-0.4M,0.7M,-0.7M
+sep09.2010,US Gasoline Inventories,-0.2M,-1.0M,-0.2M
+sep10.2010,CA Employment Change,35.8K,30.8K,-9.3K
+sep10.2010,CA Unemployment Rate,8.1%,8.0%,8.0%
+sep14.2010,US Retail Sales m/m,0.4%,0.4%,0.3%
+sep15.2010,US Capacity Utilization Rate,74.7%,75.1%,74.6%
+sep15.2010,US Industrial Production m/m,0.2%,0.3%,0.6%
+sep15.2010,US Crude Oil Inventories,-2.5M,-2.6M,-1.9M
+sep15.2010,US Distillate Inventories,-0.3M,0.6M,-0.4M
+sep15.2010,US Gasoline Inventories,-0.7M,-0.5M,-0.2M
+sep16.2010,US Natural Gas Storage,103B,93B,58B
+sep17.2010,US Core CPI m/m,0.0%,0.1%,0.1%
+sep17.2010,US CPI m/m,0.3%,0.2%,0.3%
+sep22.2010,EZ Consumer Confidence,-11,-10,-11
+sep22.2010,US Crude Oil Inventories,1.0M,-1.5M,-2.5M
+sep22.2010,US Distillate Inventories,0.3M,0.1M,-0.3M
+sep22.2010,US Gasoline Inventories,1.6M,-0.3M,-0.7M
+sep23.2010,US Natural Gas Storage,73B,82B,103B
+sep29.2010,US Crude Oil Inventories,-0.5M,-0.4M,1.0M
+sep29.2010,US Distillate Inventories,-1.3M,0.4M,0.3M
+sep29.2010,US Gasoline Inventories,-3.5M,0.4M,1.6M
+sep30.2010,US Natural Gas Storage,74B,68B,73B
+oct01.2010,US ISM Manufacturing PMI,54.4,54.6,56.3
+oct04.2010,US Factory Orders m/m,-0.5%,-0.3%,0.5%
+oct05.2010,US ISM Services PMI,53.2,52.1,51.5
+oct06.2010,US Crude Oil Inventories,3.1M,0.5M,-0.5M
+oct06.2010,US Distillate Inventories,-1.1M,-1.0M,-1.3M
+oct06.2010,US Gasoline Inventories,-2.6M,-0.3M,-3.5M
+oct07.2010,US Natural Gas Storage,85B,78B,74B
+oct08.2010,CA Employment Change,-6.6K,10.7K,35.8K
+oct08.2010,CA Unemployment Rate,8.0%,8.1%,8.1%
+oct08.2010,US Average Hourly Earnings m/m,0.0%,0.2%,0.3%
+oct08.2010,US Non-Farm Employment Change,-95K,1K,-57K
+oct08.2010,US Unemployment Rate,9.6%,9.7%,9.6%
+oct14.2010,US Trade Balance,-46.3B,-43.5B,-42.6B
+oct14.2010,US Distillate Inventories,-0.3M,-1.1M,-1.1M
+oct14.2010,US Gasoline Inventories,-1.8M,-1.5M,-2.6M
+oct14.2010,US Natural Gas Storage,91B,88B,85B
+oct14.2010,US Crude Oil Inventories,-0.4M,1.5M,3.1M
+oct15.2010,US Retail Sales m/m,0.6%,0.5%,0.7%
+oct15.2010,US Core CPI m/m,0.0%,0.1%,0.0%
+oct15.2010,US CPI m/m,0.1%,0.2%,0.3%
+oct18.2010,US Capacity Utilization Rate,74.7%,74.8%,74.8%
+oct18.2010,US Industrial Production m/m,-0.2%,0.3%,0.2%
+oct20.2010,US Crude Oil Inventories,0.7M,1.5M,-0.4M
+oct20.2010,US Distillate Inventories,-2.2M,-1.0M,-0.3M
+oct20.2010,US Gasoline Inventories,1.2M,-1.5M,-1.8M
+oct21.2010,EZ Consumer Confidence,-11,-10,-11
+oct21.2010,US Natural Gas Storage,93B,87B,91B
+oct27.2010,US Crude Oil Inventories,5.0M,1.1M,0.7M
+oct27.2010,US Distillate Inventories,-1.6M,-1.5M,-2.2M
+oct27.2010,US Gasoline Inventories,-4.4M,0.6M,1.2M
+oct28.2010,US Natural Gas Storage,71B,72B,93B
+oct29.2010,US Advance GDP q/q,2.0%,2.1%,1.7%
+nov01.2010,US ISM Manufacturing PMI,56.9,54.2,54.4
+nov03.2010,US Factory Orders m/m,2.1%,1.3%,0.0%
+nov03.2010,US ISM Services PMI,54.3,53.5,53.2
+nov03.2010,US Crude Oil Inventories,2.0M,1.7M,5.0M
+nov03.2010,US Distillate Inventories,-3.6M,-1.1M,-1.6M
+nov03.2010,US Gasoline Inventories,-2.7M,0.0M,-4.4M
+nov04.2010,US Natural Gas Storage,67B,62B,71B
+nov05.2010,CA Employment Change,3.0K,14.3K,-6.6K
+nov05.2010,CA Unemployment Rate,7.9%,8.0%,8.0%
+nov05.2010,US Average Hourly Earnings m/m,0.2%,0.2%,0.1%
+nov05.2010,US Non-Farm Employment Change,151K,63K,-41K
+nov05.2010,US Unemployment Rate,9.6%,9.6%,9.6%
+nov10.2010,US Trade Balance,-44.0B,-45.0B,-46.5B
+nov10.2010,US Crude Oil Inventories,-3.3M,1.1M,2.0M
+nov10.2010,US Distillate Inventories,-5.0M,-2.1M,-3.6M
+nov10.2010,US Gasoline Inventories,-1.9M,-1.1M,-2.7M
+nov10.2010,US Natural Gas Storage,19B,24B,67B
+nov15.2010,US Retail Sales m/m,1.2%,0.7%,0.7%
+nov16.2010,US Capacity Utilization Rate,74.8%,74.9%,74.8%
+nov16.2010,US Industrial Production m/m,0.0%,0.4%,-0.2%
+nov17.2010,US Core CPI m/m,0.0%,0.1%,0.0%
+nov17.2010,US CPI m/m,0.2%,0.3%,0.1%
+nov17.2010,US Crude Oil Inventories,-7.3M,-0.5M,-3.3M
+nov17.2010,US Distillate Inventories,-1.1M,-2.0M,-5.0M
+nov17.2010,US Gasoline Inventories,-2.7M,-0.8M,-1.9M
+nov18.2010,US Natural Gas Storage,3B,11B,19B
+nov22.2010,EZ Consumer Confidence,-10,-10,-11
+nov24.2010,US Crude Oil Inventories,1.0M,-1.9M,-7.3M
+nov24.2010,US Distillate Inventories,-0.5M,-1.5M,-1.1M
+nov24.2010,US Gasoline Inventories,1.9M,-1.3M,-2.7M
+nov24.2010,US Natural Gas Storage,-6B,-6B,3B
+dec01.2010,US ISM Manufacturing PMI,56.6,56.4,56.9
+dec01.2010,US Crude Oil Inventories,1.1M,-0.8M,1.0M
+dec01.2010,US Distillate Inventories,-0.2M,-1.1M,-0.5M
+dec01.2010,US Gasoline Inventories,0.6M,0.3M,1.9M
+dec02.2010,US Natural Gas Storage,-23B,-26B,-6B
+dec03.2010,CA Employment Change,15.2K,20.2K,3.0K
+dec03.2010,CA Unemployment Rate,7.6%,7.9%,7.9%
+dec03.2010,US Average Hourly Earnings m/m,0.0%,0.2%,0.3%
+dec03.2010,US Non-Farm Employment Change,39K,143K,172K
+dec03.2010,US Unemployment Rate,9.8%,9.6%,9.6%
+dec03.2010,US Factory Orders m/m,-0.9%,-0.7%,3.0%
+dec03.2010,US ISM Services PMI,55.0,54.7,54.3
+dec08.2010,US Crude Oil Inventories,-3.8M,-1.3M,1.1M
+dec08.2010,US Distillate Inventories,2.2M,-0.9M,-0.2M
+dec08.2010,US Gasoline Inventories,3.8M,-0.3M,0.6M
+dec09.2010,US Natural Gas Storage,-89B,-83B,-23B
+dec10.2010,US Trade Balance,-38.7B,-43.5B,-44.6B
